@@ -22,6 +22,7 @@ def build_cross_table(
     reaches in the chart owned by *row-country*. Missing → 0.
     """
     results_df = pd.read_csv(results_file)[["Artist", "Country"]].drop_duplicates()
+    results_df["artist_lower"] = results_df["Artist"].str.lower()
     mapping = load_country_mapping()
 
     long_records = []  # will collect rows: ChartCountry, Country, Pos
@@ -31,8 +32,9 @@ def build_cross_table(
         chart_country = mapping.get(country_code, country_code)
 
         chart_df = pd.read_csv(chart_path)[["Artist", "Pos"]]
+        chart_df["artist_lower"] = chart_df["Artist"].str.lower()
         merged = (
-            chart_df.merge(results_df, on="Artist", how="inner")
+            chart_df.merge(results_df, on="artist_lower", how="inner")
             .assign(ChartCountry=chart_country)
             .loc[:, ["ChartCountry", "Country", "Pos"]]
         )
