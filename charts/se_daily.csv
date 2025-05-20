@@ -1,0 +1,201 @@
+Pos,P+,Artist and Title,Days,Pk,(x?),Streams,Streams+,7Day,7Day+,Total,Artist,Track
+1,=,KAJ - Bara Bada Bastu,87,1,(x73),299201,-92860.0,1634234,147408,22179828,KAJ,Bara Bada Bastu
+2,+3,Tommy Cash - Espresso Macchiato,6,2,(x1),238804,103725.0,569225,238804,569225,Tommy Cash,Espresso Macchiato
+3,-1,Tjuvjakt - Tusen spänn (w/ Fanny Avonne),10,1,(x4),212078,-20305.0,1568417,125435,1805113,Tjuvjakt,Tusen spänn (w/ Fanny Avonne)
+4,+12,JJ - Wasted Love,3,4,,174260,103994.0,280971,174260,280971,JJ,Wasted Love
+5,-2,Ida-Lova - Svagare än jag,37,1,(x5),147093,-31210.0,1265788,11953,4360335,Ida-Lova,Svagare än jag
+6,+5,VÆB - RÓA,5,6,,117695,28513.0,325485,117695,325485,VÆB,RÓA
+7,-3,"ADAAM - Håller Mig Själv (w/ Greekazo, ROMANOS)",24,1,(x3),115764,-25819.0,1002883,-1837,3335732,ADAAM,"Håller Mig Själv (w/ Greekazo, ROMANOS)"
+8,=,Humlan Djojj - Djurens vaggvisa (w/ Josefine Götestam),1330,1,(x1),101006,7888.0,681050,-403,84678205,Humlan Djojj,Djurens vaggvisa (w/ Josefine Götestam)
+9,-2,Alex Warren - Ordinary,101,3,(x13),92133,-13469.0,726344,-1456,8732724,Alex Warren,Ordinary
+10,-4,Niklas Strömstedt - Om,36,4,,90728,-17841.0,786263,2463,2419182,Niklas Strömstedt,Om
+11,+29,Abor & Tynna - Baller,3,11,,88451,40255.0,166099,88451,166099,Abor & Tynna,Baller
+12,+36,Lucio Corsi - Volevo essere un duro,2,12,,80708,35856.0,125560,80708,125560,Lucio Corsi,Volevo essere un duro
+13,+4,Kyle Alessandro - Lighter,5,13,,76464,6850.0,246067,76464,246067,Kyle Alessandro,Lighter
+14,-5,Søte og Rare Gutter - Bender,80,3,(x2),72802,-17158.0,583994,9743,6776784,Søte og Rare Gutter,Bender
+15,-5,Golfklubb - Ekko (w/ Olivia Lobato),10,7,,71964,-17459.0,647849,-2,888549,Golfklubb,Ekko (w/ Olivia Lobato)
+16,+5,Babblarna - Babblarnas vaggvisa,2192,1,(x1),69531,3616.0,471614,190,129064656,Babblarna,Babblarnas vaggvisa
+17,+18,Erika Vikman - ICH KOMME,3,17,,66368,15109.0,150443,66368,150443,Erika Vikman,ICH KOMME
+18,-6,Soppgirobygget - BASSIANI,37,4,,62699,-16650.0,358968,1466,3050240,Soppgirobygget,BASSIANI
+19,+109,Yuval Raphael - New Day Will Rise,2,19,,62162,35129.0,89195,62162,89195,Yuval Raphael,New Day Will Rise
+20,-5,Hov1 - Räddare i nöden,52,2,(x20),59790,-11357.0,527435,-86,5543135,Hov1,Räddare i nöden
+21,-7,Ed Sheeran - Azizam,41,6,,57248,-18634.0,470187,1236,2878762,Ed Sheeran,Azizam
+22,+3,sombr - undressed,58,11,,56083,-5052.0,481471,-660,2770225,sombr,undressed
+23,-10,Dolly Style - Yihaa,94,1,(x2),56076,-22635.0,400039,-8587,10888422,Dolly Style,Yihaa
+24,-6,Victor Leksell - Hur många mil,45,2,(x1),54421,-14648.0,439015,8065,3366450,Victor Leksell,Hur många mil
+25,+13,Humlan Djojj - Somna (w/ Josefine Götestam),978,9,,54233,5179.0,367069,241,37308115,Humlan Djojj,Somna (w/ Josefine Götestam)
+26,+18,Humlan Djojj - Stjärnorna (w/ Josefine Götestam),999,10,,52015,4819.0,353458,-436,35526407,Humlan Djojj,Stjärnorna (w/ Josefine Götestam)
+27,-7,Avicii - Let's Ride Away (w/ Elle King),3,5,,51558,-14572.0,265325,51558,265325,Avicii,Let's Ride Away (w/ Elle King)
+28,+4,Claude - C'est La Vie,5,28,,50131,-3443.0,176812,50131,176812,Claude,C'est La Vie
+29,+24,Louane - maman,2,29,,50028,6699.0,93357,50028,93357,Louane,maman
+30,-11,Bolaget - Superman (w/ HOFFMAESTRO),19,4,,49447,-18030.0,456366,-3913,1398601,Bolaget,Superman (w/ HOFFMAESTRO)
+31,-5,Tjuvjakt - Tandtråd,1236,17,,48830,-11982.0,406639,4745,29620761,Tjuvjakt,Tandtråd
+32,-8,ROSÉ - APT. (w/ Bruno Mars),213,1,(x9),48274,-13209.0,373081,-6473,17187937,ROSÉ,APT. (w/ Bruno Mars)
+33,-6,Lady Gaga - Die With A Smile (w/ Bruno Mars),276,2,(x1),47614,-10473.0,360439,-1086,21149372,Lady Gaga,Die With A Smile (w/ Bruno Mars)
+34,-6,Veronica Maggio - Välkommen in,1274,14,,47134,-10477.0,366254,2941,43804499,Veronica Maggio,Välkommen in
+35,-12,Hooja - OJOJOJ,10,4,,47088,-16426.0,436109,-37541,736517,Hooja,OJOJOJ
+36,-5,Veronica Maggio - Trädgården en fredag,758,17,,46781,-9093.0,367894,5765,26625035,Veronica Maggio,Trädgården en fredag
+37,+2,"Y4ska - Allt Ja Sagt (w/ Lekaye, ROMANOS)",3,20,,46596,-2200.0,167682,46596,167682,Y4ska,"Allt Ja Sagt (w/ Lekaye, ROMANOS)"
+38,-16,Bolaget - Kan Inte Gå,1234,1,(x28),46031,-18682.0,351612,-2327,92415875,Bolaget,Kan Inte Gå
+39,+10,Jireel - Bad Bunny,3,11,,43846,-636.0,175619,43846,175619,Jireel,Bad Bunny
+40,+49,Käärijä - Cha Cha Cha,186,1,(x8),43814,11255.0,100419,43814,13382404,Käärijä,Cha Cha Cha
+41,-5,Veronica Maggio - 17 år,1078,12,,43809,-7241.0,324010,4460,33470767,Veronica Maggio,17 år
+42,=,Norlie & KKV - Ingen annan rör mig som du,1338,4,,43279,-4732.0,323457,7478,43322216,Norlie & KKV,Ingen annan rör mig som du
+43,+142,Klavdia - Asteromata,2,43,,42926,20298.0,65554,42926,65554,Klavdia,Asteromata
+44,-15,WizTheMc - Show Me Love (w/ bees & honey),81,6,,42923,-13372.0,383425,-6589,4796758,WizTheMc,Show Me Love (w/ bees & honey)
+45,+5,sombr - back to friends,60,21,,42445,-1395.0,341739,-369,2154356,sombr,back to friends
+46,+15,Humlan Djojj - Nu säger vi godnatt (w/ Josefine Götestam),635,18,,42247,4336.0,288431,-447,20940678,Humlan Djojj,Nu säger vi godnatt (w/ Josefine Götestam)
+47,-2,Ravyn Lenae - Love Me Not,71,20,,41835,-4412.0,341936,-563,2290351,Ravyn Lenae,Love Me Not
+48,-15,Billie Eilish - BIRDS OF A FEATHER,366,4,,41777,-10437.0,350975,-6445,25827822,Billie Eilish,BIRDS OF A FEATHER
+49,-19,Teddy Swims - Bad Dreams,247,8,,41692,-14233.0,341161,-1623,13781704,Teddy Swims,Bad Dreams
+50,+13,Zoë Më - Voyage,2,50,,41637,4172.0,79102,41637,79102,Zoë Më,Voyage
+51,-17,Hov1 - Hon dansar vidare i livet,2194,1,(x21),41454,-9901.0,350576,533,88865536,Hov1,Hon dansar vidare i livet
+52,=,Gabry Ponte - Tutta L'Italia - Sanremo 2025,3,52,,39573,-4081.0,108611,39573,108611,Gabry Ponte,Tutta L'Italia - Sanremo 2025
+53,-12,Bolaget - Ikväll Igen,768,1,(x93),39215,-8944.0,285201,-2529,67999381,Bolaget,Ikväll Igen
+54,+22,Humlan Djojj - Humlehum (w/ Josefine Götestam),262,29,,38786,3659.0,266245,-27,7357217,Humlan Djojj,Humlehum (w/ Josefine Götestam)
+55,-12,Molly Sandén - Lost and found (w/ Victor Leksell),240,1,(x41),38487,-8809.0,298434,-1867,21009952,Molly Sandén,Lost and found (w/ Victor Leksell)
+56,+66,Shkodra Elektronike - Zjerm,2,56,,36697,9448.0,63946,36697,63946,Shkodra Elektronike,Zjerm
+57,+43,Ziferblat - Bird of Pray - Eurovision 2025,2,57,,36410,5997.0,66823,36410,66823,Ziferblat,Bird of Pray - Eurovision 2025
+58,+37,Humlan Djojj - Godnattvisan (w/ Josefine Götestam),592,21,,36382,5067.0,243453,-940,17751533,Humlan Djojj,Godnattvisan (w/ Josefine Götestam)
+59,+1,HAVAL - AMSTERDAM,3,25,,35834,-2185.0,138917,35834,138917,HAVAL,AMSTERDAM
+60,-9,Veronica Maggio - I min bil,79,13,,35709,-8113.0,313420,-2346,3645795,Veronica Maggio,I min bil
+61,-24,Soppgirobygget - Viva La Vida,355,2,(x13),35234,-15728.0,288197,1209,24411790,Soppgirobygget,Viva La Vida
+62,+9,Gyllene Tider - När vi två blir en,546,18,,34848,-1055.0,233126,7333,16123819,Gyllene Tider,När vi två blir en
+63,-7,Bolaget - Alla Ska Dö,61,3,(x2),34826,-6456.0,265641,4504,3554422,Bolaget,Alla Ska Dö
+64,-17,Ely Oaks - Borderline (w/ LAVINIA),15,33,,34231,-10694.0,304567,373,591569,Ely Oaks,Borderline (w/ LAVINIA)
+65,+42,Sissal - Hallucination,2,65,,33869,4277.0,63461,33869,63461,Sissal,Hallucination
+66,+14,Melody - Esa Diva,2,66,,33126,-1268.0,67520,33126,67520,Melody,Esa Diva
+67,-21,Medina - Genom Eld & Vatten,71,40,,32888,-12412.0,255740,-2010,2431403,Medina,Genom Eld & Vatten
+68,NEW,Tautumeitas - Bur man laimi,1,68,,32633,,32633,32633,32633,Tautumeitas,Bur man laimi
+69,-7,Oskar Linnros - Från och med Du,1461,21,,32322,-5178.0,254408,4694,37728423,Oskar Linnros,Från och med Du
+70,-15,Petter - Thug (w/ ADAAM),45,10,,31755,-10211.0,301594,-2052,2387802,Petter,Thug (w/ ADAAM)
+71,+107,Laura Thorn - La poupée monte le son,2,71,,31641,8648.0,54634,31641,54634,Laura Thorn,La poupée monte le son
+72,+40,Lord Huron - The Night We Met,948,19,,31376,2690.0,222182,-385,29697455,Lord Huron,The Night We Met
+73,NEW,Käärijä - #eurodab (w/ Baby Lasagna),1,73,,31132,,31132,31132,31132,Käärijä,#eurodab (w/ Baby Lasagna)
+74,NEW,Katarsis - Tavo akys,1,74,,30967,,30967,30967,30967,Katarsis,Tavo akys
+75,-8,Hov1 - Försent (w/ Seinabo Sey),301,2,(x3),30902,-5598.0,254921,-1163,15744749,Hov1,Försent (w/ Seinabo Sey)
+76,+16,NAPA - Deslocado,2,76,,30847,-1387.0,63081,30847,63081,NAPA,Deslocado
+77,+38,Vintergatan - Babblarnas vaggvisa,874,26,,30602,2663.0,203572,-646,22729008,Vintergatan,Babblarnas vaggvisa
+78,-24,Shaboozey - A Bar Song (Tipsy),401,1,(x74),30567,-11507.0,275256,-3790,38305042,Shaboozey,A Bar Song (Tipsy)
+79,-14,Miriam Bryant - Regnblöta skor,282,1,(x20),30151,-6943.0,245248,-5132,18362827,Miriam Bryant,Regnblöta skor
+80,-3,Gracie Abrams - That’s So True,212,1,(x1),29720,-5400.0,241139,-4107,14956007,Gracie Abrams,That’s So True
+81,+67,Humlan Djojj - Vila med mig (w/ Josefine Götestam),321,38,,29600,4259.0,196152,-143,7662007,Humlan Djojj,Vila med mig (w/ Josefine Götestam)
+82,+2,Benson Boone - Beautiful Things,485,3,(x6),29490,-3485.0,226122,-1969,31973631,Benson Boone,Beautiful Things
+83,+21,Go-Jo - Milkshake Man,2,83,,29455,-296.0,59206,29455,59206,Go-Jo,Milkshake Man
+84,+86,Remember Monday - What The Hell Just Happened?,2,84,,29265,5715.0,52815,29265,52815,Remember Monday,What The Hell Just Happened?
+85,-28,Albin Lee Meldau - Josefin,1461,4,,29145,-11426.0,230514,-493,63892133,Albin Lee Meldau,Josefin
+86,-20,Håkan Hellström - Det kommer aldrig va över för mig,1914,17,,29080,-7758.0,246172,-1691,42502479,Håkan Hellström,Det kommer aldrig va över för mig
+87,-17,Victor Leksell - Skriker mitt namn,122,2,(x5),28764,-7467.0,233407,1378,7181953,Victor Leksell,Skriker mitt namn
+88,-24,"24K - Med oss (w/ Asme, ROMANOS)",10,9,,28675,-8689.0,318641,-16439,513058,24K,"Med oss (w/ Asme, ROMANOS)"
+89,-30,Simon Superti - Bullerbyn är död,108,1,(x8),28594,-10057.0,240035,1174,7341065,Simon Superti,Bullerbyn är död
+90,-21,Lady Gaga - Abracadabra,105,4,,28445,-7795.0,246766,-5319,5342839,Lady Gaga,Abracadabra
+91,-33,Klara Hammarström - On and On and On,101,1,(x7),28430,-10573.0,218954,-4297,9889368,Klara Hammarström,On and On and On
+92,-20,Veronica Maggio - Jag kommer,1119,16,,28320,-7446.0,220458,-670,31102889,Veronica Maggio,Jag kommer
+93,-25,Mando Diao - Strövtåg i Hembygden,863,23,,28060,-8306.0,215707,-2816,24364821,Mando Diao,Strövtåg i Hembygden
+94,-21,Teddy Swims - Lose Control,598,14,,27994,-7638.0,235837,-3355,30200839,Teddy Swims,Lose Control
+95,-10,Miriana Conte - SERVING - Eurovision Official Version,2,85,,27076,-5884.0,60036,27076,60036,Miriana Conte,SERVING - Eurovision Official Version
+96,-18,Veronica Maggio - Hela huset (w/ Håkan Hellström),1195,30,,26889,-7779.0,238276,-2151,27983452,Veronica Maggio,Hela huset (w/ Håkan Hellström)
+97,-14,Mares - Sunnanvind,1467,2,(x1),26883,-6876.0,215277,-1048,63932289,Mares,Sunnanvind
+98,-17,Fjellrev - Birra (w/ Kudos),17,52,,26735,-7499.0,232214,5558,482594,Fjellrev,Birra (w/ Kudos)
+99,-25,23 - Det Går Snabbt,17,11,,26580,-8963.0,293771,-9017,836691,23,Det Går Snabbt
+100,-25,Lola Young - Messy,166,8,,26560,-8740.0,229889,-4612,8474347,Lola Young,Messy
+101,+34,Billie Eilish - WILDFLOWER,346,13,,26484,-126.0,202485,-1724,11671151,Billie Eilish,WILDFLOWER
+102,+28,Simon Superti - Bella Notte,3,34,,26432,-413.0,109077,26432,109077,Simon Superti,Bella Notte
+103,-13,Owen - Real Life,24,15,,26142,-6362.0,275462,-9243,1077568,Owen,Real Life
+104,-22,Hooja - Banan Melon Kiwi & Citron,909,2,(x4),25653,-8174.0,146349,-2881,48620512,Hooja,Banan Melon Kiwi & Citron
+105,-18,Sabrina Carpenter - Espresso,401,3,(x1),25514,-7115.0,202742,-1392,26427187,Sabrina Carpenter,Espresso
+106,+92,Humlan Djojj - Sömnmolnet (w/ Josefine Götestam),171,57,,25309,3654.0,142498,14,3669167,Humlan Djojj,Sömnmolnet (w/ Josefine Götestam)
+107,+6,Morgan Wallen - What I Want (w/ Tate McRae),3,32,,25242,-3375.0,112868,25242,112868,Morgan Wallen,What I Want (w/ Tate McRae)
+108,+24,The Goo Goo Dolls - Iris,412,61,,25189,-1525.0,197493,-1042,10377149,The Goo Goo Dolls,Iris
+109,-6,Hov1 - Mandy Moore,1050,10,,25031,-4832.0,202096,1405,35185519,Hov1,Mandy Moore
+110,-13,Dire Straits - Sultans Of Swing,275,58,,24845,-6012.0,199240,582,6808654,Dire Straits,Sultans Of Swing
+111,-18,"WizTheMc - Show Me Love (w/ bees & honey, Tyla)",26,23,,24800,-7140.0,254712,-9682,1065325,WizTheMc,"Show Me Love (w/ bees & honey, Tyla)"
+112,-26,Calvin Harris - Blessings (w/ Clementine Douglas),10,43,,24789,-8068.0,216952,2281,319257,Calvin Harris,Blessings (w/ Clementine Douglas)
+113,-2,Bolaget - Låt Mig Va (w/ Victor Leksell),501,1,(x10),24705,-4183.0,188702,-2329,30187221,Bolaget,Låt Mig Va (w/ Victor Leksell)
+114,-26,Thomas Stenström - Carpe Diem,10,16,,24557,-8038.0,229481,-13303,380734,Thomas Stenström,Carpe Diem
+115,+11,Kendrick Lamar - All The Stars (w/ SZA),354,4,,24512,-2694.0,197878,-1184,17339715,Kendrick Lamar,All The Stars (w/ SZA)
+116,+42,Hov1 - När jag ser dig,643,1,(x2),24470,76.0,187499,3854,25088307,Hov1,När jag ser dig
+117,-15,Myles Smith - Stargazing,356,5,,24447,-5653.0,189377,705,18497864,Myles Smith,Stargazing
+118,-39,Medina - Där palmerna bor,210,64,,24426,-10079.0,175114,-1142,5633581,Medina,Där palmerna bor
+119,-14,Medina - Miss Decibel,629,30,,24225,-5517.0,179035,2017,17895338,Medina,Miss Decibel
+120,NEW,PARG - SURVIVOR,1,120,,24117,,24117,24117,24117,PARG,SURVIVOR
+121,+36,EMMY - Laika Party,2,121,,24091,-418.0,48600,24091,48600,EMMY,Laika Party
+122,-31,Søte og Rare Gutter - Hvitt Gull (Kilroy),109,20,,24064,-8315.0,222826,-992,4161982,Søte og Rare Gutter,Hvitt Gull (Kilroy)
+123,-4,Veronica Maggio - Inga kläder,530,49,,24055,-3518.0,202197,-1407,13329441,Veronica Maggio,Inga kläder
+124,+15,Bolaget - Dum,1206,16,,24022,-2274.0,148508,-1373,34711429,Bolaget,Dum
+125,-7,Tjuvjakt - Fru Gårman,73,72,,23691,-4084.0,198077,4230,1708153,Tjuvjakt,Fru Gårman
+126,+46,Gigi Perez - Sailor Song,264,4,,23640,155.0,177828,-422,13541879,Gigi Perez,Sailor Song
+127,-28,Jack Black - Steve's Lava Chicken,32,50,,23544,-7079.0,54167,-6891,871975,Jack Black,Steve's Lava Chicken
+128,-22,23 - Don't You Cry,17,6,,23448,-6250.0,258877,-10440,853098,23,Don't You Cry
+129,-28,El Papi - Fredagsbarn,10,36,,23305,-6937.0,242367,-11336,367001,El Papi,Fredagsbarn
+130,RE,Baby Bears - Brahms Lullaby (w/ Sleep Baby Sleep),196,53,,22914,,112394,-221,4082408,Baby Bears,Brahms Lullaby (w/ Sleep Baby Sleep)
+131,+13,Miriam Bryant - tystnar i luren (w/ Victor Leksell),1066,1,(x29),22835,-2816.0,169016,1899,55727930,Miriam Bryant,tystnar i luren (w/ Victor Leksell)
+132,-1,Alex Warren - Carry You Home,317,39,,22785,-3995.0,180115,826,9223262,Alex Warren,Carry You Home
+133,-39,Bolaget - Längesen,145,1,(x14),22629,-8823.0,198578,-3100,10693840,Bolaget,Längesen
+134,+43,Justyna Steczkowska - GAJA - Eurovision Edit,2,134,,22623,-439.0,45685,22623,45685,Justyna Steczkowska,GAJA - Eurovision Edit
+135,RE,Baby Lasagna - Rim Tim Tagi Dim,48,2,(x1),22597,,22597,22597,2910822,Baby Lasagna,Rim Tim Tagi Dim
+136,-38,Teddy Swims - The Door,382,31,,22535,-8111.0,186338,-1058,11000964,Teddy Swims,The Door
+137,-27,Avicii - Wake Me Up,3038,1,(x3),22430,-6739.0,175394,1986,83999477,Avicii,Wake Me Up
+138,-42,Meira Omar - Hush Hush,108,1,(x3),22387,-8793.0,164347,-2950,8253269,Meira Omar,Hush Hush
+139,-31,Benjamin Ingrosso - Look Who's Laughing Now,333,1,(x17),22298,-6933.0,166761,2083,19652290,Benjamin Ingrosso,Look Who's Laughing Now
+140,-4,Veronica Maggio - Satan i gatan,583,55,,22275,-4269.0,182444,-1409,13707262,Veronica Maggio,Satan i gatan
+141,-24,Veronica Maggio - Måndagsbarn,322,78,,22270,-5542.0,194340,-2532,8060455,Veronica Maggio,Måndagsbarn
+142,-28,Søte og Rare Gutter - Bærum Bitches (Mannschaft),209,42,,22186,-6265.0,180536,3037,5899833,Søte og Rare Gutter,Bærum Bitches (Mannschaft)
+143,-3,Stiftelsen - Vart jag än går,627,48,,21985,-4176.0,167909,1233,13400192,Stiftelsen,Vart jag än går
+144,RE,Adamson - Blinka lilla stjärna där (w/ Vaggvisor),414,46,,21837,,105954,-356,8608042,Adamson,Blinka lilla stjärna där (w/ Vaggvisor)
+145,+9,Hov1 - Hornstullsstrand (w/ Veronica Maggio),1104,1,(x4),21559,-3036.0,188101,-2251,38658017,Hov1,Hornstullsstrand (w/ Veronica Maggio)
+146,-37,Roc Boyz - 10 Hoes,38,25,,21329,-7864.0,200668,1220,1147912,Roc Boyz,10 Hoes
+147,+20,Benson Boone - Sorry I'm Here For Someone Else,80,32,,21142,-2543.0,161424,403,2137407,Benson Boone,Sorry I'm Here For Someone Else
+148,-25,Doechii - Anxiety,75,11,,21114,-6125.0,180422,-4158,3556116,Doechii,Anxiety
+149,+3,Adel - OBAMA (w/ SH1),10,45,,21061,-3729.0,231389,-8558,344012,Adel,OBAMA (w/ SH1)
+150,-23,Journey - Don't Stop Believin' (2022 Remaster),425,37,,21042,-6144.0,170580,-2782,11980835,Journey,Don't Stop Believin' (2022 Remaster)
+151,-27,Victor Leksell - Svag,1904,1,(x104),21013,-6201.0,167810,-1776,129590968,Victor Leksell,Svag
+152,+23,Veronica Maggio - Svart sommar,62,63,,20993,-2249.0,176221,2096,1478310,Veronica Maggio,Svart sommar
+153,-3,Y4ska - Aldrig sett förut,24,15,,20738,-4356.0,183524,-1058,842844,Y4ska,Aldrig sett förut
+154,RE,Jireel - Love,37,3,(x1),20730,,160237,-315,1651848,Jireel,Love
+155,-10,Daniel Adams-Ray - Gubben i lådan,592,55,,20656,-4983.0,171564,-1240,12370019,Daniel Adams-Ray,Gubben i lådan
+156,-27,Disturbed - The Sound of Silence - CYRIL Remix (w/ CYRIL),455,26,,20565,-6343.0,163716,894,16699175,Disturbed,The Sound of Silence - CYRIL Remix (w/ CYRIL)
+157,+38,Håkan Hellström - Valborg,1011,9,,20457,-1345.0,153307,-386,21670247,Håkan Hellström,Valborg
+158,-16,Måns Zelmerlöw - Revolution,78,2,(x3),20354,-5537.0,46245,44,6567127,Måns Zelmerlöw,Revolution
+159,RE,Tjuvjakt - Tårarna i halsen,501,4,,20342,,152698,1327,27544428,Tjuvjakt,Tårarna i halsen
+160,+40,Veronica Maggio - Solen har gått ner,508,9,,20330,-1251.0,161236,-144,15278811,Veronica Maggio,Solen har gått ner
+161,-36,Timbuktu - Alla vill till himmelen men ingen vill dö,84,102,,20274,-6933.0,171226,298,2002009,Timbuktu,Alla vill till himmelen men ingen vill dö
+162,-7,The Police - Every Breath You Take,210,59,,20180,-4413.0,162001,-668,5001102,The Police,Every Breath You Take
+163,-1,"Tjuvjakt - Bara vi, bara jag, bara du (w/ estraden)",32,19,,20160,-4063.0,191252,69,832940,Tjuvjakt,"Bara vi, bara jag, bara du (w/ estraden)"
+164,-44,Post Malone - I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen),372,2,(x7),20029,-7526.0,172673,-723,22998449,Post Malone,I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen)
+165,RE,My & Mats - Nu i ro slumra in,402,58,,19955,,97580,-734,7900378,My & Mats,Nu i ro slumra in
+166,-10,"Chappell Roan - Good Luck, Babe!",371,20,,19935,-4588.0,165531,-1962,14381436,Chappell Roan,"Good Luck, Babe!"
+167,RE,Tom Odell - Another Love,1407,17,,19742,,135820,-1055,43998131,Tom Odell,Another Love
+168,-30,Myles Smith - Nice To Meet You,97,60,,19684,-6747.0,158616,493,2247743,Myles Smith,Nice To Meet You
+169,RE,"MOLIY - Shake It To The Max (FLY) - Remix (w/ Silent Addy, Skillibeng, Shenseea)",6,148,,19503,,128409,19503,128409,MOLIY,"Shake It To The Max (FLY) - Remix (w/ Silent Addy, Skillibeng, Shenseea)"
+170,-54,Saga Ludvigsson - Hate You So Much,70,7,,19479,-8377.0,47335,-2846,4511031,Saga Ludvigsson,Hate You So Much
+171,-28,Miss Li - På Måndag,217,18,,19469,-6212.0,156799,-2248,7116159,Miss Li,På Måndag
+172,-6,Benson Boone - Mystical Magical,24,32,,19303,-4529.0,164471,-1068,618459,Benson Boone,Mystical Magical
+173,-5,Chrystal - The Days - NOTION Remix (w/ NOTION),137,14,,19225,-4436.0,173118,-2507,4326150,Chrystal,The Days - NOTION Remix (w/ NOTION)
+174,-53,"Purple Disco Machine - Honey Boy (w/ Benjamin Ingrosso, Nile Rodgers, Shenseea)",372,2,(x18),19194,-8266.0,157843,-588,24726683,Purple Disco Machine,"Honey Boy (w/ Benjamin Ingrosso, Nile Rodgers, Shenseea)"
+175,-34,Veronica Maggio - Tillfälligheter,825,3,(x2),19177,-6974.0,177544,-2292,37510313,Veronica Maggio,Tillfälligheter
+176,+15,Yasin - Har Dig,804,2,(x9),19161,-2982.0,160852,286,39363437,Yasin,Har Dig
+177,-40,Ella Tiritiello - Bara du är där,83,7,,19150,-7329.0,65339,-2006,4094195,Ella Tiritiello,Bara du är där
+178,-44,SCARLET - Sweet N’ Psycho,75,2,(x1),19129,-7501.0,45759,-3256,5478256,SCARLET,Sweet N’ Psycho
+179,-6,Zach Bryan - I Remember Everything (w/ Kacey Musgraves),626,17,,19027,-4269.0,153896,-392,23734339,Zach Bryan,I Remember Everything (w/ Kacey Musgraves)
+180,RE,Bolaget - Fingrarna i halsen,689,29,,18995,,18995,18995,17831892,Bolaget,Fingrarna i halsen
+181,RE,Humlan Djojj - En ny dag (w/ Josefine Götestam),35,92,,18883,,18883,73,627778,Humlan Djojj,En ny dag (w/ Josefine Götestam)
+182,+4,Norlie & KKV - Tröjan du hatar,79,126,,18867,-3697.0,108205,18867,1505671,Norlie & KKV,Tröjan du hatar
+183,RE,Tate McRae - Revolving door,86,22,,18780,,144967,-2461,2613301,Tate McRae,Revolving door
+184,-21,Miriam Bryant - Blåmärkshårt (Mi Amor),465,32,,18727,-5379.0,131247,-3664,9973064,Miriam Bryant,Blåmärkshårt (Mi Amor)
+185,-38,Don Omar - Danza Kuduro (w/ Lucenzo),793,44,,18725,-6757.0,156197,-1413,17747084,Don Omar,Danza Kuduro (w/ Lucenzo)
+186,RE,Nemo - The Code,39,1,(x1),18714,,18714,18714,2738178,Nemo,The Code
+187,RE,Humlan Djojj - Jag kan inte sova (w/ Josefine Götestam),47,89,,18620,,18620,-604,840902,Humlan Djojj,Jag kan inte sova (w/ Josefine Götestam)
+188,RE,Veronica Maggio - Sergels torg,298,60,,18614,,138924,1195,7463453,Veronica Maggio,Sergels torg
+189,RE,Tjuvjakt - Dagen efter,3,189,,18574,,62720,18574,62720,Tjuvjakt,Dagen efter
+190,RE,Y4ska - CALMA (w/ Dizzy),351,2,(x1),18559,,59720,994,24061473,Y4ska,CALMA (w/ Dizzy)
+191,-2,Coldplay - Viva La Vida,910,6,,18541,-3887.0,147528,-2981,23966517,Coldplay,Viva La Vida
+192,-12,Dasha - Austin,439,14,,18464,-4404.0,101562,-152,21444787,Dasha,Austin
+193,-33,Sebastian Lara - KNOCKED DOWN,74,25,,18449,-5884.0,165410,-1600,2570774,Sebastian Lara,KNOCKED DOWN
+194,-10,Gyllene Tider - Sommartider,592,2,(x3),18378,-4272.0,68245,18378,18512807,Gyllene Tider,Sommartider
+195,RE,"Macklemore & Ryan Lewis - Can't Hold Us (w/ Macklemore, Ryan Lewis, Ray Dalton)",575,97,,18324,,38479,175,11998117,Macklemore & Ryan Lewis,"Can't Hold Us (w/ Macklemore, Ryan Lewis, Ray Dalton)"
+196,-14,"Nause - Tillfälligheter / Hungry Hearts - Mashup (w/ Hogland, Veronica Maggio)",191,9,,18266,-4423.0,126586,18266,8185064,Nause,"Tillfälligheter / Hungry Hearts - Mashup (w/ Hogland, Veronica Maggio)"
+197,-26,kent - Utan dina andetag,907,8,,18256,-5288.0,126309,-1303,18937319,kent,Utan dina andetag
+198,-37,Petra Marklund - Händerna mot himlen,619,12,,18252,-6052.0,108483,704,16309173,Petra Marklund,Händerna mot himlen
+199,-66,Greczula - Believe me,84,3,(x1),18080,-8574.0,44734,-2020,6026726,Greczula,Believe me
+200,-26,Medina - Que Sera,355,1,(x19),18021,-5260.0,41302,-1808,25282639,Medina,Que Sera

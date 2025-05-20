@@ -1,0 +1,201 @@
+Pos,P+,Artist and Title,Days,Pk,(x?),Streams,Streams+,7Day,7Day+,Total,Artist,Track
+1,=,Annika - Stolt (w/ Lamin),11,1,(x10),197593,-22792.0,1524830,46316,2123083,Annika,Stolt (w/ Lamin)
+2,=,Annika - Bliv her lidt endnu (w/ JOSVA),11,1,(x1),99994,-11156.0,817446,-8682,1348545,Annika,Bliv her lidt endnu (w/ JOSVA)
+3,+1,APHACA - En drøm om et menneske,10,3,(x1),95810,5350.0,567860,18836,806097,APHACA,En drøm om et menneske
+4,-1,Annika - Bar bund (w/ Gilli),11,3,(x9),89804,-9588.0,750466,-2877,1184247,Annika,Bar bund (w/ Gilli)
+5,+4,"Anton Westerlin - Handsome (w/ Benjamin Hav, JOSVA, Gilli)",3,2,(x1),76164,-1966.0,277222,76164,277222,Anton Westerlin,"Handsome (w/ Benjamin Hav, JOSVA, Gilli)"
+6,+2,Annika - Du ik værd at græde for (w/ Sira Jovina),11,6,,74943,-3705.0,570761,1272,917532,Annika,Du ik værd at græde for (w/ Sira Jovina)
+7,-1,APHACA - Et sted hvor vi de første,80,2,(x10),74107,-15427.0,619255,-2690,4823557,APHACA,Et sted hvor vi de første
+8,-3,Omar - Hele Vejen (w/ Mumle),101,1,(x37),72152,-17581.0,581472,-2592,8552206,Omar,Hele Vejen (w/ Mumle)
+9,+1,APHACA - Smelter Under Månen,272,3,(x3),68250,-8154.0,545272,-15206,10796906,APHACA,Smelter Under Månen
+10,-3,Gilli - Tilbage,17,1,(x2),67825,-19180.0,658816,-12352,1570457,Gilli,Tilbage
+11,+3,Anton Westerlin - Blodigt (w/ Annika),115,1,(x32),62087,-2951.0,410078,14805,8846723,Anton Westerlin,Blodigt (w/ Annika)
+12,=,Tobias Rahim - TÆT PÅ (w/ Delara),10,8,,61993,-8243.0,484208,-13319,687837,Tobias Rahim,TÆT PÅ (w/ Delara)
+13,-2,Gilli - Rene Hjerter,17,1,(x1),61494,-10182.0,543049,-2860,1470288,Gilli,Rene Hjerter
+14,-1,Skinz - Åboulevarden,24,10,,60573,-7388.0,492707,2127,1104844,Skinz,Åboulevarden
+15,=,Alex Warren - Ordinary,101,1,(x5),55911,-8589.0,459388,-1581,6291058,Alex Warren,Ordinary
+16,=,Lamin - Kun Os,52,1,(x4),52488,-7929.0,410199,4851,3846083,Lamin,Kun Os
+17,=,"Rune Rask - Go Masala (w/ Klamfyr, USSEL, Niklas)",17,16,,48381,-11081.0,388724,2568,762844,Rune Rask,"Go Masala (w/ Klamfyr, USSEL, Niklas)"
+18,=,Gobs - igen & igen (w/ One Two),52,1,(x6),46383,-11346.0,386638,-1486,3892864,Gobs,igen & igen (w/ One Two)
+19,+3,Mille - kendt mig en uge,59,6,,45983,-2533.0,349790,3966,2881778,Mille,kendt mig en uge
+20,+3,Annika - Lad mig lande,11,8,,43962,-4494.0,397121,-17155,717644,Annika,Lad mig lande
+21,-2,Benjamin Hav - Du ligner din mor (w/ Lukas Graham),143,1,(x19),41669,-13971.0,334205,-2208,9114485,Benjamin Hav,Du ligner din mor (w/ Lukas Graham)
+22,-1,Ed Sheeran - Azizam,41,8,,41576,-8915.0,347989,-2033,2053769,Ed Sheeran,Azizam
+23,+2,Artigeardit - Seaside,39,1,(x1),41552,-4510.0,356947,-4214,2611832,Artigeardit,Seaside
+24,-4,"Anton Westerlin - Entré (w/ Lamin, ozzy)",73,1,(x14),40766,-11448.0,338164,1402,4606052,Anton Westerlin,"Entré (w/ Lamin, ozzy)"
+25,+1,Annika - Der så meget jeg ikke fortæller,11,7,,40620,-4826.0,385813,-19056,701655,Annika,Der så meget jeg ikke fortæller
+26,+1,Annika - Brugt mine dage,11,12,,40508,-4196.0,374338,-14385,654221,Annika,Brugt mine dage
+27,+1,Annika - Luk Mig Ind,171,2,(x3),39203,-4450.0,292373,-3226,9359207,Annika,Luk Mig Ind
+28,-4,Benny Jamz - Reposado (w/ Gilli),332,2,(x19),35556,-12218.0,300786,-4122,16913604,Benny Jamz,Reposado (w/ Gilli)
+29,+23,KAJ - Bara Bada Bastu,10,29,,35523,6861.0,115435,35523,164019,KAJ,Bara Bada Bastu
+30,=,Annika - Jeg er din,11,13,,35513,-4307.0,337156,-14511,588584,Annika,Jeg er din
+31,-2,Mille - drikker med mig selv,87,5,,35116,-7823.0,270822,692,3621303,Mille,drikker med mig selv
+32,-1,Mumle - Hvor Solen Ik' Skinner (w/ Svea S),303,12,,34886,-4068.0,259541,-327,10141470,Mumle,Hvor Solen Ik' Skinner (w/ Svea S)
+33,+1,Annika - Knuser Hjerter,450,5,,33687,-3535.0,266480,-5102,17122875,Annika,Knuser Hjerter
+34,-2,Annika - Start på ny,11,14,,33211,-4454.0,316014,-15525,570884,Annika,Start på ny
+35,+1,Annika - Hva det var,11,19,,32290,-3799.0,297061,-11337,514010,Annika,Hva det var
+36,+1,Annika - Drukner i os,11,16,,31483,-3324.0,298763,-13897,529553,Annika,Drukner i os
+37,-4,"Gilli - Ryggen Mod Muren (w/ Lamin, Hans Philip)",17,3,(x1),30924,-6365.0,283516,-1491,850382,Gilli,"Ryggen Mod Muren (w/ Lamin, Hans Philip)"
+38,+4,Annika - Så længe jeg er sexy.,290,2,(x5),30029,-2877.0,222280,3916,12776251,Annika,Så længe jeg er sexy.
+39,+9,APHACA - Til Solen Er Sort,111,35,,29498,-927.0,219220,-1250,1980126,APHACA,Til Solen Er Sort
+40,+4,APHACA - Hjertet På Gaden,121,17,,29474,-2252.0,229429,-4254,3069175,APHACA,Hjertet På Gaden
+41,-1,Mille - beholder mit tøj på,17,16,,29205,-5045.0,256239,2014,669252,Mille,beholder mit tøj på
+42,-4,Lamin - Hva Du På (w/ Gilli),352,1,(x34),28841,-5689.0,244701,-5453,16921905,Lamin,Hva Du På (w/ Gilli)
+43,-8,Mumle - Det Modsatte,528,6,,28563,-7742.0,232467,-4481,16936020,Mumle,Det Modsatte
+44,+112,JJ - Wasted Love,2,44,,28268,15770.0,40766,28268,40766,JJ,Wasted Love
+45,-6,Suspekt - Tænker Ik På Andre (w/ URO),262,1,(x47),27921,-6528.0,228582,-1149,14587401,Suspekt,Tænker Ik På Andre (w/ URO)
+46,-3,Billie Eilish - BIRDS OF A FEATHER,366,7,,27214,-4949.0,224833,-2841,16493525,Billie Eilish,BIRDS OF A FEATHER
+47,-6,JOSVA - Lonely (w/ Artigeardit),136,1,(x4),27046,-5870.0,227815,-652,6616560,JOSVA,Lonely (w/ Artigeardit)
+48,-2,"Artigeardit - Baddie (w/ Tobias Rahim, JOSVA)",24,4,,25992,-5458.0,224419,-1625,955306,Artigeardit,"Baddie (w/ Tobias Rahim, JOSVA)"
+49,-2,Christopher - Hvor Var Jeg Endt (w/ Thor Farlov),45,3,(x1),25580,-5388.0,216086,-1865,2075897,Christopher,Hvor Var Jeg Endt (w/ Thor Farlov)
+50,+69,Tommy Cash - Espresso Macchiato,2,50,,25180,10557.0,39803,25180,39803,Tommy Cash,Espresso Macchiato
+51,-6,Sissal - Hallucination,10,22,,25157,-6388.0,99372,25157,205672,Sissal,Hallucination
+52,-2,WizTheMc - Show Me Love (w/ bees & honey),71,19,,24855,-4812.0,214182,-3357,1843550,WizTheMc,Show Me Love (w/ bees & honey)
+53,+2,APHACA - Klip Klap Sandaler,127,44,,24699,-3030.0,185383,-154,2036710,APHACA,Klip Klap Sandaler
+54,-1,Marstein - SAMMEN (w/ Annika),206,1,(x37),24457,-3648.0,187544,1165,12171179,Marstein,SAMMEN (w/ Annika)
+55,-1,Annika - Vis mig,11,25,,24379,-3662.0,237443,-11946,419890,Annika,Vis mig
+56,-7,Mumle - Dårligt Match,17,22,,24079,-6248.0,215604,3199,515104,Mumle,Dårligt Match
+57,+9,Dos Santos - Urørlig (w/ Karoline Mousing),3,57,,23414,1728.0,74302,23414,74302,Dos Santos,Urørlig (w/ Karoline Mousing)
+58,-7,Lamin - De Her Timer,364,2,(x4),23025,-6275.0,183131,2068,12966704,Lamin,De Her Timer
+59,+110,Abor & Tynna - Baller,2,59,,22830,10823.0,34837,22830,34837,Abor & Tynna,Baller
+60,+5,Albert Heath - Horsens (w/ Sofie1998),3,57,,22236,402.0,73851,22236,73851,Albert Heath,Horsens (w/ Sofie1998)
+61,-2,Lord Siva - California Dreamin',52,8,,21691,-4043.0,171087,-793,2042625,Lord Siva,California Dreamin'
+62,-6,"Ankerstjerne - Børn Af Natten (Hola Bonita) (w/ Daniel Schulz, Panamah)",405,1,(x4),21276,-6156.0,160723,2973,20079124,Ankerstjerne,"Børn Af Natten (Hola Bonita) (w/ Daniel Schulz, Panamah)"
+63,-2,Blæst - Vi ku' gå hele vejen,52,15,,21221,-2374.0,166317,3065,1558563,Blæst,Vi ku' gå hele vejen
+64,+27,Annika - Tilbage,151,34,,20891,3195.0,148011,-224,2492554,Annika,Tilbage
+65,-7,Benjamin Hav - Første Dag (w/ Ella Augusta),568,3,(x1),20683,-5374.0,181882,-6065,14373339,Benjamin Hav,Første Dag (w/ Ella Augusta)
+66,-2,Ella Augusta - Baglæns,397,18,,20288,-1913.0,147570,2746,7857304,Ella Augusta,Baglæns
+67,-5,Gilli - 555 (w/ KESI),561,1,(x59),19438,-4029.0,154419,-809,23374052,Gilli,555 (w/ KESI)
+68,-8,Lola Young - Messy,168,6,,19429,-4396.0,167056,-4204,6339328,Lola Young,Messy
+69,-12,Blæst - Elsker Dig Så Meget,324,16,,18870,-8190.0,161888,-6523,8318391,Blæst,Elsker Dig Så Meget
+70,+1,Gracie Abrams - That’s So True,208,5,,18599,-2239.0,147445,-2031,7789961,Gracie Abrams,That’s So True
+71,-8,Annika - Det jo bare et kram (interlude),11,21,,18435,-4628.0,200743,-14883,378979,Annika,Det jo bare et kram (interlude)
+72,-3,Lady Gaga - Die With A Smile (w/ Bruno Mars),276,3,(x1),18123,-3009.0,143433,-1408,12710375,Lady Gaga,Die With A Smile (w/ Bruno Mars)
+73,-6,ROSÉ - APT. (w/ Bruno Mars),213,5,,17963,-3667.0,136715,-1601,7701203,ROSÉ,APT. (w/ Bruno Mars)
+74,+15,sombr - undressed,56,56,,17912,140.0,143358,187,935760,sombr,undressed
+75,+18,Artigeardit - vi ku' blive (w/ Lamin),667,4,,17469,25.0,130667,66,16168149,Artigeardit,vi ku' blive (w/ Lamin)
+76,-4,KESI - Blå Himmel (w/ Hans Philip),1650,1,(x21),17386,-3281.0,142514,491,36865902,KESI,Blå Himmel (w/ Hans Philip)
+77,+29,Kundo - Hvem Har Stedet,52,5,,17185,1741.0,111574,3096,1874901,Kundo,Hvem Har Stedet
+78,+7,URO - Føles Godt (w/ Mekdes),828,11,,16868,-1623.0,130260,637,20298695,URO,Føles Godt (w/ Mekdes)
+79,-11,Berg - Koldblodet Killer,101,5,,16838,-4457.0,140759,-1215,3463920,Berg,Koldblodet Killer
+80,RE,Pil - Pæn,2,80,,16742,,36207,16742,36207,Pil,Pæn
+81,-7,D1MA - CLEOPATRA,233,4,,16708,-3373.0,137939,2651,7144468,D1MA,CLEOPATRA
+82,-2,Christopher - Orbit,17,20,,16687,-2544.0,148364,-2599,456645,Christopher,Orbit
+83,+7,"Artigeardit - Er Her (Artigeardit, KESI) (w/ KESI)",1364,1,(x18),16502,-1212.0,142927,705,34565009,Artigeardit,"Er Her (Artigeardit, KESI) (w/ KESI)"
+84,+10,Annika - Hun,373,16,,16365,-1029.0,139834,-6848,8705629,Annika,Hun
+85,-2,Gilli - Knokler Hårdt,867,28,,16107,-2673.0,132758,1370,9979560,Gilli,Knokler Hårdt
+86,+13,Nik & Jay - Mod Solnedgangen,259,52,,16078,-199.0,111892,3816,2864487,Nik & Jay,Mod Solnedgangen
+87,+81,"Ankerstjerne - Dooh (w/ Daniel Schulz, Sigvardt, Barcode Brothers)",3,76,,15963,3899.0,50658,15963,50658,Ankerstjerne,"Dooh (w/ Daniel Schulz, Sigvardt, Barcode Brothers)"
+88,+10,Ravyn Lenae - Love Me Not,54,54,,15914,-525.0,122973,-324,800912,Ravyn Lenae,Love Me Not
+89,-10,Teddy Swims - Bad Dreams,247,23,,15578,-3799.0,129344,288,5411859,Teddy Swims,Bad Dreams
+90,-8,D1MA - I KNOW,691,1,(x13),15546,-3585.0,130076,161,26315010,D1MA,I KNOW
+91,-10,Tobias Rahim - STOR MAND (w/ andreas odbjerg),1340,1,(x107),15451,-3681.0,121597,-3166,57683110,Tobias Rahim,STOR MAND (w/ andreas odbjerg)
+92,+5,Artigeardit - Sent (w/ Lamin),472,1,(x7),15447,-1230.0,117120,2404,13198240,Artigeardit,Sent (w/ Lamin)
+93,-18,"Artigeardit - Til Stede (w/ MAS, Lamin)",24,5,,15294,-4329.0,169765,-8741,928758,Artigeardit,"Til Stede (w/ MAS, Lamin)"
+94,-18,Tobias Rahim - Regntid (w/ Kabusa Oriental Choir),101,9,,15086,-4435.0,134565,-1177,2839410,Tobias Rahim,Regntid (w/ Kabusa Oriental Choir)
+95,+8,Tobias Rahim - Bellevue (w/ D1MA),446,1,(x61),15085,-863.0,117222,-2699,19674145,Tobias Rahim,Bellevue (w/ D1MA)
+96,-26,KALASET - Tag Mig Som Jeg Er,130,47,,15044,-5879.0,129701,-470,1978477,KALASET,Tag Mig Som Jeg Er
+97,-20,The Minds Of 99 - Under Din Sne,1269,2,(x7),15018,-4376.0,121918,-1351,30505449,The Minds Of 99,Under Din Sne
+98,-25,Ida Laurberg - Jeg Ka' Rigtig Godt Li' Dig (w/ andreas odbjerg),693,2,(x12),14866,-5345.0,122835,-1655,20382458,Ida Laurberg,Jeg Ka' Rigtig Godt Li' Dig (w/ andreas odbjerg)
+99,+1,APHACA - Hvornår Kommer Du Hjem (w/ Bette),49,87,,14730,-1478.0,109794,1426,653780,APHACA,Hvornår Kommer Du Hjem (w/ Bette)
+100,-13,Lamin - Tro På Det (w/ Ukendt Kunstner),242,1,(x4),14659,-3166.0,135210,-3280,10958485,Lamin,Tro På Det (w/ Ukendt Kunstner)
+101,+41,Kyle Alessandro - Lighter,2,101,,14632,1650.0,27614,14632,27614,Kyle Alessandro,Lighter
+102,-24,KESI - To Gange (w/ Lamin),284,1,(x24),14626,-4760.0,135054,-540,11359820,KESI,To Gange (w/ Lamin)
+103,-19,Zuloo - KNÆ OG TÅ,24,16,,14576,-3997.0,136355,-3803,659244,Zuloo,KNÆ OG TÅ
+104,+21,Billie Eilish - WILDFLOWER,363,26,,14199,54.0,107148,-429,6585894,Billie Eilish,WILDFLOWER
+105,+2,Kundo - 02:34,31,20,,14012,-1404.0,126475,-2462,870597,Kundo,02:34
+106,+49,VÆB - RÓA,2,106,,13995,1495.0,26495,13995,26495,VÆB,RÓA
+107,-15,Sabrina Carpenter - Espresso,401,2,(x3),13985,-3527.0,112782,-1203,15577220,Sabrina Carpenter,Espresso
+108,+1,Benson Boone - Beautiful Things,484,3,(x12),13970,-1328.0,105777,421,15368747,Benson Boone,Beautiful Things
+109,+57,Anton Westerlin - Chanel Freestyle (w/ Lamin),369,1,(x16),13921,1699.0,87945,3379,11616563,Anton Westerlin,Chanel Freestyle (w/ Lamin)
+110,-6,Gilli - Skarpt Lys,586,1,(x28),13881,-2004.0,118896,-2268,18387006,Gilli,Skarpt Lys
+111,NEW,Lucio Corsi - Volevo essere un duro,1,111,,13828,,13828,13828,13828,Lucio Corsi,Volevo essere un duro
+112,-11,Thor Farlov - Alt Det (w/ Noah Carter),466,1,(x12),13781,-2361.0,110854,-4867,17931831,Thor Farlov,Alt Det (w/ Noah Carter)
+113,+9,Kendrick Lamar - All The Stars (w/ SZA),601,6,,13736,-806.0,110465,-1755,11193200,Kendrick Lamar,All The Stars (w/ SZA)
+114,-26,Gilli - Hvad Vi Har Set,17,4,,13720,-4101.0,157083,-10045,614320,Gilli,Hvad Vi Har Set
+115,-19,"Ankerstjerne - Os To (w/ Daniel Schulz, Sigvardt)",50,43,,13601,-3258.0,107414,3171,846803,Ankerstjerne,"Os To (w/ Daniel Schulz, Sigvardt)"
+116,-21,URO - Godthåbsvej,537,21,,13542,-3409.0,110054,-204,11225034,URO,Godthåbsvej
+117,+1,APHACA - Mig Og Min Mund,44,85,,13113,-1516.0,101570,-524,561417,APHACA,Mig Og Min Mund
+118,-13,Gobs - når verden vælter,94,2,(x5),13051,-2717.0,112813,-727,2760570,Gobs,når verden vælter
+119,-17,Teddy Swims - Lose Control,520,7,,13039,-2998.0,107065,18,16454461,Teddy Swims,Lose Control
+120,-34,Tobias Rahim - Dark Room (w/ ICEKIID),359,1,(x24),13017,-4845.0,121957,-2629,15486189,Tobias Rahim,Dark Room (w/ ICEKIID)
+121,+22,D1MA - MOONLIGHT,783,1,(x17),12838,-118.0,98952,-3386,24839744,D1MA,MOONLIGHT
+122,+7,Benny Jamz - Chicagenhagen (w/ Gilli),330,8,,12790,-812.0,106619,-619,7454911,Benny Jamz,Chicagenhagen (w/ Gilli)
+123,+42,sombr - back to friends,51,79,,12698,441.0,96336,468,675545,sombr,back to friends
+124,+39,Rasmus Seebach - Under Stjernerne På Himlen,1421,76,,12629,359.0,36284,86,13513319,Rasmus Seebach,Under Stjernerne På Himlen
+125,-11,Doechii - Anxiety,75,6,,12516,-2257.0,105642,-1632,2062978,Doechii,Anxiety
+126,-16,"Rune Rask - København (w/ TOOMANYLEFTHANDS, Suspekt, Benjamin Hav)",339,2,(x10),12444,-2749.0,96083,971,11013385,Rune Rask,"København (w/ TOOMANYLEFTHANDS, Suspekt, Benjamin Hav)"
+127,-6,Shaboozey - A Bar Song (Tipsy),395,6,,12016,-2538.0,100046,-512,12201011,Shaboozey,A Bar Song (Tipsy)
+128,-12,Post Malone - I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen),369,3,(x3),12009,-2671.0,102614,-1199,10600464,Post Malone,I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen)
+129,-5,Gobs - Tak For Sidst,709,1,(x88),11922,-2496.0,95587,-583,30167685,Gobs,Tak For Sidst
+130,-7,ozzy - Lad Dig Gå (w/ Thor Farlov),31,10,,11896,-2600.0,123852,-5383,836017,ozzy,Lad Dig Gå (w/ Thor Farlov)
+131,-23,Malte Ebert - Er det mig du elsker?,101,47,,11826,-3580.0,101781,194,1460563,Malte Ebert,Er det mig du elsker?
+132,-15,Benny Jamz - Pilot,67,4,,11788,-2891.0,99801,-718,1565286,Benny Jamz,Pilot
+133,+3,KESI - Følelsen,721,2,(x9),11787,-1518.0,94742,1381,14364480,KESI,Følelsen
+134,+20,Alex Warren - Carry You Home,277,48,,11726,-824.0,89015,2063,3664873,Alex Warren,Carry You Home
+135,+42,"Artigeardit - Æteren (w/ Vera, MØ)",24,8,,11709,-113.0,103677,-1095,663671,Artigeardit,"Æteren (w/ Vera, MØ)"
+136,-5,andreas odbjerg - Surprise Party,45,38,,11704,-1826.0,96316,-368,897154,andreas odbjerg,Surprise Party
+137,+52,APHACA - En Som Dig,18,137,,11649,362.0,84600,1442,203529,APHACA,En Som Dig
+138,NEW,Erika Vikman - ICH KOMME,1,138,,11602,,11602,11602,11602,Erika Vikman,ICH KOMME
+139,-9,Gilli - Kender Ik' I Morgen,1117,1,(x7),11581,-2009.0,97044,-979,26873293,Gilli,Kender Ik' I Morgen
+140,-25,Rocazino - All My Love,2088,14,,11554,-3139.0,91072,-2408,26399559,Rocazino,All My Love
+141,+7,Jimilian - Mercedes,3,70,,11523,-1333.0,48912,11523,48912,Jimilian,Mercedes
+142,-22,Berg - Kælling,38,19,,11480,-3106.0,99322,-1220,758969,Berg,Kælling
+143,RE,Lord Huron - The Night We Met,563,57,,11387,,45474,1668,7687278,Lord Huron,The Night We Met
+144,+42,Ukendt Kunstner - Uden Dig,728,1,(x24),11369,10.0,91810,-1348,25751745,Ukendt Kunstner,Uden Dig
+145,-33,Artigeardit - Vågen (Artigeardit X Lamin) (w/ Lamin),955,7,,11281,-3524.0,98307,-587,22000444,Artigeardit,Vågen (Artigeardit X Lamin) (w/ Lamin)
+146,+4,Anton Westerlin - 2 Stepper Freestyle (w/ Benny Jamz),139,2,(x1),11202,-1608.0,89176,11202,3491245,Anton Westerlin,2 Stepper Freestyle (w/ Benny Jamz)
+147,-3,Nik & Jay - Novembervej,427,59,,11154,-1767.0,73694,-175,4552944,Nik & Jay,Novembervej
+148,-16,ozzy - Samme side,240,46,,11151,-2318.0,90140,957,3534518,ozzy,Samme side
+149,+26,D1MA - En Sammen,158,5,,11067,-813.0,58071,389,3091230,D1MA,En Sammen
+150,-11,Benson Boone - Mystical Magical,24,73,,11062,-2151.0,98429,-1117,346132,Benson Boone,Mystical Magical
+151,+7,The Minds Of 99 - Hurtige Hænder - Acoustic Version - Moyo Live P3,2202,16,,11025,-1438.0,71155,1156,27434780,The Minds Of 99,Hurtige Hænder - Acoustic Version - Moyo Live P3
+152,-11,Ed Sheeran - Old Phone,17,45,,11017,-2146.0,100232,-2758,296458,Ed Sheeran,Old Phone
+153,-13,Sabrina Carpenter - Busy Woman,94,17,,10999,-2184.0,95480,-1640,1829426,Sabrina Carpenter,Busy Woman
+154,-26,Dos Santos - Dopamin,446,20,,10996,-2894.0,64228,10996,8835895,Dos Santos,Dopamin
+155,-42,Merro8 - NALE,31,31,,10926,-3870.0,108856,-2502,597778,Merro8,NALE
+156,+4,Myles Smith - Stargazing,365,16,,10905,-1509.0,83001,1302,9397201,Myles Smith,Stargazing
+157,-5,Mumle - Fra Jylland til København,172,34,,10896,-1817.0,92471,-2084,2336749,Mumle,Fra Jylland til København
+158,-32,"Gilli - Rica (w/ KESI, Sivas)",689,1,(x22),10890,-3061.0,99076,469,19677461,Gilli,"Rica (w/ KESI, Sivas)"
+159,+3,Tate McRae - Sports car,115,17,,10858,-1420.0,94330,-831,2638831,Tate McRae,Sports car
+160,+7,KESI - Vågn Op (w/ Don Stefano),242,3,(x1),10819,-1330.0,84777,1340,5085999,KESI,Vågn Op (w/ Don Stefano)
+161,+3,"WizTheMc - Show Me Love (w/ bees & honey, Tyla)",23,77,,10815,-1447.0,103620,-3683,353201,WizTheMc,"Show Me Love (w/ bees & honey, Tyla)"
+162,+16,"Lamin - Gode Dage, Gode Drinks",908,2,(x1),10800,-975.0,90203,219,23838691,Lamin,"Gode Dage, Gode Drinks"
+163,+32,Frank Ocean - Lost,1160,26,,10705,-420.0,71444,-728,14118999,Frank Ocean,Lost
+164,+7,Skinz - Jeg Har En Pige,704,6,,10694,-1248.0,50182,10694,15494445,Skinz,Jeg Har En Pige
+165,-54,ozzy - Alt Jeg Ved,109,85,,10645,-4344.0,95416,-892,1331829,ozzy,Alt Jeg Ved
+166,-15,Tobias Rahim - Flyvende Faduma,909,1,(x40),10644,-2129.0,64509,-2860,28395927,Tobias Rahim,Flyvende Faduma
+167,-21,Zuloo - SIKKE EN TYPE (w/ Lamin),108,1,(x1),10560,-2305.0,92273,-1675,3696086,Zuloo,SIKKE EN TYPE (w/ Lamin)
+168,RE,andreas odbjerg - hvad skal verden med sådan en som mig?,607,15,,10552,,10552,10552,9988275,andreas odbjerg,hvad skal verden med sådan en som mig?
+169,+10,Noah Carter - Har Hørt Dig,219,3,(x13),10506,-1264.0,94398,-513,5952082,Noah Carter,Har Hørt Dig
+170,+4,"Chappell Roan - Good Luck, Babe!",344,34,,10467,-1421.0,83948,-822,6679643,Chappell Roan,"Good Luck, Babe!"
+171,-37,TV-2 - De Første Kærester På Månen,61,91,,10445,-2938.0,37190,10445,724848,TV-2,De Første Kærester På Månen
+172,-39,Nik & Jay - Hot!,577,34,,10345,-3038.0,36777,10345,7106531,Nik & Jay,Hot!
+173,-26,Gobs - Alt Ved Dig,372,1,(x12),10290,-2567.0,85122,101,12353603,Gobs,Alt Ved Dig
+174,-13,Burhan G - Jeg Vil Ha' Dig For Mig Selv,102,118,,10254,-2073.0,37734,261,939839,Burhan G,Jeg Vil Ha' Dig For Mig Selv
+175,RE,Malte Ebert - Mindst Ondt (w/ Svea S),294,24,,10164,,10164,458,4689183,Malte Ebert,Mindst Ondt (w/ Svea S)
+176,+8,Pil - Omvendt (w/ andreas odbjerg),646,43,,10148,-1392.0,48645,10148,9232810,Pil,Omvendt (w/ andreas odbjerg)
+177,RE,Annika - Nye Tider,208,33,,10147,,45680,-2856,3151433,Annika,Nye Tider
+178,RE,Tate McRae - Revolving door,85,30,,10139,,61329,-338,1552001,Tate McRae,Revolving door
+179,-3,Sabrina Carpenter - Taste,267,7,,10078,-1778.0,70916,-1761,7457167,Sabrina Carpenter,Taste
+180,NEW,Yuval Raphael - New Day Will Rise,1,180,,10060,,10060,10060,10060,Yuval Raphael,New Day Will Rise
+181,RE,Gigi Perez - Sailor Song,240,18,,10029,,21032,226,4416488,Gigi Perez,Sailor Song
+182,-44,Rasmus Seebach - Falder,206,15,,9997,-3294.0,55779,-190,2172173,Rasmus Seebach,Falder
+183,+10,OneRepublic - Counting Stars,378,84,,9980,-1174.0,67040,-882,2811317,OneRepublic,Counting Stars
+184,RE,Ukendt Kunstner - Gennem Byen,383,54,,9978,,42725,41,4061871,Ukendt Kunstner,Gennem Byen
+185,-2,TopGunn - Kongens Have,807,6,,9952,-1637.0,67943,219,9014343,TopGunn,Kongens Have
+186,-59,Benny Jamz - Booty Up (w/ Gilli),331,5,,9890,-4027.0,98914,-1646,9687767,Benny Jamz,Booty Up (w/ Gilli)
+187,+11,Tempo - Lyst Til At Hop' (w/ MGP),75,1,(x1),9871,-1153.0,20895,-558,1756129,Tempo,Lyst Til At Hop' (w/ MGP)
+188,RE,Larry - BIPOLAR,2,136,,9817,,25659,9817,25659,Larry,BIPOLAR
+189,+2,KESI - Tilbage (w/ Hennedub),508,1,(x3),9789,-1462.0,84612,-369,12008009,KESI,Tilbage (w/ Hennedub)
+190,-37,Gilli - Bind For Øjnene,17,9,,9782,-2810.0,109379,-5798,486220,Gilli,Bind For Øjnene
+191,-56,Calvin Harris - Blessings (w/ Clementine Douglas),10,73,,9776,-3538.0,95721,-292,142624,Calvin Harris,Blessings (w/ Clementine Douglas)
+192,-33,URO - Min Bror,213,20,,9723,-2731.0,57348,-786,3613978,URO,Min Bror
+193,RE,Lamin - Hvad Skal Der Ske (w/ ICEKIID),585,5,,9707,,57653,9707,13212538,Lamin,Hvad Skal Der Ske (w/ ICEKIID)
+194,NEW,APHACA - Våde Øjne,1,194,,9699,,9699,9699,9699,APHACA,Våde Øjne
+195,-38,Malte Ebert - Fortæl Mig Hvis Du Vil Noget Andet,220,42,,9658,-2814.0,69488,169,2940361,Malte Ebert,Fortæl Mig Hvis Du Vil Noget Andet
+196,+3,Noah Carter - winwin,280,7,,9647,-1305.0,57058,9647,4315514,Noah Carter,winwin
+197,RE,Jung - Hvis Jeg Kunne Kode Dig,2,183,,9644,,23207,9644,23207,Jung,Hvis Jeg Kunne Kode Dig
+198,RE,Billie Eilish - when the party's over,734,10,,9644,,31944,9644,11681389,Billie Eilish,when the party's over
+199,-50,Thor Farlov - Noget Si'r Mig (w/ Kundo),232,5,,9626,-3212.0,75459,-2552,5922665,Thor Farlov,Noget Si'r Mig (w/ Kundo)
+200,NEW,Claude - C'est La Vie,1,200,,9484,,9484,9484,9484,Claude,C'est La Vie

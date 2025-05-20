@@ -1,0 +1,79 @@
+Pos,P+,Artist and Title,Days,Pk,(x?),Streams,Streams+,7Day,7Day+,Total,Artist,Track
+1,=,Mariah Carey - All I Want for Christmas Is You,22,1,(x9),4306,-789.0,16483,-1590,51652,Mariah Carey,All I Want for Christmas Is You
+2,=,Wham! - Last Christmas,13,2,(x5),3878,-711.0,14688,-1403,35724,Wham!,Last Christmas
+3,+1,Andy Williams - It's the Most Wonderful Time of the Year,11,3,(x1),3668,-169.0,13195,-595,27883,Andy Williams,It's the Most Wonderful Time of the Year
+4,+1,Brenda Lee - Rockin' Around The Christmas Tree,10,2,(x1),3568,-232.0,13341,-992,26988,Brenda Lee,Rockin' Around The Christmas Tree
+5,+1,Bobby Helms - Jingle Bell Rock,11,3,(x2),3393,-251.0,12840,-1176,27658,Bobby Helms,Jingle Bell Rock
+6,+1,Michael Bublé - It's Beginning to Look a Lot Like Christmas,13,1,(x2),3234,-386.0,12385,-1287,30745,Michael Bublé,It's Beginning to Look a Lot Like Christmas
+7,+1,José Feliciano - Feliz Navidad,9,7,,3107,-144.0,10083,768,17150,José Feliciano,Feliz Navidad
+8,+1,Frank Sinatra - Let It Snow! Let It Snow! Let It Snow! (w/ B. Swanson Quartet),10,5,,3075,-125.0,10548,159,21066,Frank Sinatra,Let It Snow! Let It Snow! Let It Snow! (w/ B. Swanson Quartet)
+9,-6,Tones And I - Dance Monkey,3,1,(x1),2956,-1127.0,11369,2956,11369,Tones And I,Dance Monkey
+10,+1,Michael Bublé - Holly Jolly Christmas,8,10,,2935,-170.0,9711,332,16279,Michael Bublé,Holly Jolly Christmas
+11,+1,Band Aid - Do They Know It's Christmas? - 1984 Version,9,7,,2730,-229.0,10736,-984,21602,Band Aid,Do They Know It's Christmas? - 1984 Version
+12,-2,Ariana Grande - Santa Tell Me,9,6,,2647,-522.0,10784,-1678,22883,Ariana Grande,Santa Tell Me
+13,=,"John Lennon - Happy Xmas (War Is Over) - Remastered (w/ The Harlem Community Choir, The Plastic Ono Band, Yoko Ono)",8,10,,2636,-135.0,9431,-509,17480,John Lennon,"Happy Xmas (War Is Over) - Remastered (w/ The Harlem Community Choir, The Plastic Ono Band, Yoko Ono)"
+14,+2,"Perry Como - It's Beginning to Look a Lot Like Christmas (w/ The Fontane Sisters, Mitchell Ayres & His Orchestra)",9,14,,2535,22.0,8699,107,15859,Perry Como,"It's Beginning to Look a Lot Like Christmas (w/ The Fontane Sisters, Mitchell Ayres & His Orchestra)"
+15,+5,Nat King Cole - The Christmas Song (Merry Christmas To You),7,15,,2402,55.0,8240,51,13101,Nat King Cole,The Christmas Song (Merry Christmas To You)
+16,+2,Darlene Love - Christmas (Baby Please Come Home),5,16,,2387,-40.0,7323,1037,8673,Darlene Love,Christmas (Baby Please Come Home)
+17,-2,Kelly Clarkson - Underneath the Tree,7,15,,2299,-397.0,8417,-273,13603,Kelly Clarkson,Underneath the Tree
+18,+6,Burl Ives - A Holly Jolly Christmas - Single Version,8,13,,2287,46.0,8093,-173,14175,Burl Ives,A Holly Jolly Christmas - Single Version
+19,-2,Paul McCartney - Wonderful Christmastime [Edited Version] - Remastered 2011 / Edited Version,8,9,,2285,-142.0,9018,-1150,17414,Paul McCartney,Wonderful Christmastime [Edited Version] - Remastered 2011 / Edited Version
+20,+3,"Bing Crosby - White Christmas (w/ Ken Darby Singers, John Scott Trotter & His Orchestra)",10,12,,2269,-13.0,8241,-303,16818,Bing Crosby,"White Christmas (w/ Ken Darby Singers, John Scott Trotter & His Orchestra)"
+21,-2,Justin Bieber - Mistletoe,8,13,,2051,-338.0,7883,-714,14879,Justin Bieber,Mistletoe
+22,+5,Michael Bublé - Santa Claus Is Coming to Town,8,15,,2010,-92.0,7515,-608,13871,Michael Bublé,Santa Claus Is Coming to Town
+23,-2,Shakin' Stevens - Merry Christmas Everyone,5,10,,1994,-337.0,5416,1994,7667,Shakin' Stevens,Merry Christmas Everyone
+24,+10,Elvis Presley - Blue Christmas,6,9,,1947,18.0,5683,323,9697,Elvis Presley,Blue Christmas
+25,+5,Dean Martin - Let It Snow! Let It Snow! Let It Snow!,7,11,,1885,-173.0,6384,-1076,13417,Dean Martin,Let It Snow! Let It Snow! Let It Snow!
+26,+2,The Ronettes - Sleigh Ride,7,14,,1837,-237.0,6257,-893,12844,The Ronettes,Sleigh Ride
+27,+6,Daryl Hall & John Oates - Jingle Bell Rock - Daryl's Version,6,27,,1797,-133.0,5612,-425,10173,Daryl Hall & John Oates,Jingle Bell Rock - Daryl's Version
+28,-14,Arizona Zervas - ROXANNE,3,3,(x1),1763,-936.0,7144,1763,7144,Arizona Zervas,ROXANNE
+29,+12,The Jackson 5 - Santa Claus Is Coming To Town,4,29,,1718,9.0,4683,268,6133,The Jackson 5,Santa Claus Is Coming To Town
+30,+2,Chris Rea - Driving Home for Christmas - 2019 Remaster,2,30,,1684,-260.0,3628,1684,3628,Chris Rea,Driving Home for Christmas - 2019 Remaster
+31,+5,"Bruce Springsteen - Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",4,31,,1667,-175.0,5022,-4,6693,Bruce Springsteen,"Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975"
+32,+3,Mariah Carey - Christmas (Baby Please Come Home),6,26,,1665,-252.0,5523,-683,10163,Mariah Carey,Christmas (Baby Please Come Home)
+33,-11,Trevor Daniel - Falling,3,2,(x1),1630,-701.0,6661,1630,6661,Trevor Daniel,Falling
+34,+4,Sam Smith - Have Yourself A Merry Little Christmas,7,16,,1626,-174.0,5485,-981,11949,Sam Smith,Have Yourself A Merry Little Christmas
+35,+5,Britney Spears - My Only Wish (This Year),6,33,,1594,-165.0,4878,-355,9010,Britney Spears,My Only Wish (This Year)
+36,+13,Chuck Berry - Run Rudolph Run - Single Version,4,36,,1555,-4.0,4526,141,5940,Chuck Berry,Run Rudolph Run - Single Version
+37,+13,The Jackson 5 - I Saw Mommy Kissing Santa Claus,4,37,,1549,-8.0,4129,416,5262,The Jackson 5,I Saw Mommy Kissing Santa Claus
+38,+7,Michael Bublé - I'll Be Home for Christmas,4,38,,1536,-48.0,4482,148,5870,Michael Bublé,I'll Be Home for Christmas
+39,+8,Tony Bennett - Winter Wonderland,5,30,,1517,-60.0,4891,-418,7887,Tony Bennett,Winter Wonderland
+40,+12,The Pogues - Fairytale of New York (w/ Kirsty MacColl),4,38,,1512,-29.0,4522,62,5972,The Pogues,Fairytale of New York (w/ Kirsty MacColl)
+41,+3,Leona Lewis - One More Sleep,4,41,,1492,-133.0,4182,85,5589,Leona Lewis,One More Sleep
+42,+13,"Dean Martin - Baby, It's Cold Outside",4,42,,1474,27.0,4123,317,5280,Dean Martin,"Baby, It's Cold Outside"
+43,-17,Post Malone - Circles,3,6,,1456,-651.0,5872,1456,5872,Post Malone,Circles
+44,+18,Frank Sinatra - Mistletoe And Holly - Remastered 1999,4,44,,1430,71.0,4013,332,5111,Frank Sinatra,Mistletoe And Holly - Remastered 1999
+45,+1,Céline Dion - Happy Xmas (War Is Over),4,45,,1394,-187.0,3999,209,5184,Céline Dion,Happy Xmas (War Is Over)
+46,+5,Ariana Grande - Santa Baby (w/ Liz Gillies),5,32,,1385,-165.0,4578,-496,7528,Ariana Grande,Santa Baby (w/ Liz Gillies)
+47,+29,Eartha Kitt - Santa Baby (w/ Henri René and His Orchestra),3,47,,1331,130.0,3828,1331,3828,Eartha Kitt,Santa Baby (w/ Henri René and His Orchestra)
+48,-19,The Weeknd - Blinding Lights,3,7,,1320,-739.0,5679,1320,5679,The Weeknd,Blinding Lights
+49,+16,Nat King Cole - Joy To The World,4,49,,1309,-12.0,3863,170,5002,Nat King Cole,Joy To The World
+50,-25,Dua Lipa - Don't Start Now,3,5,,1295,-834.0,5822,1295,5822,Dua Lipa,Don't Start Now
+51,+21,Mykola Dmytrovych Leontovych - Carol of the Bells (w/ John Williams),3,51,,1285,59.0,3707,1285,3707,Mykola Dmytrovych Leontovych,Carol of the Bells (w/ John Williams)
+52,+7,Meghan Trainor - I'll Be Home,4,52,,1256,-162.0,3698,-151,5105,Meghan Trainor,I'll Be Home
+53,+17,Donny Hathaway - This Christmas,3,53,,1249,-15.0,2513,175,3587,Donny Hathaway,This Christmas
+54,-23,Camila Cabello - My Oh My (w/ DaBaby),3,11,,1241,-717.0,5140,1241,5140,Camila Cabello,My Oh My (w/ DaBaby)
+55,+2,Kylie Minogue - Santa Baby,4,40,,1239,-180.0,4079,-523,5841,Kylie Minogue,Santa Baby
+56,-19,Billie Eilish - everything i wanted,3,10,,1227,-610.0,5010,1227,5010,Billie Eilish,everything i wanted
+57,+9,"Brett Eldredge - Baby, It's Cold Outside (w/ Meghan Trainor)",6,21,,1224,-91.0,4553,-1276,9477,Brett Eldredge,"Baby, It's Cold Outside (w/ Meghan Trainor)"
+58,+16,Bing Crosby - Do You Hear What I Hear?,4,58,,1222,4.0,3626,131,4717,Bing Crosby,Do You Hear What I Hear?
+59,+26,Ella Fitzgerald - Sleigh Ride,4,59,,1203,49.0,3419,97,4525,Ella Fitzgerald,Sleigh Ride
+60,+3,Coldplay - Christmas Lights,5,33,,1183,-174.0,4167,-585,6943,Coldplay,Christmas Lights
+61,+10,Elton John - Step Into Christmas,4,53,,1149,-98.0,3646,-234,5029,Elton John,Step Into Christmas
+62,+5,Jonas Brothers - Like It's Christmas,2,62,,1143,-151.0,2437,1143,2437,Jonas Brothers,Like It's Christmas
+63,+1,Queen - Thank God It's Christmas - Non-Album Single,3,63,,1134,-194.0,3583,1134,3583,Queen,Thank God It's Christmas - Non-Album Single
+64,+14,Michael Bublé - White Christmas (duet with Shania Twain) (w/ Shania Twain),3,64,,1121,-73.0,2315,112,3324,Michael Bublé,White Christmas (duet with Shania Twain) (w/ Shania Twain)
+65,+24,Dean Martin - Rudolph The Red-Nosed Reindeer,4,46,,1111,-8.0,3587,-351,5049,Dean Martin,Rudolph The Red-Nosed Reindeer
+66,+11,Christina Aguilera - Have Yourself a Merry Little Christmas,4,66,,1109,-92.0,3353,-57,4519,Christina Aguilera,Have Yourself a Merry Little Christmas
+67,+6,"*NSYNC - Merry Christmas, Happy Holidays",3,67,,1106,-116.0,2328,104,3330,*NSYNC,"Merry Christmas, Happy Holidays"
+68,RE,Bing Crosby - Winter Wonderland,2,62,,1089,,2260,1089,2260,Bing Crosby,Winter Wonderland
+69,+12,Bing Crosby - It's Beginning To Look Like Christmas,2,69,,1086,-101.0,2273,1086,2273,Bing Crosby,It's Beginning To Look Like Christmas
+70,+9,Train - Shake up Christmas,3,70,,1077,-116.0,2270,70,3277,Train,Shake up Christmas
+71,-32,Harry Styles - Adore You,3,9,,1050,-721.0,4877,1050,4877,Harry Styles,Adore You
+72,-29,Maroon 5 - Memories,3,15,,1045,-616.0,4410,1045,4410,Maroon 5,Memories
+73,NEW,Judy Garland - Have Yourself A Merry Little Christmas,1,73,,1037,,1037,1037,1037,Judy Garland,Have Yourself A Merry Little Christmas
+74,+9,Taylor Swift - Christmas Tree Farm,2,74,,1034,-142.0,2210,1034,2210,Taylor Swift,Christmas Tree Farm
+75,-22,Travis Scott - HIGHEST IN THE ROOM,3,18,,1016,-498.0,4161,1016,4161,Travis Scott,HIGHEST IN THE ROOM
+76,+11,Sia - Santa's Coming for Us,3,73,,1012,-129.0,2153,-114,3279,Sia,Santa's Coming for Us
+77,NEW,Michael Bublé - Jingle Bells (w/ The Puppini Sisters),1,77,,1011,,1011,1011,1011,Michael Bublé,Jingle Bells (w/ The Puppini Sisters)
+78,+8,Stevie Wonder - What Christmas Means To Me,4,57,,1007,-145.0,3383,-353,4743,Stevie Wonder,What Christmas Means To Me

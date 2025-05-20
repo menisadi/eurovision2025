@@ -1,0 +1,201 @@
+Pos,P+,Artist and Title,Days,Pk,(x?),Streams,Streams+,7Day,7Day+,Total,Artist,Track
+1,+1,KAJ - Bara Bada Bastu,72,1,(x1),17712,-2531.0,87474,14050,223177,KAJ,Bara Bada Bastu
+2,-1,VÆB - RÓA,122,1,(x27),16450,-9564.0,110394,9867,895211,VÆB,RÓA
+3,=,Tommy Cash - Espresso Macchiato,12,3,(x4),16321,-1370.0,71861,14354,79165,Tommy Cash,Espresso Macchiato
+4,=,Kyle Alessandro - Lighter,11,4,,10701,-1605.0,51725,9170,57207,Kyle Alessandro,Lighter
+5,+4,JJ - Wasted Love,9,5,,10072,2456.0,30856,8931,33007,JJ,Wasted Love
+6,+1,Herra Hnetusmjör - Elli Egils,276,1,(x35),8440,-177.0,49330,2029,1597174,Herra Hnetusmjör,Elli Egils
+7,-2,Birnir - Far,4,1,(x1),7990,-1351.0,42087,7990,42087,Birnir,Far
+8,=,Birnir - LXS,52,1,(x37),7831,-13.0,56206,1118,547494,Birnir,LXS
+9,+2,Abor & Tynna - Baller,7,9,,7810,1709.0,26210,7810,26210,Abor & Tynna,Baller
+10,=,"Aron Can - Ljósin Kvikna (w/ Alaska1867, Þormóður)",10,1,(x4),6704,-81.0,55354,-1317,83621,Aron Can,"Ljósin Kvikna (w/ Alaska1867, Þormóður)"
+11,-5,Claude - C'est La Vie,11,6,,6229,-2682.0,37053,4755,42115,Claude,C'est La Vie
+12,+2,Lucio Corsi - Volevo essere un duro,6,12,,5833,463.0,18055,5833,18055,Lucio Corsi,Volevo essere un duro
+13,+2,Erika Vikman - ICH KOMME,6,13,,5546,467.0,19633,5546,19633,Erika Vikman,ICH KOMME
+14,-2,aronkristinn - Bleikur Range Rover (w/ Birnir),75,1,(x15),5527,-309.0,38969,853,552319,aronkristinn,Bleikur Range Rover (w/ Birnir)
+15,+5,Alex Warren - Ordinary,101,4,,4871,330.0,34961,537,359265,Alex Warren,Ordinary
+16,=,HelgiT - Egó,38,3,(x3),4651,-375.0,36101,-21,181021,HelgiT,Egó
+17,+19,Käärijä - Cha Cha Cha,504,1,(x55),4179,813.0,16973,2999,1497876,Käärijä,Cha Cha Cha
+18,+4,HubbaBubba - Hæ - EM 2025,9,4,,4162,-31.0,34909,-798,46907,HubbaBubba,Hæ - EM 2025
+19,-1,"FM95BLÖ - Hver Er Sá Besti (w/ DJ Muscleboy, Steindi Jr., Fjallabræður)",87,2,(x1),4096,-670.0,28807,-392,427936,FM95BLÖ,"Hver Er Sá Besti (w/ DJ Muscleboy, Steindi Jr., Fjallabræður)"
+20,+8,Daniil - Hjörtu (w/ Birnir),81,1,(x1),3964,123.0,27769,902,414642,Daniil,Hjörtu (w/ Birnir)
+21,+8,Hafdís Huld - Dvel ég í draumahöll,2147,1,(x34),3954,195.0,27686,-245,6524954,Hafdís Huld,Dvel ég í draumahöll
+22,-9,Gabry Ponte - Tutta L'Italia - Sanremo 2025,6,13,,3806,-1938.0,20567,3806,20567,Gabry Ponte,Tutta L'Italia - Sanremo 2025
+23,=,ISSI - Vitamin (w/ Emilia Hugrun),24,1,(x1),3725,-281.0,28082,888,117910,ISSI,Vitamin (w/ Emilia Hugrun)
+24,+6,Aron Can - POPPSTIRNI,241,1,(x25),3697,2.0,25122,295,998676,Aron Can,POPPSTIRNI
+25,+8,HubbaBubba - Stara (w/ Luigi),88,1,(x1),3686,140.0,25551,407,434791,HubbaBubba,Stara (w/ Luigi)
+26,-5,Go-Jo - Milkshake Man,7,21,,3671,-567.0,19823,3671,19823,Go-Jo,Milkshake Man
+27,+7,Daniil - Langar Í (w/ Herra Hnetusmjör),45,1,(x1),3554,51.0,26028,210,240014,Daniil,Langar Í (w/ Herra Hnetusmjör)
+28,-4,Sissal - Hallucination,6,24,,3477,-479.0,15227,3477,15227,Sissal,Hallucination
+29,-12,Zoë Më - Voyage,6,17,,3474,-1465.0,16101,3474,16101,Zoë Më,Voyage
+30,+9,Hafdís Huld - Litlar stjörnur,2005,2,(x5),3321,185.0,23832,-204,5103708,Hafdís Huld,Litlar stjörnur
+31,-12,Louane - maman,6,19,,3184,-1501.0,15058,3184,15058,Louane,maman
+32,+3,Maron Birnir - Hvar ertu nú? (w/ Theodór),73,3,(x2),3180,-277.0,25468,45,316317,Maron Birnir,Hvar ertu nú? (w/ Theodór)
+33,-7,Ziferblat - Bird of Pray - Eurovision 2025,6,26,,3168,-692.0,14967,3168,14967,Ziferblat,Bird of Pray - Eurovision 2025
+34,+6,Hafdís Huld - Sofðu unga ástin mín,2027,4,,3148,189.0,22403,-263,4916310,Hafdís Huld,Sofðu unga ástin mín
+35,+12,Herra Hnetusmjör - Steik og Sushi (w/ Steindi Jr.),251,2,(x2),3137,590.0,14836,1220,465747,Herra Hnetusmjör,Steik og Sushi (w/ Steindi Jr.)
+36,+5,Hafdís Huld - Óskasteinar,2033,3,(x4),3064,247.0,21535,-78,4923571,Hafdís Huld,Óskasteinar
+37,=,Emmsjé Gauti - 10 ÞÚSUND (w/ Króli),39,2,(x2),2892,-473.0,22075,113,162144,Emmsjé Gauti,10 ÞÚSUND (w/ Króli)
+38,-13,VÆB - Bíómynd,233,3,(x2),2799,-1103.0,18028,1138,494116,VÆB,Bíómynd
+39,+9,Hafdís Huld - Sofa urtubörn,1911,5,,2790,256.0,19996,-275,4385935,Hafdís Huld,Sofa urtubörn
+40,+3,Remember Monday - What The Hell Just Happened?,3,40,,2784,119.0,7261,2784,7261,Remember Monday,What The Hell Just Happened?
+41,+1,Yuval Raphael - New Day Will Rise,6,41,,2754,26.0,10944,2754,10944,Yuval Raphael,New Day Will Rise
+42,+13,Hafdís Huld - Bíum bíum bambaló,1899,8,,2727,377.0,18908,-174,4124516,Hafdís Huld,Bíum bíum bambaló
+43,-5,EMMY - Laika Party,7,37,,2688,-533.0,15327,2688,15327,EMMY,Laika Party
+44,=,Billie Eilish - BIRDS OF A FEATHER,366,1,(x8),2648,53.0,18600,161,1503305,Billie Eilish,BIRDS OF A FEATHER
+45,+7,Hafdís Huld - Ljós,1899,7,,2645,218.0,18919,-231,4199456,Hafdís Huld,Ljós
+46,+3,Aron Can - MONNÍ,393,1,(x16),2567,46.0,17117,68,1427697,Aron Can,MONNÍ
+47,-20,Melody - Esa Diva,6,27,,2561,-1283.0,14567,2561,14567,Melody,Esa Diva
+48,+16,ICEGUYS - Gemmér Gemmér,304,1,(x20),2554,345.0,14825,211,1240635,ICEGUYS,Gemmér Gemmér
+49,+5,Hafdís Huld - Ævintýralönd,1083,11,,2523,152.0,18408,-265,2776822,Hafdís Huld,Ævintýralönd
+50,+9,Ravyn Lenae - Love Me Not,70,25,,2503,197.0,17228,400,113559,Ravyn Lenae,Love Me Not
+51,+12,Hafdís Huld - Góða nótt,1713,9,,2484,227.0,17859,-194,3631380,Hafdís Huld,Góða nótt
+52,-21,Miriana Conte - SERVING - Eurovision Official Version,7,31,,2474,-1212.0,16012,2474,16012,Miriana Conte,SERVING - Eurovision Official Version
+53,-21,NAPA - Deslocado,6,32,,2464,-1217.0,13036,2464,13036,NAPA,Deslocado
+54,+4,Izleifur - Andvaka (w/ Daniil),287,1,(x7),2430,116.0,16767,340,817004,Izleifur,Andvaka (w/ Daniil)
+55,+7,Klavdia - Asteromata,3,55,,2418,152.0,6181,2418,6181,Klavdia,Asteromata
+56,+25,Tautumeitas - Bur man laimi,3,56,,2409,529.0,5598,2409,5598,Tautumeitas,Bur man laimi
+57,-6,Laura Thorn - La poupée monte le son,3,51,,2369,-65.0,6572,2369,6572,Laura Thorn,La poupée monte le son
+58,+10,Hafdís Huld - Sofðu,1634,15,,2339,255.0,16491,-123,3270748,Hafdís Huld,Sofðu
+59,+8,Hafdís Huld - Bí bí og blaka,1678,14,,2338,190.0,16971,-165,3337536,Hafdís Huld,Bí bí og blaka
+60,+9,Hafdís Huld - Nóttin læðist inn,1630,15,,2322,260.0,16355,-113,3207013,Hafdís Huld,Nóttin læðist inn
+61,-5,Birnir - Win win,160,1,(x1),2317,-25.0,16421,579,350139,Birnir,Win win
+62,+8,Hafdís Huld - Frost er úti fuglinn minn,1652,13,,2302,245.0,16471,-134,3348815,Hafdís Huld,Frost er úti fuglinn minn
+63,-13,Saint Pete - Tala minn skít (w/ Herra Hnetusmjör),279,1,(x3),2300,-187.0,16788,255,745544,Saint Pete,Tala minn skít (w/ Herra Hnetusmjör)
+64,+1,ROSÉ - APT. (w/ Bruno Mars),212,2,(x1),2218,37.0,15359,-181,728215,ROSÉ,APT. (w/ Bruno Mars)
+65,+8,Hafdís Huld - Þú ert,1583,19,,2205,255.0,15438,-101,2974104,Hafdís Huld,Þú ert
+66,+35,Bubbi Morthens - Rómeó og Júlía,2415,19,,2174,566.0,11970,549,3424337,Bubbi Morthens,Rómeó og Júlía
+67,+8,Hafdís Huld - Sólskin,1691,13,,2165,248.0,15237,-168,3281819,Hafdís Huld,Sólskin
+68,-23,Shkodra Elektronike - Zjerm,4,45,,2148,-436.0,7577,2148,7577,Shkodra Elektronike,Zjerm
+69,+3,"Friðrik Dór - Til í allt, Pt. III (w/ Herra Hnetusmjör, Steindi Jr.)",330,1,(x2),2118,144.0,13100,412,859009,Friðrik Dór,"Til í allt, Pt. III (w/ Herra Hnetusmjör, Steindi Jr.)"
+70,+6,ClubDub - bad bitch í RVK,366,1,(x3),2102,187.0,11043,502,1107702,ClubDub,bad bitch í RVK
+71,-14,Drake - NOKIA,94,10,,2083,-239.0,16882,-16,266711,Drake,NOKIA
+72,+5,Lady Gaga - Die With A Smile (w/ Bruno Mars),275,1,(x21),2081,177.0,14958,-27,1170659,Lady Gaga,Die With A Smile (w/ Bruno Mars)
+73,+25,ICEGUYS - Krumla,667,1,(x11),2078,447.0,10823,378,2114213,ICEGUYS,Krumla
+74,-3,Fleetwood Mac - Dreams - 2004 Remaster,754,26,,2076,32.0,12305,647,993573,Fleetwood Mac,Dreams - 2004 Remaster
+75,NEW,Käärijä - #eurodab (w/ Baby Lasagna),1,75,,2056,,2056,2056,2056,Käärijä,#eurodab (w/ Baby Lasagna)
+76,-2,Lola Young - Messy,158,5,,2056,137.0,14402,186,423540,Lola Young,Messy
+77,+1,Birnir - Já ég veit (w/ Herra Hnetusmjör),1284,1,(x58),2053,151.0,12831,678,2654455,Birnir,Já ég veit (w/ Herra Hnetusmjör)
+78,+11,Hipsumhaps - LSMLÍ (lífið sem mig langar í),422,18,,2024,263.0,11218,499,590166,Hipsumhaps,LSMLÍ (lífið sem mig langar í)
+79,+7,Bubbi Morthens - Afgan,1541,27,,2013,220.0,11596,492,1974873,Bubbi Morthens,Afgan
+80,-20,PARG - SURVIVOR,4,60,,1991,-310.0,7065,1991,7065,PARG,SURVIVOR
+81,+45,Mugison - Stingum Af,655,46,,1987,620.0,10399,749,837520,Mugison,Stingum Af
+82,+45,Sálin hans Jóns míns - Hjá þér,747,30,,1962,601.0,10559,780,949322,Sálin hans Jóns míns,Hjá þér
+83,+1,Katarsis - Tavo akys,3,83,,1958,142.0,5032,1958,5032,Katarsis,Tavo akys
+84,+3,sombr - undressed,53,32,,1944,154.0,16126,-11,85784,sombr,undressed
+85,-6,Daniil - Elska (w/ Lil Binni),644,2,(x3),1915,24.0,14790,-205,1413036,Daniil,Elska (w/ Lil Binni)
+86,+8,Benson Boone - Beautiful Things,482,4,,1913,220.0,12813,118,1402395,Benson Boone,Beautiful Things
+87,-7,BRÍET - Lifa af (w/ Birnir),331,1,(x1),1851,-36.0,12198,614,680855,BRÍET,Lifa af (w/ Birnir)
+88,-42,Justyna Steczkowska - GAJA - Eurovision Edit,5,46,,1827,-749.0,8415,1827,8415,Justyna Steczkowska,GAJA - Eurovision Edit
+89,+7,sombr - back to friends,55,44,,1812,164.0,13892,-32,87336,sombr,back to friends
+90,-37,Red Sebastian - Strobe Lights,6,53,,1809,-617.0,11301,1809,11301,Red Sebastian,Strobe Lights
+91,-1,Aron Can - Sólinni (w/ Daniil),318,1,(x1),1800,58.0,13811,-124,604162,Aron Can,Sólinni (w/ Daniil)
+92,+38,Nýdönsk - Frelsið,230,43,,1784,448.0,8473,777,286632,Nýdönsk,Frelsið
+93,+11,Teddy Swims - Lose Control,500,10,,1779,209.0,11979,311,1331331,Teddy Swims,Lose Control
+94,+19,Bubbi Morthens - Fallegur dagur,819,44,,1760,292.0,10172,259,990206,Bubbi Morthens,Fallegur dagur
+95,+4,Sabrina Carpenter - Espresso,397,2,(x1),1750,129.0,10667,442,1210455,Sabrina Carpenter,Espresso
+96,RE,KK - Vegbúi,127,59,,1747,,2790,1747,142946,KK,Vegbúi
+97,RE,Baby Lasagna - Rim Tim Tagi Dim,43,5,,1744,,1744,1744,112496,Baby Lasagna,Rim Tim Tagi Dim
+98,-37,VÆB - DR. SAXOPHONE,2,61,,1742,-554.0,4038,1742,4038,VÆB,DR. SAXOPHONE
+99,-7,PATR!K - Skína (w/ Luigi),662,1,(x104),1726,4.0,10174,352,2825805,PATR!K,Skína (w/ Luigi)
+100,+70,BRÍET - Esjan,1876,2,(x22),1726,570.0,9648,417,4219095,BRÍET,Esjan
+101,+8,Kendrick Lamar - All The Stars (w/ SZA),584,2,(x4),1704,196.0,12456,-16,1130151,Kendrick Lamar,All The Stars (w/ SZA)
+102,-7,Ed Sheeran - Azizam,40,54,,1690,1.0,11695,514,57076,Ed Sheeran,Azizam
+103,-15,Birnir - Englar,19,1,(x1),1638,-143.0,16561,-621,76001,Birnir,Englar
+104,+34,Bubbi Morthens - Það er gott að elska,1024,34,,1636,348.0,8711,491,1195370,Bubbi Morthens,Það er gott að elska
+105,+2,"NUSSUN - Sumar í RVK (w/ HÚGÓ, Þormóður)",61,6,,1635,106.0,7674,578,95461,NUSSUN,"Sumar í RVK (w/ HÚGÓ, Þormóður)"
+106,-4,Birnir - Baugar,272,2,(x9),1633,27.0,12995,39,491578,Birnir,Baugar
+107,+33,Steindi Jr. - Rúntarinn,412,2,(x2),1627,355.0,7929,421,672184,Steindi Jr.,Rúntarinn
+108,+8,Shaboozey - A Bar Song (Tipsy),358,8,,1624,184.0,9226,618,843501,Shaboozey,A Bar Song (Tipsy)
+109,+22,Joost - Europapa,66,2,(x1),1608,276.0,2940,1608,195534,Joost,Europapa
+110,+32,Sálin hans Jóns míns - Undir þínum áhrifum,256,59,,1602,340.0,9030,458,294354,Sálin hans Jóns míns,Undir þínum áhrifum
+111,-14,Floni - FÖGNUM Í KVÖLD,10,3,(x1),1589,-46.0,16442,-2055,31323,Floni,FÖGNUM Í KVÖLD
+112,=,Teddy Swims - Bad Dreams,210,39,,1587,113.0,10916,344,310361,Teddy Swims,Bad Dreams
+113,RE,Stuðmenn - Ofboðslega frægur,366,27,,1555,,1555,539,482534,Stuðmenn,Ofboðslega frægur
+114,-8,"Maron Birnir - LOKUÐ AUGU (w/ Egill Airi, Tónhylur Akademía)",127,11,,1551,21.0,12960,-111,223996,Maron Birnir,"LOKUÐ AUGU (w/ Egill Airi, Tónhylur Akademía)"
+115,+7,Dire Straits - Sultans Of Swing,130,77,,1542,145.0,9358,411,151305,Dire Straits,Sultans Of Swing
+116,+7,A$AP Rocky - Sundress,249,41,,1542,157.0,9795,1542,340600,A$AP Rocky,Sundress
+117,-51,VÆB - JAJA DING DONG (REMIX) (w/ Ingi Bauer),22,66,,1534,-628.0,9084,1534,27540,VÆB,JAJA DING DONG (REMIX) (w/ Ingi Bauer)
+118,+15,Friðrik Dór - Í síðasta skipti,987,36,,1527,203.0,4185,470,1213029,Friðrik Dór,Í síðasta skipti
+119,+2,Egó - Fjöllin hafa vakað,338,48,,1510,109.0,8135,336,409043,Egó,Fjöllin hafa vakað
+120,-5,Calvin Harris - Blessings (w/ Clementine Douglas),9,80,,1500,51.0,10148,1500,12799,Calvin Harris,Blessings (w/ Clementine Douglas)
+121,-4,GusGus - Eða? (w/ Birnir),452,1,(x1),1481,46.0,9261,1481,626664,GusGus,Eða? (w/ Birnir)
+122,+19,Mac Miller - The Spins,6,122,,1478,209.0,6302,1478,7331,Mac Miller,The Spins
+123,+40,Sálin hans Jóns míns - Sódóma,439,32,,1459,278.0,4058,1459,563363,Sálin hans Jóns míns,Sódóma
+124,+15,FM95BLÖ - Aldrei Toppað (w/ Aron Can),255,1,(x2),1452,173.0,6222,243,517460,FM95BLÖ,Aldrei Toppað (w/ Aron Can)
+125,-22,"NUSSUN - Hvað með þig? (w/ HÚGÓ, Þormóður)",342,2,(x1),1426,-149.0,8447,338,614664,NUSSUN,"Hvað með þig? (w/ HÚGÓ, Þormóður)"
+126,-12,ICEGUYS - Stígðu Inn,59,4,,1423,-39.0,9109,-110,130996,ICEGUYS,Stígðu Inn
+127,-44,Herra Hnetusmjör - KOSS Á ÞIG (Áramótaskaup 2023),458,1,(x27),1421,-423.0,9812,105,1302959,Herra Hnetusmjör,KOSS Á ÞIG (Áramótaskaup 2023)
+128,+20,Birnir - Út í geim,782,1,(x7),1420,188.0,9830,260,1703806,Birnir,Út í geim
+129,=,Empire Of The Sun - We Are The People,48,74,,1409,59.0,9812,196,59137,Empire Of The Sun,We Are The People
+130,-45,VÆB - TÖLUR TALA (w/ Herra Hnetusmjör),74,9,,1401,-413.0,6988,1401,102344,VÆB,TÖLUR TALA (w/ Herra Hnetusmjör)
+131,+16,Teddy Swims - The Door,234,69,,1382,135.0,8514,1382,285851,Teddy Swims,The Door
+132,+18,Doechii - Anxiety,75,14,,1369,145.0,8694,323,142550,Doechii,Anxiety
+133,+54,Wiz Khalifa - The Thrill (w/ Empire Of The Sun),2,133,,1368,259.0,2477,1368,2477,Wiz Khalifa,The Thrill (w/ Empire Of The Sun)
+134,+23,GCD - Sumarið er tíminn,158,52,,1365,165.0,3865,1365,181140,GCD,Sumarið er tíminn
+135,-17,Herra Hnetusmjör - Upp Til Hópa,141,62,,1364,-47.0,6360,1364,170089,Herra Hnetusmjör,Upp Til Hópa
+136,+28,"WizTheMc - Show Me Love (w/ bees & honey, Tyla)",11,115,,1353,172.0,8478,1353,12713,WizTheMc,"Show Me Love (w/ bees & honey, Tyla)"
+137,-32,Herra Hnetusmjör - Vangaveltur,653,5,,1347,-195.0,10093,-126,1331986,Herra Hnetusmjör,Vangaveltur
+138,-14,HubbaBubba - Aldrei of seint (w/ Þórunn Antonía),207,1,(x2),1338,-38.0,9967,58,460034,HubbaBubba,Aldrei of seint (w/ Þórunn Antonía)
+139,NEW,Calvin Harris - Summer,1,139,,1333,,1333,1333,1333,Calvin Harris,Summer
+140,+33,The Police - Every Breath You Take,165,59,,1325,173.0,8974,124,210248,The Police,Every Breath You Take
+141,+38,ISSI - Gleyma (w/ Valdimar Guðmundsson),107,1,(x8),1318,177.0,8808,1318,279520,ISSI,Gleyma (w/ Valdimar Guðmundsson)
+142,+36,ClubDub - Augnablik (w/ BRÍET),242,2,(x3),1316,175.0,7500,280,673701,ClubDub,Augnablik (w/ BRÍET)
+143,+8,Natasha Bedingfield - Unwritten,389,5,,1315,92.0,8736,251,777651,Natasha Bedingfield,Unwritten
+144,+18,Radiohead - Creep,302,68,,1312,129.0,9555,32,356226,Radiohead,Creep
+145,+4,Prins Póló - París Norðursins,358,5,,1311,82.0,5069,-73,468372,Prins Póló,París Norðursins
+146,-3,CYRIL - Stumblin' In,287,23,,1311,54.0,4967,1311,485270,CYRIL,Stumblin' In
+147,RE,Bubbi Morthens - Syneta,77,87,,1307,,2333,243,85632,Bubbi Morthens,Syneta
+148,-4,Nemo - The Code,47,1,(x1),1302,48.0,2556,1302,137547,Nemo,The Code
+149,RE,Mannakorn - Reyndu aftur,31,105,,1301,,1301,1301,35793,Mannakorn,Reyndu aftur
+150,RE,Kristmundur Axel - Sólin (w/ Herra Hnetusmjör),265,12,,1298,,2783,1298,392295,Kristmundur Axel,Sólin (w/ Herra Hnetusmjör)
+151,+1,Gísli Pálmi - STÍG Á KREIK,38,47,,1295,72.0,8640,1295,51011,Gísli Pálmi,STÍG Á KREIK
+152,+16,The Goo Goo Dolls - Iris,311,64,,1294,130.0,9133,164,389709,The Goo Goo Dolls,Iris
+153,+6,WizTheMc - Show Me Love (w/ bees & honey),47,82,,1289,93.0,8972,1289,58968,WizTheMc,Show Me Love (w/ bees & honey)
+154,-8,Charli xcx - party 4 u,26,80,,1287,36.0,9103,253,32665,Charli xcx,party 4 u
+155,RE,Hipsumhaps - Hjarta,67,91,,1287,,2393,1287,74247,Hipsumhaps,Hjarta
+156,+10,Chappell Roan - Pink Pony Club,121,30,,1285,112.0,8130,1285,170682,Chappell Roan,Pink Pony Club
+157,-32,Chrystal - The Days - NOTION Remix (w/ NOTION),131,32,,1280,-91.0,10108,94,195128,Chrystal,The Days - NOTION Remix (w/ NOTION)
+158,+31,Frank Ocean - Pink + White,796,35,,1274,170.0,8216,136,1174228,Frank Ocean,Pink + White
+159,+25,BRÍET - Rólegur Kúreki,1589,1,(x79),1273,158.0,7071,229,3465117,BRÍET,Rólegur Kúreki
+160,+5,JóiPé - Þráhyggja (w/ Króli),531,1,(x6),1272,97.0,8486,9,1459292,JóiPé,Þráhyggja (w/ Króli)
+161,RE,Bubbi Morthens - Aldrei fór ég suður,586,42,,1269,,2285,223,682662,Bubbi Morthens,Aldrei fór ég suður
+162,-2,Herra Hnetusmjör - Hef Verið Verri,377,1,(x3),1266,70.0,5705,254,806154,Herra Hnetusmjör,Hef Verið Verri
+163,+13,Hozier - Too Sweet,406,2,(x4),1263,116.0,8446,1263,1065633,Hozier,Too Sweet
+164,RE,Stuðmenn - Betri tíð,65,64,,1260,,1260,1260,77647,Stuðmenn,Betri tíð
+165,+15,12:00 - Sumartíminn,204,51,,1259,120.0,3864,1259,237640,12:00,Sumartíminn
+166,-73,ADONXS - Kiss Kiss Goodbye,6,93,,1245,-457.0,7575,1245,7575,ADONXS,Kiss Kiss Goodbye
+167,RE,Nýdönsk - Fram á nótt,44,94,,1243,,2498,1243,48956,Nýdönsk,Fram á nótt
+168,-34,Lil Tecca - Dark Thoughts,66,10,,1240,-77.0,10403,-192,149819,Lil Tecca,Dark Thoughts
+169,-16,FM95BLÖ - Mávar,108,5,,1236,17.0,3784,123,143448,FM95BLÖ,Mávar
+170,+7,Friðrik Dór - Til hvers þá að segja satt? (w/ Bubbi Morthens),87,1,(x1),1211,69.0,8282,31,178236,Friðrik Dór,Til hvers þá að segja satt? (w/ Bubbi Morthens)
+171,RE,The Beatles - Here Comes The Sun - Remastered 2009,155,86,,1209,,2232,1209,176100,The Beatles,Here Comes The Sun - Remastered 2009
+172,RE,Billy Joel - Vienna,65,91,,1205,,5769,-15,73728,Billy Joel,Vienna
+173,-6,Lady Gaga - Abracadabra,105,5,,1205,37.0,9397,-60,224095,Lady Gaga,Abracadabra
+174,+8,Billie Eilish - WILDFLOWER,366,16,,1197,62.0,9581,-75,725637,Billie Eilish,WILDFLOWER
+175,RE,Dasha - Austin,270,36,,1197,,1197,1197,472341,Dasha,Austin
+176,-56,Laufey - Tough Luck,4,36,,1193,-209.0,7339,1193,7339,Laufey,Tough Luck
+177,+6,"Chappell Roan - Good Luck, Babe!",374,11,,1188,54.0,8570,150,775973,Chappell Roan,"Good Luck, Babe!"
+178,RE,Lord Huron - The Night We Met,725,33,,1186,,7405,-31,1129863,Lord Huron,The Night We Met
+179,RE,Myles Smith - Stargazing,163,53,,1182,,1182,1182,239045,Myles Smith,Stargazing
+180,+20,Frank Ocean - Lost,419,30,,1179,111.0,5659,1179,475303,Frank Ocean,Lost
+181,-73,VÆB - OFBOÐSLEGA FRÆGUR (REMIX) (w/ Ingi Bauer),32,5,,1174,-340.0,4052,1174,44698,VÆB,OFBOÐSLEGA FRÆGUR (REMIX) (w/ Ingi Bauer)
+182,RE,Sálin hans Jóns míns - Ekkert breytir því,71,66,,1173,,1173,1173,83682,Sálin hans Jóns míns,Ekkert breytir því
+183,RE,Calvin Harris - Feel So Close,2,119,,1165,,1165,1165,2255,Calvin Harris,Feel So Close
+184,-10,Bubbi Morthens - Við Gróttu,21,130,,1163,14.0,2312,144,23856,Bubbi Morthens,Við Gróttu
+185,RE,Vance Joy - Riptide,278,54,,1162,,1162,1162,357201,Vance Joy,Riptide
+186,RE,Post Malone - I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen),239,6,,1161,,1161,1161,556278,Post Malone,I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen)
+187,+10,Lykke Li - I Follow Rivers - The Magician Remix (w/ The Magician),3,112,,1159,74.0,2244,1159,3345,Lykke Li,I Follow Rivers - The Magician Remix (w/ The Magician)
+188,-77,Saint Pete - Saintro,137,12,,1158,-317.0,9016,34,180228,Saint Pete,Saintro
+189,-53,Háski - Hvert ertu að fara? (w/ PATR!K),439,1,(x7),1157,-139.0,9650,-62,1129689,Háski,Hvert ertu að fara? (w/ PATR!K)
+190,RE,Benson Boone - Mystical Magical,11,85,,1155,,6882,1155,12831,Benson Boone,Mystical Magical
+191,RE,Empire Of The Sun - Walking On A Dream,2,188,,1154,,1154,1154,2204,Empire Of The Sun,Walking On A Dream
+192,RE,Bubbi Morthens - Ástrós (w/ BRÍET),843,1,(x17),1150,,5760,-21,1463672,Bubbi Morthens,Ástrós (w/ BRÍET)
+193,-7,Gracie Abrams - That’s So True,206,14,,1149,36.0,8667,56,443331,Gracie Abrams,That’s So True
+194,-25,ICEGUYS - Leikkona,209,3,(x3),1145,-13.0,4530,25,541659,ICEGUYS,Leikkona
+195,RE,ICEGUYS - Rúlletta,627,2,(x1),1132,,2224,1132,1370907,ICEGUYS,Rúlletta
+196,-114,Alexander Rybak - Fairytale,23,28,,1130,-715.0,2975,1130,38115,Alexander Rybak,Fairytale
+197,RE,TOTO - Africa,575,59,,1128,,3373,1128,649855,TOTO,Africa
+198,-4,Kendrick Lamar - luther,172,3,(x3),1126,36.0,9286,-133,417092,Kendrick Lamar,luther
+199,RE,Sálin hans Jóns míns - Þú fullkomnar mig,38,97,,1123,,2287,1123,42921,Sálin hans Jóns míns,Þú fullkomnar mig
+200,RE,Drake - Passionfruit,159,2,(x9),1122,,1122,1122,557815,Drake,Passionfruit
