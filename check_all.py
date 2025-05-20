@@ -4,7 +4,9 @@ from pathlib import Path
 import os
 
 
-def check_country(country_file: str, results_df: pd.DataFrame):
+def check_country(
+    country_file: str, results_df: pd.DataFrame, target_country: str
+) -> int:
     folder = "kworb_charts"
     country_df = pd.read_csv(folder + "/" + country_file)
 
@@ -13,7 +15,6 @@ def check_country(country_file: str, results_df: pd.DataFrame):
     with mapping_path.open("r", encoding="utf-8") as f:
         mapping_names = json.load(f)
 
-    mapping_df = pd.read_csv("./country_map.csv")
     countries_on_the_chart = pd.merge(country_df, results_df, on="Artist")[
         ["Pos", "Country", "Points", "Public", "Jury"]
     ]
@@ -24,27 +25,31 @@ def check_country(country_file: str, results_df: pd.DataFrame):
     except KeyError:
         print(f"Code {country_code} isn't on the dict")
 
-    if "Israel" in countries_on_the_chart["Country"].to_numpy():
+    if target_country in countries_on_the_chart["Country"].to_numpy():
         il_pos = countries_on_the_chart.loc[
-            countries_on_the_chart["Country"] == "Israel", "Pos"
+            countries_on_the_chart["Country"] == target_country, "Pos"
         ].iloc[0]
-        print(f"Hooray! {country_name} loves us ({il_pos})")
-        if "Sweden" in countries_on_the_chart["Country"].to_numpy():
-            sw_pos = countries_on_the_chart.loc[
-                countries_on_the_chart["Country"] == "Sweden", "Pos"
-            ].iloc[0]
-            print(f"Oh they love Sweden too ({sw_pos})")
-        print()
-    # else:
-    #     print(f"{country_file.split('_')[0]} are anitisemites")
 
-    return countries_on_the_chart
+        return il_pos
+
+    else:
+        return 0
 
 
 def main():
     results_df = pd.read_csv("./results.csv")
-    for country_file in os.listdir("kworb_charts"):
-        check_country(country_file, results_df)
+
+    # target_country = "Israel"
+    target_country = "Estonia"
+    files_list = os.listdir("kworb_charts")
+    posistions = [
+        check_country(country_file, results_df, target_country)
+        for country_file in files_list
+    ]
+
+    print(f"Country: {target_country}")
+    print(round(sum(posistions) / len(posistions), 2))
+    print(round(len([p for p in posistions if p > 0]) / len(files_list), 2))
 
 
 if __name__ == "__main__":
