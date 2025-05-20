@@ -47,25 +47,45 @@ def build_cross_table(
             columns="Country",
             values="Pos",
             aggfunc="min",
-            fill_value=0,
         )
-        .astype(int)
         .sort_index()
         .sort_index(axis=1)
     )
     return cross
 
 
+def plot_cross_table(cross):
+    mask = cross.isna()
+
+    plt.figure(figsize=(11, 9))
+
+    sns.heatmap(
+        cross,
+        cmap="viridis_r",  # _r reverses so dark = low rank (better)
+        mask=mask,  # hide NaNs
+        linewidths=0.5,
+        annot=True,
+        fmt=".0f",  # numbers inside cells (optional)
+        cbar_kws={"label": "Best chart position"},
+    )
+
+    plt.title("How each country ranks on every other country's chart")
+    plt.tight_layout()
+    plt.show()
+
+
 def main() -> None:
     cross_table = build_cross_table()
 
     # Pretty print to console
-    with pd.option_context("display.max_rows", None, "display.max_columns", None):
-        print(cross_table)
+    # with pd.option_context("display.max_rows", None, "display.max_columns", None):
+    #     print(cross_table)
 
     # …and/or save:
-    cross_table.to_csv("country_cross_table.csv")
-    print("\nSaved → country_cross_table.csv")
+    # cross_table.to_csv("country_cross_table.csv")
+    # print("\nSaved → country_cross_table.csv")
+
+    plot_cross_table(cross_table)
 
 
 if __name__ == "__main__":
