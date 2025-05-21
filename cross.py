@@ -4,7 +4,7 @@ from pathlib import Path
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-CHART_FOLDER = Path("kworb_charts")
+CHART_FOLDER = Path("charts")
 RESULTS_FILE = Path("results.csv")
 MAPPING_FILE = Path("mapping.json")
 
@@ -56,7 +56,15 @@ def build_cross_table(
     return cross
 
 
-def plot_cross_table(cross):
+def final_points_table(table_path):
+    table_df = pd.read_csv(table_path)
+    table_df = table_df.drop(columns=["Unnamed: 0", "Total"])
+    table_df = table_df.set_index("Country")
+
+    return table_df
+
+
+def plot_cross_table(cross, label, title):
     mask = cross.isna()
 
     plt.figure(figsize=(11, 9))
@@ -68,10 +76,10 @@ def plot_cross_table(cross):
         linewidths=0.5,
         annot=True,
         fmt=".0f",  # numbers inside cells (optional)
-        cbar_kws={"label": "Best chart position"},
+        cbar_kws={"label": label},
     )
 
-    plt.title("How each country ranks on every other country's chart")
+    plt.title(title)
     plt.tight_layout()
     plt.show()
 
@@ -79,15 +87,24 @@ def plot_cross_table(cross):
 def main() -> None:
     cross_table = build_cross_table()
 
-    # Pretty print to console
-    # with pd.option_context("display.max_rows", None, "display.max_columns", None):
-    #     print(cross_table)
+    jury_table = final_points_table("./jury.csv")
+    public_table = final_points_table("./public.csv")
 
-    # …and/or save:
-    # cross_table.to_csv("country_cross_table.csv")
-    # print("\nSaved → country_cross_table.csv")
-
-    plot_cross_table(cross_table)
+    plot_cross_table(
+        cross_table,
+        label="Best chart position",
+        title="How each country ranks on every other country's chart",
+    )
+    plot_cross_table(
+        public_table,
+        label="Points",
+        title="How many points each country gave",
+    )
+    plot_cross_table(
+        jury_table,
+        label="Points",
+        title="How many points each jury gave",
+    )
 
 
 if __name__ == "__main__":
