@@ -64,14 +64,15 @@ def final_points_table(table_path):
     return table_df
 
 
-def plot_cross_table(cross, label, title):
+def plot_cross_table(cross, label, title, reverse=False):
     mask = cross.isna()
 
     plt.figure(figsize=(11, 9))
+    pallete = "viridis_r" if reverse else "viridis"
 
     sns.heatmap(
         cross,
-        cmap="viridis_r",  # _r reverses so dark = low rank (better)
+        cmap=pallete,
         mask=mask,  # hide NaNs
         linewidths=0.5,
         annot=True,
@@ -84,16 +85,73 @@ def plot_cross_table(cross, label, title):
     plt.show()
 
 
-def main() -> None:
-    cross_table = build_cross_table()
+def compare2(charts, jury, public):
+    not_in_final = [c for c in jury.columns if c not in jury.index]
+    jury = jury.drop(columns=not_in_final)
+    public = public.drop(columns=not_in_final)
 
-    jury_table = final_points_table("./jury.csv")
-    public_table = final_points_table("./public.csv")
+    charts = charts.sort_index().sort_index(axis=1)
+    jury = jury.reindex_like(charts)
+    public = public.reindex_like(charts)
 
+    charts_vec = charts.to_numpy().ravel()  # 1-D array of length n_rows * n_cols
+    jury_vec = jury.to_numpy().ravel()
+    public_vec = public.to_numpy().ravel()
+
+    flat_df = pd.DataFrame(
+        {
+            "charts": charts_vec,
+            "jury": jury_vec,
+            "public": public_vec,
+        }
+    )
+
+    pearson_corr = flat_df.corr(method="pearson")
+    spearman_corr = flat_df.corr(method="spearman")
+
+    print("Pearson")
+    print(pearson_corr)
+    print("Spearman")
+    print(spearman_corr)
+
+
+def compare(charts, jury, public):
+    not_in_final = [c for c in jury.columns if c not in jury.index]
+    jury = jury.drop(columns=not_in_final)
+    public = public.drop(columns=not_in_final)
+
+    charts = charts.sort_index().sort_index(axis=1)
+    jury = jury.reindex_like(charts)
+    public = public.reindex_like(charts)
+
+    charts_df = charts.stack()  # a pd.Series indexed by (row_index, col_index)
+    jury_df = jury.stack()
+    public_df = public.stack()
+
+    df = pd.concat(
+        [
+            charts_df.rename("Charts"),
+            jury_df.rename("Jury"),
+            public_df.rename("Public"),
+        ],
+        axis=1,
+    )
+
+    corr_matrix = df.corr()
+    print(corr_matrix)
+
+    # sns.heatmap(corr_matrix)
+    # pd.plotting.scatter_matrix(df, diagonal="kde", figsize=(6, 6))
+    # plt.tight_layout()
+    # plt.show()
+
+
+def plot_heats(cross_table, jury_table, public_table):
     plot_cross_table(
         cross_table,
         label="Best chart position",
         title="How each country ranks on every other country's chart",
+        reverse=True,
     )
     plot_cross_table(
         public_table,
@@ -105,6 +163,17 @@ def main() -> None:
         label="Points",
         title="How many points each jury gave",
     )
+
+
+def main() -> None:
+    cross_table = build_cross_table()
+
+    jury_table = final_points_table("./jury.csv")
+    public_table = final_points_table("./public.csv")
+
+    # compare(cross_table, jury_table, public_table)
+    compare2(cross_table, jury_table, public_table)
+    # plot_heats(cross_table, jury_table, public_table)
 
 
 if __name__ == "__main__":
