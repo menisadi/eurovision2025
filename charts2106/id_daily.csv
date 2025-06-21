@@ -1,0 +1,201 @@
+Pos,P+,Artist and Title,Days,Pk,(x?),Streams,Streams+,7Day,7Day+,Total,Artist,Track
+1,=,Fourtwnty - Mangu (w/ Charita Utami),123,1,(x54),1769625,-97090.0,13164154,-291573,163416912,Fourtwnty,Mangu (w/ Charita Utami)
+2,=,Raim Laode - Lesung Pipi,75,2,(x58),1133247,-15802.0,8342999,-129041,100077892,Raim Laode,Lesung Pipi
+3,=,NIKI - You'll Be in My Heart - Spotify Singles,108,1,(x24),1032738,-53896.0,7605435,-123406,116412366,NIKI,You'll Be in My Heart - Spotify Singles
+4,=,.Feast - Nina,298,1,(x25),1018930,-30618.0,7071042,70586,244224778,.Feast,Nina
+5,+1,.Feast - Tarot,167,5,,1008135,36930.0,6071772,270230,48953023,.Feast,Tarot
+6,-1,Nadhif Basalamah - bergema sampai selamanya,93,4,,995464,-7674.0,6729942,64256,51255712,Nadhif Basalamah,bergema sampai selamanya
+7,=,For Revenge - Serana,1132,1,(x20),885878,-20754.0,6244992,-72748,512872857,For Revenge,Serana
+8,=,Hindia - Rumah Ke Rumah,2029,6,,796342,-40421.0,5302882,-14911,462499370,Hindia,Rumah Ke Rumah
+9,=,Raim Laode - Komang,859,1,(x64),744756,-129.0,5263038,-45677,478936728,Raim Laode,Komang
+10,=,Batas Senja - Kita Usahakan Lagi,45,6,,736491,10312.0,5260320,45754,27962196,Batas Senja,Kita Usahakan Lagi
+11,=,Pamungkas - Monolog,1896,9,,696082,-19249.0,4713840,-46771,249735430,Pamungkas,Monolog
+12,+1,"Naykilla - Kasih Aba Aba (w/ Tenxi, Jemsii)",38,11,,645639,-5014.0,4585007,22277,18519288,Naykilla,"Kasih Aba Aba (w/ Tenxi, Jemsii)"
+13,-1,Hindia - Cincin,710,8,,640872,-13912.0,4346979,38338,234855006,Hindia,Cincin
+14,=,Sheila On 7 - Bila Kau Tak Disampingku,101,5,,601497,-7586.0,4059693,-4122,51093346,Sheila On 7,Bila Kau Tak Disampingku
+15,+5,".Feast - o,Tuan",158,15,,592323,45230.0,3724788,102593,51528255,.Feast,"o,Tuan"
+16,+2,Nadin Amizah - Bertaut,1848,1,(x40),561524,7510.0,3876445,29880,495858511,Nadin Amizah,Bertaut
+17,=,Feby Putri - Runtuh (w/ Fiersa Besari),1349,1,(x4),559098,-18969.0,3802886,13489,568415620,Feby Putri,Runtuh (w/ Fiersa Besari)
+18,-3,Faris Adam - Stecu Stecu,78,2,(x5),551284,-33365.0,4198248,-69621,57412154,Faris Adam,Stecu Stecu
+19,-3,Batas Senja - Nanti Kita Seperti Ini,777,3,(x25),548136,-33156.0,4052636,-30919,321162241,Batas Senja,Nanti Kita Seperti Ini
+20,+2,Anggi Marito - Tak Segampang Itu,897,1,(x98),538718,9493.0,3596778,51732,564254072,Anggi Marito,Tak Segampang Itu
+21,-2,Hindia - everything u are,108,15,,533774,-19613.0,3772660,-25538,38991422,Hindia,everything u are
+22,+10,Sheila On 7 - Dan...,2868,7,,531910,44614.0,3273746,67443,215746084,Sheila On 7,Dan...
+23,=,Last Child - Duka,1440,9,,531516,11553.0,3516627,40430,490949651,Last Child,Duka
+24,-3,The Lantis - Bunga Maaf,195,2,(x12),525633,-8480.0,3689277,-2866,138411866,The Lantis,Bunga Maaf
+25,+6,Virgoun - Selamat (Selamat Tinggal) (w/ Audy),2157,6,,510962,18908.0,3457207,24851,450961850,Virgoun,Selamat (Selamat Tinggal) (w/ Audy)
+26,+11,Vierra - Seandainya,1574,12,,506315,48043.0,3349107,44678,365861610,Vierra,Seandainya
+27,-1,sombr - back to friends,46,22,,504024,-7418.0,3473633,19349,15359174,sombr,back to friends
+28,-4,For Revenge - Jakarta Hari Ini (w/ Stereo Wall),772,7,,501669,-14008.0,3639590,-45615,243752438,For Revenge,Jakarta Hari Ini (w/ Stereo Wall)
+29,=,Suara Kayu - Kembali Pulang (w/ Feby Putri),861,8,,500600,4957.0,3270865,-126938,315118823,Suara Kayu,Kembali Pulang (w/ Feby Putri)
+30,+4,Billie Eilish - BIRDS OF A FEATHER,383,3,(x4),495027,28795.0,3372857,20619,230980452,Billie Eilish,BIRDS OF A FEATHER
+31,+4,yung kai - blue,215,2,(x2),488577,24762.0,3287980,4031,140917968,yung kai,blue
+32,-4,Andra & The Backbone - Sempurna,2881,13,,484754,-11087.0,3296427,39821,366018116,Andra & The Backbone,Sempurna
+33,-6,Nadhif Basalamah - penjaga hati,625,1,(x151),480303,-18789.0,3167306,58504,364401260,Nadhif Basalamah,penjaga hati
+34,-9,Hindia - Evaluasi,1305,1,(x40),480061,-33005.0,3293929,17858,380443810,Hindia,Evaluasi
+35,-2,Juan Reza - PICA PICA,84,11,,478438,-2358.0,3482597,-22740,41463634,Juan Reza,PICA PICA
+36,-6,For Revenge - Penyangkalan,309,19,,468325,-25077.0,3361764,-23855,107651835,For Revenge,Penyangkalan
+37,+5,Lyodra - Pesan Terakhir,1431,3,(x14),451248,22857.0,3057242,-14134,462629408,Lyodra,Pesan Terakhir
+38,=,NaFF - Kau Masih Kekasihku,142,25,,446885,-2446.0,3088864,7257,46296530,NaFF,Kau Masih Kekasihku
+39,-3,Juicy Luicy - Lantas,1599,2,(x1),437393,-24229.0,3109768,4454,459032342,Juicy Luicy,Lantas
+40,+1,Gigi Perez - Sailor Song,139,22,,434843,243.0,2998003,401,51743890,Gigi Perez,Sailor Song
+41,+3,Billie Eilish - WILDFLOWER,246,18,,431995,14887.0,2987452,6421,97137548,Billie Eilish,WILDFLOWER
+42,-3,Hindia - semua lagu cinta terdengar sama,101,15,,426284,-18301.0,3104258,-22643,43770904,Hindia,semua lagu cinta terdengar sama
+43,-3,Fourtwnty - Hitam Putih,1887,6,,423841,-15244.0,3375986,-70205,151314924,Fourtwnty,Hitam Putih
+44,+4,Yovie & Nuno - Tanpa Cinta,976,31,,416793,23536.0,2861476,-11416,198942480,Yovie & Nuno,Tanpa Cinta
+45,-2,The 1975 - About You,929,23,,411857,-10021.0,2948947,-3732,209937642,The 1975,About You
+46,+7,Bernadya - Kata Mereka Ini Berlebihan,461,3,(x10),400641,14530.0,2807924,-51028,249644371,Bernadya,Kata Mereka Ini Berlebihan
+47,+3,Andmesh - Anugerah Terindah,208,1,(x46),397161,7571.0,2802874,-7682,160462152,Andmesh,Anugerah Terindah
+48,-3,"Tenxi - Garam & Madu (Sakit Dadaku) (w/ Jemsii, Naykilla)",168,1,(x33),390715,-25207.0,2873919,-30143,136918638,Tenxi,"Garam & Madu (Sakit Dadaku) (w/ Jemsii, Naykilla)"
+49,=,Rony Parulian - Tak Ada Ujungnya,204,4,,385801,-5557.0,2667729,-14669,109881324,Rony Parulian,Tak Ada Ujungnya
+50,-3,Bernadya - Satu Bulan,444,1,(x72),376618,-22666.0,2581124,31186,319793267,Bernadya,Satu Bulan
+51,=,Halstage - L,1162,7,,372276,-17096.0,2474717,20114,336988815,Halstage,L
+52,-6,Nidji - Rahasia Hati,372,29,,371176,-42333.0,2691753,-20980,128215878,Nidji,Rahasia Hati
+53,+1,Tulus - Monokrom,3110,12,,362604,-10102.0,2748151,-47764,449034749,Tulus,Monokrom
+54,+3,Lady Gaga - Die With A Smile (w/ Bruno Mars),304,1,(x11),361390,6267.0,2550892,-7976,239988746,Lady Gaga,Die With A Smile (w/ Bruno Mars)
+55,-3,Juicy Luicy - Tampar,1130,7,,356837,-31629.0,2543861,15242,319991185,Juicy Luicy,Tampar
+56,=,Dudy Oris - Aku Yang Jatuh Cinta,399,1,(x23),356172,-9243.0,2689022,-31582,260325874,Dudy Oris,Aku Yang Jatuh Cinta
+57,+2,Hindia - Secukupnya,2100,1,(x26),355672,10618.0,2439919,17761,340087151,Hindia,Secukupnya
+58,+11,Budi Doremi - Tak Kan Hilang,958,1,(x5),349256,39789.0,2262929,11451,286129689,Budi Doremi,Tak Kan Hilang
+59,+2,Payung Teduh - Untuk Perempuan Yang Sedang Di Pelukan,3366,21,,346201,9918.0,2388211,30381,283415457,Payung Teduh,Untuk Perempuan Yang Sedang Di Pelukan
+60,-5,Hindia - Kita Ke Sana,352,55,,345126,-23540.0,2439681,31572,88772174,Hindia,Kita Ke Sana
+61,-3,Nadin Amizah - Sorai,1373,35,,338824,-9988.0,2514647,-14046,202636876,Nadin Amizah,Sorai
+62,+11,Ari Lasso - Cinta Terakhir,382,62,,338510,36746.0,2083300,24714,68596356,Ari Lasso,Cinta Terakhir
+63,-3,MikkyZia - Aku Dah Lupa (w/ F4dli),100,1,(x6),325811,-16742.0,2462259,-35990,59019856,MikkyZia,Aku Dah Lupa (w/ F4dli)
+64,+6,Virgoun - Surat Cinta Untuk Starla,1008,56,,322723,13968.0,2142881,23054,157195368,Virgoun,Surat Cinta Untuk Starla
+65,+2,Sheila On 7 - Hari Bersamanya,373,61,,322495,7381.0,1966371,54658,59029166,Sheila On 7,Hari Bersamanya
+66,-2,"Silet Open Up - TABOLA BALE (w/ Jacson Seran, Juan Reza, Diva Aurel)",9,64,,319605,-3882.0,2032118,119774,2413563,Silet Open Up,"TABOLA BALE (w/ Jacson Seran, Juan Reza, Diva Aurel)"
+67,+4,One Direction - Night Changes,1635,10,,318603,13630.0,2162804,27910,338438349,One Direction,Night Changes
+68,-6,Jin - Don’t Say You Love Me,35,37,,314429,-21155.0,2372544,-11083,12105187,Jin,Don’t Say You Love Me
+69,-4,Yovie Widianto - Tanpa Cinta (w/ Tiara Andini),54,10,,308841,-9977.0,2243261,-13705,26304163,Yovie Widianto,Tanpa Cinta (w/ Tiara Andini)
+70,-7,Henry Moodie - drunk text,529,1,(x89),305716,-18533.0,2176048,-4740,254144916,Henry Moodie,drunk text
+71,-5,Rio Clappy - Bunga Abadi,344,6,,297079,-18578.0,2279883,-48937,196569946,Rio Clappy,Bunga Abadi
+72,=,Mahalini - Bawa Dia Kembali,484,4,,296055,-8594.0,2167713,-26291,204873654,Mahalini,Bawa Dia Kembali
+73,+3,Ariana Grande - we can't be friends (wait for your love),467,2,(x13),289973,4991.0,1996392,10220,187541748,Ariana Grande,we can't be friends (wait for your love)
+74,+15,Tulus - Hati-Hati di Jalan,1205,1,(x89),288877,22043.0,1855289,-3386,390143834,Tulus,Hati-Hati di Jalan
+75,-1,"Bernadya - Untungnya, Hidup Harus Tetap Berjalan",326,2,(x3),281968,-13026.0,2118449,-47012,215023223,Bernadya,"Untungnya, Hidup Harus Tetap Berjalan"
+76,+5,Nadin Amizah - Semua Aku Dirayakan,679,8,,280786,309.0,1972773,-350,190045051,Nadin Amizah,Semua Aku Dirayakan
+77,+7,Gracie Abrams - That’s So True,214,28,,279605,5851.0,1917801,9573,73135567,Gracie Abrams,That’s So True
+78,-3,Kahitna - Soulmate,577,9,,278775,-8149.0,2060367,-49381,81494366,Kahitna,Soulmate
+79,+3,Arctic Monkeys - I Wanna Be Yours,1076,14,,277348,-2801.0,1909504,349,283025990,Arctic Monkeys,I Wanna Be Yours
+80,-3,Sheila On 7 - Kita,135,61,,276868,-5748.0,1865806,11527,21282338,Sheila On 7,Kita
+81,+6,Maroon 5 - Payphone (w/ Wiz Khalifa),940,54,,276306,8416.0,1877313,14467,93131850,Maroon 5,Payphone (w/ Wiz Khalifa)
+82,+8,Ernie Zakri - Masing Masing (w/ Ade Govinda),267,2,(x6),274926,8877.0,1853199,12321,153216512,Ernie Zakri,Masing Masing (w/ Ade Govinda)
+83,+11,For Revenge - Sadrah,205,58,,272291,8987.0,1916592,-30780,51082014,For Revenge,Sadrah
+84,-1,James Arthur - Car's Outside,866,8,,270639,-8507.0,1894544,-2830,248973550,James Arthur,Car's Outside
+85,-17,Sal Priadi - Kita usahakan rumah itu,140,49,,268013,-41641.0,2030951,-13481,39073674,Sal Priadi,Kita usahakan rumah itu
+86,-7,Adrian Khalif - Sialan (w/ Juicy Luicy),458,1,(x5),267384,-14030.0,2039208,788,263927185,Adrian Khalif,Sialan (w/ Juicy Luicy)
+87,-9,James Arthur - Rewrite The Stars (w/ Anne-Marie),1003,7,,267310,-14403.0,1918729,1103,239875386,James Arthur,Rewrite The Stars (w/ Anne-Marie)
+88,-3,Lord Huron - The Night We Met,643,33,,265738,-4360.0,1837794,7015,166883914,Lord Huron,The Night We Met
+89,+13,"The Weeknd - One Of The Girls (w/ JENNIE, Lily-Rose Depp)",663,3,(x11),264453,11962.0,1885355,-10833,237524093,The Weeknd,"One Of The Girls (w/ JENNIE, Lily-Rose Depp)"
+90,-2,Fourtwnty - Aku Tenang,1313,24,,263327,-3870.0,1901968,-9334,61627796,Fourtwnty,Aku Tenang
+91,+1,NIKI - Backburner,410,17,,262339,-2018.0,1950089,-42262,88728229,NIKI,Backburner
+92,-1,Denny Caknan - Sinarengan (w/ Bella Bonita),97,45,,261285,-4239.0,1900462,-15379,30638169,Denny Caknan,Sinarengan (w/ Bella Bonita)
+93,=,Aziz Hedra - Somebody's Pleasure (Extended Version),188,13,,259387,-4117.0,1863636,-27455,64902101,Aziz Hedra,Somebody's Pleasure (Extended Version)
+94,+21,Mahen - Pura Pura Lupa,1250,1,(x11),257537,16395.0,1879023,-8749,192778140,Mahen,Pura Pura Lupa
+95,+5,Vierra - Rasa ini,348,61,,256638,3055.0,1759210,-881,71506286,Vierra,Rasa ini
+96,+3,Djo - End of Beginning,482,1,(x17),255748,8.0,1760530,8813,192943093,Djo,End of Beginning
+97,+20,Halstage - terima kasih,922,46,,253926,14385.0,1652129,-4457,190364366,Halstage,terima kasih
+98,+7,Dendi Nata - Abadi - Indo Version,200,67,,251877,2892.0,1766074,31835,40342622,Dendi Nata,Abadi - Indo Version
+99,-4,Juicy Luicy - Lampu Kuning,349,14,,251477,-10983.0,1764357,1322,143188930,Juicy Luicy,Lampu Kuning
+100,+14,Tulus - Interaksi,1205,9,,250559,9347.0,1635803,18972,337059950,Tulus,Interaksi
+101,+5,Kerispatih - Tapi Bukan Aku,266,85,,248972,1188.0,1663966,8953,54674624,Kerispatih,Tapi Bukan Aku
+102,+21,"Prince Poetiray - Selalu Ada di Nadimu (Original Soundtrack From “JUMBO"") (w/ Quinn Salman)",73,7,,248550,16788.0,1862963,-27723,33920912,Prince Poetiray,"Selalu Ada di Nadimu (Original Soundtrack From “JUMBO"") (w/ Quinn Salman)"
+103,-2,.Feast - Peradaban,502,48,,248138,-5135.0,1757234,9895,54076194,.Feast,Peradaban
+104,-1,Ziva Magnolya - Cukup,224,81,,245626,-5004.0,1760544,-27229,44013643,Ziva Magnolya,Cukup
+105,-8,Ghea Indrawari - Jiwa Yang Bersedih,735,1,(x67),244708,-12011.0,1861692,-8281,312745782,Ghea Indrawari,Jiwa Yang Bersedih
+106,-2,Last Child - Sekuat Hatimu,595,14,,242702,-6818.0,1656830,18324,167499337,Last Child,Sekuat Hatimu
+107,+4,Daun Jatuh - Resah Jadi Luka,1667,12,,241446,-828.0,1732657,-79091,252963516,Daun Jatuh,Resah Jadi Luka
+108,-28,Afgan - Jodoh Pasti Bertemu,256,42,,241192,-39358.0,1872819,-10109,56724990,Afgan,Jodoh Pasti Bertemu
+109,-11,NDX A.K.A. - Tresno Tekan Mati New Version - Remastered 2023,178,8,,239750,-16675.0,1802602,-20858,77724513,NDX A.K.A.,Tresno Tekan Mati New Version - Remastered 2023
+110,+12,Last Child - Seluruh Nafas Ini (w/ Gisel),1004,46,,238738,5542.0,1701779,12184,198684262,Last Child,Seluruh Nafas Ini (w/ Gisel)
+111,-2,Keisya Levronka - Tak Ingin Usai,1128,1,(x66),237605,-5990.0,1666989,-3308,317058828,Keisya Levronka,Tak Ingin Usai
+112,+20,Nidji - Hapus Aku,648,6,,235284,11020.0,1612539,11545,157917850,Nidji,Hapus Aku
+113,NEW,Hearts2Hearts - STYLE,1,113,,234481,,234481,234481,234481,Hearts2Hearts,STYLE
+114,+13,"Hindia - Berdansalah, Karir Ini Tak Ada Artinya",65,111,,233464,6771.0,1579736,14255,12069634,Hindia,"Berdansalah, Karir Ini Tak Ada Artinya"
+115,+19,Vierra - Terlalu Lama,91,115,,233206,11121.0,1282019,41435,14419182,Vierra,Terlalu Lama
+116,+5,Aziz Hedra - Somebody's Pleasure,809,5,,233128,-1098.0,1637577,-3988,291622285,Aziz Hedra,Somebody's Pleasure
+117,+8,Nadin Amizah - Rayuan Perempuan Gila,728,4,,233044,2855.0,1565322,12097,218273907,Nadin Amizah,Rayuan Perempuan Gila
+118,+2,Bernadya - Apa Mungkin,761,5,,232946,-1732.0,1654798,8545,233284999,Bernadya,Apa Mungkin
+119,-33,Sal Priadi - Gala bunga matahari,361,1,(x24),232838,-36458.0,1794244,5477,192789748,Sal Priadi,Gala bunga matahari
+120,+6,NaFF - Kenanglah Aku,618,51,,231980,4387.0,1536985,7063,99453819,NaFF,Kenanglah Aku
+121,+17,NaFF - Akhirnya Ku Menemukanmu,132,73,,231669,12058.0,1695096,-38605,29270339,NaFF,Akhirnya Ku Menemukanmu
+122,+22,Element - Rahasia Hati - Remastered 2023,171,48,,231432,18414.0,1626549,-6950,34452113,Element,Rahasia Hati - Remastered 2023
+123,-10,The Goo Goo Dolls - Iris,581,88,,229767,-12022.0,1635826,-1654,54394816,The Goo Goo Dolls,Iris
+124,-28,d4vd - Here With Me,985,2,(x8),229295,-31689.0,1757305,-18702,290908464,d4vd,Here With Me
+125,-6,Utopia - Hujan,41,105,,228519,-6561.0,1531724,1953,8004835,Utopia,Hujan
+126,-19,Fabio Asher - Rumah Singgah,1130,2,(x2),228252,-19010.0,1493022,41644,303345913,Fabio Asher,Rumah Singgah
+127,-17,Yovie & Nuno - Menjaga Hati,598,81,,227858,-14865.0,1679845,-25168,100918793,Yovie & Nuno,Menjaga Hati
+128,+11,Seventeen - Untuk Mencintaimu,808,23,,227404,10140.0,1534673,-11520,144752589,Seventeen,Untuk Mencintaimu
+129,-17,Tiara Andini - Janji Setia,1179,12,,226931,-14859.0,1741724,-43263,266996691,Tiara Andini,Janji Setia
+130,+6,Seventeen - Tanpa Pesan Terakhir,611,2,(x19),226627,5102.0,1518303,-201,178633316,Seventeen,Tanpa Pesan Terakhir
+131,-7,"Bunga Citra Lestari - Selalu Ada di Nadimu (Original Soundtrack From “JUMBO"")",70,10,,224572,-5752.0,1576962,-22141,26071519,Bunga Citra Lestari,"Selalu Ada di Nadimu (Original Soundtrack From “JUMBO"")"
+132,-3,Acha Septriasa - My Heart (w/ Irwansyah),54,58,,221674,-4464.0,1731977,-112725,12418305,Acha Septriasa,My Heart (w/ Irwansyah)
+133,-17,Hindia - Membasuh (w/ Rara Sekar),737,21,,221533,-19207.0,1585548,13422,53273724,Hindia,Membasuh (w/ Rara Sekar)
+134,-26,Afgan - Ku Dengannya Kau Dengan Dia,416,60,,219466,-27243.0,1655055,11718,53989706,Afgan,Ku Dengannya Kau Dengan Dia
+135,+7,"Fourtwnty - Zona Nyaman (From ""Filosofi Kopi 2: Ben & Jody"")",1075,6,,218600,4442.0,1736271,-20399,66097534,Fourtwnty,"Zona Nyaman (From ""Filosofi Kopi 2: Ben & Jody"")"
+136,+5,Bruno Mars - It Will Rain,1201,4,,218403,3820.0,1482203,7434,197093205,Bruno Mars,It Will Rain
+137,+16,Yovie & Nuno - Sampai Akhir Waktu,289,98,,217969,16440.0,1444584,10549,56019781,Yovie & Nuno,Sampai Akhir Waktu
+138,+19,Yura Yunita - Cinta Dan Rahasia (w/ Glenn Fredly),2903,23,,215200,15996.0,1120224,14594,152847731,Yura Yunita,Cinta Dan Rahasia (w/ Glenn Fredly)
+139,-9,Ariana Grande - supernatural,53,65,,215147,-10555.0,1569628,-27071,13726638,Ariana Grande,supernatural
+140,+19,New West - Those Eyes,984,6,,215083,17476.0,1355030,26335,258683304,New West,Those Eyes
+141,+4,Cigarettes After Sex - Cry,277,79,,214904,1990.0,1495854,12891,57914712,Cigarettes After Sex,Cry
+142,-7,Pamungkas - To the Bone,1989,1,(x80),213164,-8376.0,1525830,-8160,361297695,Pamungkas,To the Bone
+143,-12,Pamungkas - Kenangan Manis,1747,12,,213006,-11518.0,1523256,-39642,196785833,Pamungkas,Kenangan Manis
+144,-26,The Script - The Man Who Can't Be Moved,913,35,,212783,-25308.0,1697113,-34579,38548190,The Script,The Man Who Can't Be Moved
+145,-8,raissa anggiani - Kau Rumahku,1040,1,(x12),212396,-9089.0,1528093,-26188,328547073,raissa anggiani,Kau Rumahku
+146,+2,Lyodra - Tak Dianggap,671,1,(x3),207395,-2760.0,1458341,-30486,237731299,Lyodra,Tak Dianggap
+147,+5,Arsy Widianto - Masih Hatiku (w/ Tiara Andini),401,5,,207128,5543.0,1296662,-3941,122312479,Arsy Widianto,Masih Hatiku (w/ Tiara Andini)
+148,-20,Ed Sheeran - Photograph,2054,48,,207048,-19276.0,1492025,-5468,111684056,Ed Sheeran,Photograph
+149,+1,NIKI - Take A Chance With Me,622,7,,205663,-227.0,1476638,-32778,172064589,NIKI,Take A Chance With Me
+150,-7,Kapthenpurek - Kaka Main Salah (w/ Silet Open Up),64,63,,203910,-9176.0,1493557,-12694,13070175,Kapthenpurek,Kaka Main Salah (w/ Silet Open Up)
+151,+22,Olivia Rodrigo - traitor,939,8,,203276,15894.0,1307744,3229,135470947,Olivia Rodrigo,traitor
+152,+2,Ruth B. - Dandelions,1623,13,,202823,1651.0,1411897,2782,317518127,Ruth B.,Dandelions
+153,+5,.Feast - Kami Belum Tentu,105,134,,202367,3210.0,1363445,27580,10306253,.Feast,Kami Belum Tentu
+154,-8,Coldplay - Yellow,1268,6,,201405,-10314.0,1422774,-314,162861541,Coldplay,Yellow
+155,+5,Sheila On 7 - Pemuja Rahasia,28,147,,200572,3403.0,1283399,3984,5333318,Sheila On 7,Pemuja Rahasia
+156,-7,Mahalini - Mati-Matian,448,2,(x27),200307,-6378.0,1478781,-19649,198580287,Mahalini,Mati-Matian
+157,-6,Nuh... - Teruntuk Mia,130,85,,199908,-4987.0,1484704,-35202,27422930,Nuh...,Teruntuk Mia
+158,-11,Arctic Monkeys - No. 1 Party Anthem,236,58,,199565,-11128.0,1417821,-13258,55728573,Arctic Monkeys,No. 1 Party Anthem
+159,+8,Mahalini - Sisa Rasa,1289,3,(x17),198315,4905.0,1287913,198315,318203473,Mahalini,Sisa Rasa
+160,+16,The Walters - I Love You So,1321,3,(x19),197303,11648.0,1371371,-2435,280829734,The Walters,I Love You So
+161,+8,Last Child - Diary Depresiku,918,28,,196884,5297.0,1349611,-3629,178767975,Last Child,Diary Depresiku
+162,RE,"Rebellion Rose - Aku, Kamu Dan Samudra",474,103,,196429,,196429,196429,71304719,Rebellion Rose,"Aku, Kamu Dan Samudra"
+163,-23,NDX A.K.A. - Nemen - Hiphop Dangdut Version,648,11,,195755,-20668.0,995881,195755,160652639,NDX A.K.A.,Nemen - Hiphop Dangdut Version
+164,+6,Tiara Andini - Usai,922,7,,194876,4972.0,1425412,6010,278661868,Tiara Andini,Usai
+165,+25,Maudy Ayunda - Perahu Kertas,798,63,,194665,20516.0,940064,-2139,132781544,Maudy Ayunda,Perahu Kertas
+166,+34,Utopia - Antara Ada dan Tiada,7,160,,194493,25280.0,556759,194493,1320254,Utopia,Antara Ada dan Tiada
+167,-5,One Direction - Right Now,804,11,,194453,-2445.0,1425583,-5892,200215743,One Direction,Right Now
+168,=,Misellia - Akhir Tak Bahagia,1244,8,,193595,421.0,1293345,-2031,242706891,Misellia,Akhir Tak Bahagia
+169,-13,Virgoun - Bukti,310,96,,192476,-7851.0,787070,192476,24145002,Virgoun,Bukti
+170,-7,Conan Gray - The Cut That Always Bleeds,202,71,,190123,-6157.0,1403809,-36644,42496100,Conan Gray,The Cut That Always Bleeds
+171,-38,Pamungkas - Risalah Hati,971,60,,189935,-33190.0,1376939,10708,133254395,Pamungkas,Risalah Hati
+172,-17,Dewa - Pupus,44,112,,189279,-11631.0,1414366,-15766,4424269,Dewa,Pupus
+173,+14,Nadin Amizah - Taruh,162,56,,188324,11889.0,1343435,-6965,36052160,Nadin Amizah,Taruh
+174,+3,Dewa 19 - Aku Milikmu,544,106,,186914,2827.0,1357355,2292,92553138,Dewa 19,Aku Milikmu
+175,-11,Rony Parulian - Pesona Sederhana,22,125,,186836,-7970.0,1294255,186836,4339958,Rony Parulian,Pesona Sederhana
+176,-10,Coldplay - Fix You,864,48,,186650,-7699.0,1341246,-3664,47604264,Coldplay,Fix You
+177,RE,Yura Yunita - Tutur Batin,1198,15,,186087,,557907,186087,208661009,Yura Yunita,Tutur Batin
+178,-6,Maman Fvndy - Tia Monika - Remix,15,143,,185331,-2148.0,1305218,-13027,2811495,Maman Fvndy,Tia Monika - Remix
+179,+3,SAMSONS - Kenangan Terindah,1799,48,,184978,6468.0,1328598,184978,68123344,SAMSONS,Kenangan Terindah
+180,+1,SZA - Saturn,361,8,,184412,5355.0,1288084,-8325,92105568,SZA,Saturn
+181,+2,Shabrina Leanor - Pendampingmu #TahtaHatiku,22,101,,181208,2807.0,1270057,-15985,4444460,Shabrina Leanor,Pendampingmu #TahtaHatiku
+182,-21,Geisha - Karena Kamu,561,2,(x50),181020,-15889.0,1306742,2753,164558198,Geisha,Karena Kamu
+183,+2,Kerispatih - Mengenangmu,119,113,,180450,2658.0,1297428,-15258,20193510,Kerispatih,Mengenangmu
+184,RE,Bruno Mars - Just the Way You Are,895,47,,179734,,698234,-30625,141620814,Bruno Mars,Just the Way You Are
+185,-11,NaFF - Terendap Laraku,10,144,,178945,-6809.0,364699,178945,1711149,NaFF,Terendap Laraku
+186,RE,Geisha - Jika Cinta Dia,63,131,,178777,,178777,178777,10921629,Geisha,Jika Cinta Dia
+187,+12,Olivia Rodrigo - happier,1429,1,(x26),178742,9159.0,1046825,-9724,262347367,Olivia Rodrigo,happier
+188,RE,James Arthur - Impossible,24,154,,178532,,178532,178532,4406289,James Arthur,Impossible
+189,-9,JENNIE - like JENNIE,105,25,,177557,-2081.0,1285918,-18037,33466346,JENNIE,like JENNIE
+190,-11,Ed Sheeran - Perfect,1749,2,(x43),177063,-3709.0,1231970,177063,112233798,Ed Sheeran,Perfect
+191,-20,Feby Putri - Usik,506,102,,176339,-13124.0,891682,176339,55106100,Feby Putri,Usik
+192,+6,Yovie & Nuno - Mengejar Mimpi,10,178,,176125,6282.0,345968,176125,1628014,Yovie & Nuno,Mengejar Mimpi
+193,RE,Bernadya - Kini Mereka Tahu,355,7,,175660,,175660,-16952,151483155,Bernadya,Kini Mereka Tahu
+194,-8,Hivi! - Remaja,2443,17,,175245,-2372.0,1255135,-4649,178795280,Hivi!,Remaja
+195,+2,Sheila On 7 - Seberapa Pantas,1369,40,,174418,4470.0,682086,174418,67387406,Sheila On 7,Seberapa Pantas
+196,-7,Mitski - My Love Mine All Mine,609,3,(x6),173699,-1119.0,1244536,-3969,185263318,Mitski,My Love Mine All Mine
+197,RE,Sal Priadi - Amin Paling Serius (w/ Nadin Amizah),1270,18,,173565,,690166,786,152917975,Sal Priadi,Amin Paling Serius (w/ Nadin Amizah)
+198,-6,Bernadya - Lama-Lama,306,3,(x4),173234,1290.0,518255,173234,142437691,Bernadya,Lama-Lama
+199,-21,Coldplay - The Scientist,973,55,,173037,-8034.0,1274044,-3351,26125690,Coldplay,The Scientist
+200,RE,Sheila On 7 - Sephia,34,144,,172470,,172470,172470,5260978,Sheila On 7,Sephia

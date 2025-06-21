@@ -1,0 +1,201 @@
+Pos,P+,Artist and Title,Days,Pk,(x?),Streams,Streams+,7Day,7Day+,Total,Artist,Track
+1,=,Sabrina Carpenter - Manchild,14,1,(x14),1524900,38156.0,11049611,-378200,24958301,Sabrina Carpenter,Manchild
+2,=,Alex Warren - Ordinary,133,1,(x13),1153215,35363.0,7980102,-7841,134028842,Alex Warren,Ordinary
+3,=,sombr - back to friends,94,3,(x6),1092047,2632.0,7531690,-31589,79977057,sombr,back to friends
+4,=,Morgan Wallen - What I Want (w/ Tate McRae),35,1,(x21),1048187,54290.0,7530702,-223871,50496486,Morgan Wallen,What I Want (w/ Tate McRae)
+5,+1,Ravyn Lenae - Love Me Not,103,5,,978834,55579.0,6474600,88716,66694918,Ravyn Lenae,Love Me Not
+6,-1,Lil Tecca - Dark Thoughts,98,2,(x5),923473,-52342.0,6620828,180158,95257636,Lil Tecca,Dark Thoughts
+7,=,sombr - undressed,86,2,(x4),890079,-1494.0,6114189,-21455,73269965,sombr,undressed
+8,=,Morgan Wallen - Just In Case,91,2,(x11),889993,23718.0,6250266,13912,93937587,Morgan Wallen,Just In Case
+9,=,Lil Tecca - OWA OWA,21,3,(x1),842185,-21337.0,6311320,40866,18599794,Lil Tecca,OWA OWA
+10,=,Billie Eilish - BIRDS OF A FEATHER,399,2,(x10),841136,15565.0,5657502,33756,587126175,Billie Eilish,BIRDS OF A FEATHER
+11,=,Kendrick Lamar - luther,210,1,(x54),832652,12784.0,5945654,-36547,358729815,Kendrick Lamar,luther
+12,+3,Chappell Roan - Pink Pony Club,380,4,,820266,61457.0,5436552,60956,328226673,Chappell Roan,Pink Pony Club
+13,-1,Morgan Wallen - I Got Better,35,4,,801359,19847.0,5819804,-113466,36219095,Morgan Wallen,I Got Better
+14,-1,Drake - NOKIA,126,1,(x24),799969,30585.0,5535739,-21619,153143507,Drake,NOKIA
+15,-1,Morgan Wallen - I'm The Problem,140,1,(x1),770174,10303.0,5374199,-5382,114889633,Morgan Wallen,I'm The Problem
+16,+4,Post Malone - I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen),406,1,(x6),757940,84295.0,5085132,49777,538491126,Post Malone,I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen)
+17,+2,Benson Boone - Mystical Magical,56,14,,745593,69381.0,4916626,21587,36739790,Benson Boone,Mystical Magical
+18,-2,The Marías - No One Noticed,307,4,,741022,32386.0,5049934,8614,223688989,The Marías,No One Noticed
+19,-2,Benson Boone - Beautiful Things,518,1,(x5),717659,30830.0,4816595,60543,516614052,Benson Boone,Beautiful Things
+20,+3,Shaboozey - A Bar Song (Tipsy),434,1,(x1),703164,45775.0,4822237,52028,540001466,Shaboozey,A Bar Song (Tipsy)
+21,-3,Lady Gaga - Die With A Smile (w/ Bruno Mars),308,1,(x30),702714,26162.0,4738409,11409,450989817,Lady Gaga,Die With A Smile (w/ Bruno Mars)
+22,+2,Jessie Murph - Blue Strips,65,6,,664817,16262.0,4608984,-43140,47667800,Jessie Murph,Blue Strips
+23,+4,Charli xcx - party 4 u,61,12,,659851,34082.0,4420927,-27301,43229869,Charli xcx,party 4 u
+24,-2,Gigi Perez - Sailor Song,324,3,(x5),650408,-8468.0,4468056,5565,316029778,Gigi Perez,Sailor Song
+25,+1,The Weeknd - Timeless (w/ Playboi Carti),266,1,(x7),648184,19720.0,4425149,-8807,284465636,The Weeknd,Timeless (w/ Playboi Carti)
+26,+4,Teddy Swims - Lose Control,590,5,,641841,31172.0,4403047,35555,464924409,Teddy Swims,Lose Control
+27,+1,Hozier - Too Sweet,454,1,(x17),637986,13637.0,4324199,27362,457464407,Hozier,Too Sweet
+28,+1,Sabrina Carpenter - Espresso,434,1,(x4),637297,24791.0,4329516,19480,581453194,Sabrina Carpenter,Espresso
+29,+18,Fleetwood Mac - Dreams - 2004 Remaster,1625,6,,634436,92818.0,4058570,-15979,609047412,Fleetwood Mac,Dreams - 2004 Remaster
+30,-9,The Goo Goo Dolls - Iris,472,21,,632281,-27056.0,4420354,23763,194090143,The Goo Goo Dolls,Iris
+31,-6,BigXthaPlug - All The Way (w/ Bailey Zimmerman),77,2,(x1),627975,-19772.0,4515700,10425,61670346,BigXthaPlug,All The Way (w/ Bailey Zimmerman)
+32,+2,"Tyler, The Creator - See You Again (w/ Kali Uchis)",1469,3,(x1),626096,26580.0,4188335,35411,785230457,"Tyler, The Creator",See You Again (w/ Kali Uchis)
+33,+2,"Chappell Roan - Good Luck, Babe!",441,1,(x13),617721,27227.0,4059812,29234,549446355,Chappell Roan,"Good Luck, Babe!"
+34,+6,Kendrick Lamar - All The Stars (w/ SZA),1012,2,(x10),616358,45546.0,3953254,37107,529870015,Kendrick Lamar,All The Stars (w/ SZA)
+35,+4,Morgan Wallen - Love Somebody,244,1,(x2),612886,38146.0,4182095,34821,170872874,Morgan Wallen,Love Somebody
+36,-4,Fuerza Regida - TU SANCHO,25,32,,609081,4747.0,4105075,59351,12875816,Fuerza Regida,TU SANCHO
+37,+1,Morgan Wallen - 20 Cigarettes,35,12,,608756,25594.0,4341659,-72607,27141463,Morgan Wallen,20 Cigarettes
+38,-5,Tate McRae - Just Keep Watching (From F1® The Movie) (w/ F1 The Album),21,8,,605620,3272.0,4144867,-60042,14976143,Tate McRae,Just Keep Watching (From F1® The Movie) (w/ F1 The Album)
+39,-2,Kendrick Lamar - tv off (w/ Lefty Gunplay),209,1,(x9),596867,12265.0,4118805,-2067,283861697,Kendrick Lamar,tv off (w/ Lefty Gunplay)
+40,+1,Gracie Abrams - That’s So True,245,1,(x21),576627,7625.0,3861363,36509,270223253,Gracie Abrams,That’s So True
+41,+1,Kendrick Lamar - Not Like Us,411,1,(x51),567133,12227.0,3849342,21004,612307614,Kendrick Lamar,Not Like Us
+42,+6,Sabrina Carpenter - Taste,301,1,(x34),566295,25726.0,3695144,26925,319119385,Sabrina Carpenter,Taste
+43,+1,Morgan Wallen - I Ain't Comin' Back (w/ Post Malone),63,1,(x1),565987,19541.0,3952908,-27311,51196566,Morgan Wallen,I Ain't Comin' Back (w/ Post Malone)
+44,-8,wifiskeleton - Nope your too late i already died (w/ i wanna be a jack-o-lantern),45,24,,565701,-20434.0,4089212,-35787,25701643,wifiskeleton,Nope your too late i already died (w/ i wanna be a jack-o-lantern)
+45,-14,Arctic Monkeys - 505,1556,13,,563610,-44003.0,4057541,-13308,608272121,Arctic Monkeys,505
+46,-1,Radiohead - Creep,385,42,,555138,12797.0,3685432,41491,147280116,Radiohead,Creep
+47,+2,Zach Bryan - I Remember Everything (w/ Kacey Musgraves),664,1,(x7),553580,32046.0,3783448,8746,629033057,Zach Bryan,I Remember Everything (w/ Kacey Musgraves)
+48,-5,Tate McRae - Sports car,147,5,,552204,548.0,3699586,23305,127594000,Tate McRae,Sports car
+49,+6,Zach Top - I Never Lie,259,33,,550738,61814.0,3795632,33245,126731267,Zach Top,I Never Lie
+50,-4,Riley Green - Worst Way,163,40,,534178,-7738.0,3609682,-12149,79379634,Riley Green,Worst Way
+51,+5,Black Eyed Peas - Rock That Body,12,51,,528419,40050.0,3052788,145621,4802550,Black Eyed Peas,Rock That Body
+52,-2,Lil Tecca - Half The Plot,7,7,,505528,-6750.0,4088252,505528,4088252,Lil Tecca,Half The Plot
+53,+1,Billie Eilish - WILDFLOWER,399,10,,497357,7166.0,3381349,-1306,305683701,Billie Eilish,WILDFLOWER
+54,-2,Alex Warren - Bloodline (w/ Jelly Roll),28,9,,494163,-6374.0,3716761,-86884,18263462,Alex Warren,Bloodline (w/ Jelly Roll)
+55,+2,Leon Thomas - MUTT,128,31,,494006,9024.0,3383060,16021,65315031,Leon Thomas,MUTT
+56,+2,Bad Bunny - DtMF,166,1,(x21),493337,11576.0,3473121,-31319,162134202,Bad Bunny,DtMF
+57,-4,d4vd - Feel It,187,17,,492022,327.0,3420682,-19818,104964106,d4vd,Feel It
+58,-7,Coldplay - Sparks,349,49,,484613,-17445.0,3528390,-44542,114539544,Coldplay,Sparks
+59,+2,Morgan Wallen - Superman,42,2,(x1),479493,25165.0,3341024,-16205,31746083,Morgan Wallen,Superman
+60,+9,Morgan Wallen - Last Night,869,1,(x56),478534,36508.0,3287513,22709,776196129,Morgan Wallen,Last Night
+61,+4,ROSÉ - APT. (w/ Bruno Mars),245,1,(x8),477536,27981.0,3191811,29018,234356114,ROSÉ,APT. (w/ Bruno Mars)
+62,+6,Koe Wetzel - High Road (w/ Jessie Murph),223,17,,475287,32260.0,3252835,11825,111017863,Koe Wetzel,High Road (w/ Jessie Murph)
+63,-4,The Killers - Mr. Brightside,1754,21,,470807,5390.0,3222804,22494,579812926,The Killers,Mr. Brightside
+64,-2,Sabrina Carpenter - Please Please Please,377,1,(x27),461729,8733.0,3036104,34723,429814927,Sabrina Carpenter,Please Please Please
+65,+15,Luke Combs - Ain't No Love In Oklahoma (From Twisters: The Album),394,15,,461205,37047.0,3165846,62344,219254452,Luke Combs,Ain't No Love In Oklahoma (From Twisters: The Album)
+66,+22,Luke Combs - Where the Wild Things Are,388,31,,461202,57094.0,3172052,29278,195993019,Luke Combs,Where the Wild Things Are
+67,+7,Lola Young - Messy,204,10,,459035,26756.0,2908112,46718,141190640,Lola Young,Messy
+68,+3,Morgan Wallen - TN,35,15,,457219,20514.0,3173596,-48571,20686708,Morgan Wallen,TN
+69,+7,Addison Rae - Fame is a Gun,21,20,,453983,25369.0,3064424,-54716,10092037,Addison Rae,Fame is a Gun
+70,+11,Mac Miller - The Spins,1246,53,,453536,32455.0,2965900,25802,412204026,Mac Miller,The Spins
+71,-7,Fuerza Regida - Marlboro Rojo,42,48,,450478,611.0,2961058,19409,20498526,Fuerza Regida,Marlboro Rojo
+72,=,Ella Langley - weren't for the wind,65,69,,450141,14511.0,3043709,57657,23845635,Ella Langley,weren't for the wind
+73,-10,Chris Stapleton - You Should Probably Leave,690,46,,443699,-8627.0,3010033,24755,276156525,Chris Stapleton,You Should Probably Leave
+74,+1,Hozier - Take Me To Church,1096,1,(x58),443628,12187.0,2938320,58716,349186699,Hozier,Take Me To Church
+75,-8,Sam Barber - Indigo (w/ Avery Anna),192,47,,442920,-2834.0,3052032,13823,92627553,Sam Barber,Indigo (w/ Avery Anna)
+76,-10,The Neighbourhood - Sweater Weather,1954,12,,441718,-5260.0,3094715,17754,893222866,The Neighbourhood,Sweater Weather
+77,-7,Zach Bryan - Pink Skies,390,7,,440555,2166.0,2996412,44588,291093953,Zach Bryan,Pink Skies
+78,+12,Morgan Wallen - Cowgirls (w/ ERNEST),794,17,,437620,36099.0,3010410,31202,406711730,Morgan Wallen,Cowgirls (w/ ERNEST)
+79,+22,Eric Church - Springsteen,58,51,,430590,48563.0,2994252,14361,23375664,Eric Church,Springsteen
+80,+7,Chris Stapleton - Tennessee Whiskey,1561,34,,429512,25072.0,2932770,33021,464840109,Chris Stapleton,Tennessee Whiskey
+81,-4,Lil Tecca - Favorite Lie,7,27,,429151,1688.0,3353182,429151,3353182,Lil Tecca,Favorite Lie
+82,-4,Cage The Elephant - Cigarette Daydreams,871,58,,421518,-4842.0,2893760,25133,283665348,Cage The Elephant,Cigarette Daydreams
+83,+17,Wiz Khalifa - The Thrill (w/ Empire Of The Sun),63,68,,417827,34694.0,2729479,49435,23960187,Wiz Khalifa,The Thrill (w/ Empire Of The Sun)
+84,+26,Morgan Wallen - Whiskey Glasses,1988,33,,416582,45502.0,2824464,36506,642347417,Morgan Wallen,Whiskey Glasses
+85,-2,Tucker Wetmore - Wind Up Missin’ You,374,41,,414974,-3558.0,2752622,26138,176315760,Tucker Wetmore,Wind Up Missin’ You
+86,-26,Tate McRae - greedy,484,3,(x5),413589,-41698.0,2959238,-853,337740736,Tate McRae,greedy
+87,+2,Coldplay - Yellow,313,79,,412646,10769.0,2869629,1897,108851382,Coldplay,Yellow
+88,-2,Don Toliver - No Pole,245,22,,412548,4477.0,2894318,-35532,145572677,Don Toliver,No Pole
+89,-4,Zach Bryan - Something in the Orange,1154,4,,411607,3222.0,2880956,-78872,766209481,Zach Bryan,Something in the Orange
+90,+12,Sublime - Santeria,169,90,,408674,28177.0,2642980,48136,60886477,Sublime,Santeria
+91,-12,Lorde - Ribs,58,42,,407327,-17415.0,2902455,-20254,28684936,Lorde,Ribs
+92,+4,The Red Clay Strays - Wondering Why,457,70,,405512,18059.0,2697300,20202,182398555,The Red Clay Strays,Wondering Why
+93,-20,Neton Vega - Morena (w/ Peso Pluma),117,48,,405213,-30358.0,2927673,-13073,52705045,Neton Vega,Morena (w/ Peso Pluma)
+94,-12,Radiohead - Let Down,33,60,,403692,-15031.0,2950643,-25638,13173339,Radiohead,Let Down
+95,+26,Journey - Don't Stop Believin' (2022 Remaster),376,60,,402332,40478.0,2698689,40209,155994683,Journey,Don't Stop Believin' (2022 Remaster)
+96,+17,Hudson Westbrook - House Again,79,76,,401560,34738.0,2711691,4872,29763006,Hudson Westbrook,House Again
+97,+7,Morgan Wallen - Dark Til Daylight,35,40,,394805,15797.0,2846252,-56246,18279678,Morgan Wallen,Dark Til Daylight
+98,+1,Sabrina Carpenter - Busy Woman,126,7,,394062,10570.0,2755362,-33335,74537676,Sabrina Carpenter,Busy Woman
+99,+7,Vance Joy - Riptide,1183,12,,393613,15308.0,2653935,-64300,294253878,Vance Joy,Riptide
+100,+17,Gorillaz - Feel Good Inc,210,87,,392664,28402.0,2564045,41000,78779892,Gorillaz,Feel Good Inc
+101,-17,Treaty Oak Revival - Missed Call,57,84,,390888,-25577.0,2750257,28159,20437387,Treaty Oak Revival,Missed Call
+102,-4,"MOLIY - Shake It To The Max (FLY) - Remix (w/ Silent Addy, Skillibeng, Shenseea)",34,69,,390409,5168.0,2772002,-25272,14342159,MOLIY,"Shake It To The Max (FLY) - Remix (w/ Silent Addy, Skillibeng, Shenseea)"
+103,+2,"Tyler, The Creator - Like Him (w/ Lola Young)",235,5,,389088,10592.0,2788461,-19617,188672662,"Tyler, The Creator",Like Him (w/ Lola Young)
+104,+11,Red Hot Chili Peppers - Scar Tissue,97,104,,388015,22727.0,2581707,33166,36652417,Red Hot Chili Peppers,Scar Tissue
+105,-11,Lil Wayne - She Will (w/ Drake),127,64,,385781,-3163.0,2679335,-12321,51467502,Lil Wayne,She Will (w/ Drake)
+106,+5,Kendrick Lamar - squabble up,210,1,(x4),385555,14552.0,2677462,-7491,207081123,Kendrick Lamar,squabble up
+107,+2,Chrystal - The Days - NOTION Remix (w/ NOTION),168,62,,383462,11176.0,2528798,20427,66593043,Chrystal,The Days - NOTION Remix (w/ NOTION)
+108,-16,SZA - Snooze,922,9,,382244,-11602.0,2664746,5842,555187968,SZA,Snooze
+109,+11,Myles Smith - Stargazing,275,23,,381195,19281.0,2120868,69432,148426521,Myles Smith,Stargazing
+110,-19,"Waka Flocka Flame - No Hands (w/ Roscoe Dash, Wale)",121,91,,381002,-13188.0,2621939,31685,37629869,Waka Flocka Flame,"No Hands (w/ Roscoe Dash, Wale)"
+111,-14,Noah Kahan - Stick Season,954,1,(x2),380434,-5971.0,2595895,8371,656188521,Noah Kahan,Stick Season
+112,+6,Bailey Zimmerman - Rock and A Hard Place,768,22,,378274,14264.0,2767043,3552,318912574,Bailey Zimmerman,Rock and A Hard Place
+113,-1,Morgan Wallen - 7 Summers,622,3,(x2),377399,7651.0,2662051,12116,212554336,Morgan Wallen,7 Summers
+114,+2,Jessie Murph - Touch Me Like a Gangster,14,61,,377273,12106.0,2706628,-78514,5838575,Jessie Murph,Touch Me Like a Gangster
+115,-8,Bryson Tiller - Don't,1778,7,,374155,-2107.0,2543725,-1564,556299674,Bryson Tiller,Don't
+116,-2,Imogen Heap - Headlock,209,32,,373912,8621.0,2572327,3783,108543729,Imogen Heap,Headlock
+117,-24,Ty Myers - Thought It Was Love,19,65,,373706,-19144.0,2780594,-61500,7787477,Ty Myers,Thought It Was Love
+118,-15,Tate McRae - Revolving door,119,7,,373392,-6294.0,2597656,-33541,80273213,Tate McRae,Revolving door
+119,+3,Frank Ocean - Pink + White,1078,23,,370716,8936.0,2565266,12762,508364109,Frank Ocean,Pink + White
+120,+26,Linkin Park - In the End,129,8,,370539,32350.0,2440778,33711,45266048,Linkin Park,In the End
+121,+10,Chappell Roan - HOT TO GO!,431,7,,369630,15300.0,2552343,7207,328493743,Chappell Roan,HOT TO GO!
+122,-27,Benson Boone - Slow It Down,427,19,,369055,-19145.0,2539682,21914,250608323,Benson Boone,Slow It Down
+123,+4,"Lil Wayne - Love Me (w/ Drake, Future)",420,68,,367177,9314.0,2441709,16920,151892009,Lil Wayne,"Love Me (w/ Drake, Future)"
+124,-5,Kendrick Lamar - Money Trees (w/ Jay Rock),1554,17,,365864,2217.0,2565052,10887,570293258,Kendrick Lamar,Money Trees (w/ Jay Rock)
+125,+8,Dasha - Austin,398,14,,365026,13714.0,2410290,31736,246259946,Dasha,Austin
+126,+30,Benson Boone - Sorry I'm Here For Someone Else,108,50,,364863,32535.0,2353191,34264,45692082,Benson Boone,Sorry I'm Here For Someone Else
+127,-2,Creed - One Last Breath,184,102,,363992,4559.0,2444697,37754,65886590,Creed,One Last Breath
+128,+1,"Tyler, The Creator - Sticky (w/ GloRilla, Sexyy Red, Lil Wayne)",235,2,(x9),362329,6332.0,2508098,-8354,226301218,"Tyler, The Creator","Sticky (w/ GloRilla, Sexyy Red, Lil Wayne)"
+129,+41,The Doobie Brothers - Listen to the Music,68,88,,361858,41015.0,2514498,47384,24926832,The Doobie Brothers,Listen to the Music
+130,+31,Kesha - TiK ToK,34,120,,361199,34106.0,2423893,32447,10853283,Kesha,TiK ToK
+131,+24,Tears For Fears - Everybody Wants To Rule The World,797,44,,360722,27907.0,2397165,30732,271332007,Tears For Fears,Everybody Wants To Rule The World
+132,+64,Gunna - Won't Stop,4,55,,360493,56902.0,1535562,360493,1535562,Gunna,Won't Stop
+133,+8,Fitz and The Tantrums - Out of My League,65,120,,360215,16324.0,2478303,15852,19229477,Fitz and The Tantrums,Out of My League
+134,+6,Coldplay - Viva La Vida,317,60,,359761,13762.0,2542132,-4283,114963544,Coldplay,Viva La Vida
+135,+13,Sabrina Carpenter - Bed Chem,278,6,,357943,20469.0,2414692,9458,199345979,Sabrina Carpenter,Bed Chem
+136,-8,Blood Orange - Champagne Coast,104,65,,357343,-184.0,2461140,3278,41390788,Blood Orange,Champagne Coast
+137,+43,Daryl Hall & John Oates - Rich Girl,320,30,,356367,41728.0,2378753,45585,148131898,Daryl Hall & John Oates,Rich Girl
+138,-4,Morgan Wallen - Lies Lies Lies,325,8,,355439,5704.0,2537797,6639,187286716,Morgan Wallen,Lies Lies Lies
+139,+4,Kesha - Your Love Is My Drug,7,139,,355254,14329.0,2303130,355254,2303130,Kesha,Your Love Is My Drug
+140,+52,Luke Combs - When It Rains It Pours,1131,43,,355196,48903.0,2367148,43096,365023201,Luke Combs,When It Rains It Pours
+141,+8,Bad Bunny - NUEVAYoL,166,3,(x3),354984,17765.0,2407284,10726,105320059,Bad Bunny,NUEVAYoL
+142,-19,The Kid LAROI - NIGHTS LIKE THIS,354,20,,354850,-5979.0,2569787,-7222,207548289,The Kid LAROI,NIGHTS LIKE THIS
+143,-7,SZA - Saturn,457,3,(x1),354386,6540.0,2432938,-6044,285093071,SZA,Saturn
+144,-36,Neton Vega - Loco,175,17,,354307,-19537.0,2601215,-28280,106641126,Neton Vega,Loco
+145,-13,Zach Bryan - Heading South,935,27,,353338,-886.0,2429051,10272,435973694,Zach Bryan,Heading South
+146,+6,Disco Lines - No Broke Boys (w/ Tinashe),4,146,,352437,18258.0,1362912,352437,1362912,Disco Lines,No Broke Boys (w/ Tinashe)
+147,+20,Drake - Passionfruit,953,1,(x13),352207,29837.0,2267601,17003,361072451,Drake,Passionfruit
+148,-9,Bad Bunny - EoO,166,10,,352206,5962.0,2427438,-14242,91204463,Bad Bunny,EoO
+149,-19,Three Days Grace - I Hate Everything About You,51,130,,350965,-4001.0,2382987,13197,17605046,Three Days Grace,I Hate Everything About You
+150,+7,Glass Animals - Heat Waves,1059,1,(x34),350444,19637.0,1329775,350444,650933999,Glass Animals,Heat Waves
+151,-27,d4vd - Romantic Homicide,905,2,(x1),350093,-9735.0,2397818,-1766,467473621,d4vd,Romantic Homicide
+152,+27,Empire Of The Sun - Walking On A Dream,76,88,,349680,34144.0,2276936,31616,26057668,Empire Of The Sun,Walking On A Dream
+153,-8,Nelly Furtado - Promiscuous (w/ Timbaland),135,72,,349673,10522.0,2019816,29923,36090944,Nelly Furtado,Promiscuous (w/ Timbaland)
+154,+27,Morgan Wallen - Chasin' You,1111,47,,349626,35666.0,2405093,19562,337950735,Morgan Wallen,Chasin' You
+155,-29,Lord Huron - The Night We Met,961,43,,348486,-10549.0,2080357,-6703,305123076,Lord Huron,The Night We Met
+156,-2,TV Girl - Lovers Rock,959,35,,348195,14496.0,2361687,8301,417035962,TV Girl,Lovers Rock
+157,-20,Oliver Anthony Music - Scornful Woman,8,98,,347156,-593.0,2596576,24370,2919362,Oliver Anthony Music,Scornful Woman
+158,-8,Taylor Swift - Cruel Summer,822,1,(x2),347096,10922.0,2400545,-14164,579086377,Taylor Swift,Cruel Summer
+159,-17,Bad Bunny - BAILE INoLVIDABLE,166,2,(x7),346428,4031.0,2427637,-12317,119571741,Bad Bunny,BAILE INoLVIDABLE
+160,+27,Red Hot Chili Peppers - Can't Stop,21,144,,346237,38394.0,1298572,346237,7104272,Red Hot Chili Peppers,Can't Stop
+161,-17,"The Weeknd - One Of The Girls (w/ JENNIE, Lily-Rose Depp)",510,15,,346175,6659.0,2384653,-8097,237278480,The Weeknd,"One Of The Girls (w/ JENNIE, Lily-Rose Depp)"
+162,+4,"Earth, Wind & Fire - September",200,7,,343740,18358.0,2404819,16944,76101705,"Earth, Wind & Fire",September
+163,-1,J. Cole - No Role Modelz,3417,7,,342528,16016.0,1310005,27580,1189178447,J. Cole,No Role Modelz
+164,-11,Nirvana - Come As You Are - Remastered,72,151,,341924,7746.0,2303730,19562,24264737,Nirvana,Come As You Are - Remastered
+165,-27,Djo - End of Beginning,434,3,(x14),340648,-6915.0,2308687,12480,288090797,Djo,End of Beginning
+166,-1,Natasha Bedingfield - Unwritten,314,69,,338670,13009.0,1282689,31014,122034722,Natasha Bedingfield,Unwritten
+167,+5,Tyler Childers - Feathered Indians,354,94,,338172,17501.0,2383942,9792,114870811,Tyler Childers,Feathered Indians
+168,+15,The Chainsmokers - Something Just Like This (w/ Coldplay),370,2,(x2),337863,26744.0,1917252,337863,158756851,The Chainsmokers,Something Just Like This (w/ Coldplay)
+169,RE,Disclosure - Latch (w/ Sam Smith),276,12,,336222,,643140,336222,35683440,Disclosure,Latch (w/ Sam Smith)
+170,-35,Lil Tecca - Tic Tac Toe (w/ Ken Carson),7,47,,335740,-12946.0,2809160,335740,2809160,Lil Tecca,Tic Tac Toe (w/ Ken Carson)
+171,+4,Drake - Headlines,107,112,,334961,15957.0,1903876,27084,35339744,Drake,Headlines
+172,-25,Nirvana - Smells Like Teen Spirit - Remastered,322,116,,334930,-2750.0,2295321,16725,84497069,Nirvana,Smells Like Teen Spirit - Remastered
+173,=,KATSEYE - Gnarly,50,53,,329798,9972.0,2266338,-11823,19636738,KATSEYE,Gnarly
+174,RE,Katy Perry - Last Friday Night (T.G.I.F.),39,103,,329784,,1652637,18465,12660641,Katy Perry,Last Friday Night (T.G.I.F.)
+175,RE,Pitbull - Time of Our Lives (w/ Ne-Yo),257,8,,328609,,960425,328609,56547961,Pitbull,Time of Our Lives (w/ Ne-Yo)
+176,-16,Young Thug - Bad Bad Bad (w/ Lil Baby),209,7,,328014,-217.0,2327257,-3110,89320950,Young Thug,Bad Bad Bad (w/ Lil Baby)
+177,RE,The Police - Every Breath You Take,37,133,,327892,,327892,327892,12441260,The Police,Every Breath You Take
+178,RE,Brooks & Dunn - Neon Moon,32,104,,327631,,2080385,327631,11100399,Brooks & Dunn,Neon Moon
+179,+3,Justin Timberlake - Rock Your Body,4,156,,326982,13773.0,640191,326982,770638,Justin Timberlake,Rock Your Body
+180,RE,Red Hot Chili Peppers - Under the Bridge,36,127,,325351,,914741,325351,11393960,Red Hot Chili Peppers,Under the Bridge
+181,+4,KAROL G - Si Antes Te Hubiera Conocido,236,36,,325249,15342.0,1255074,18773,115506001,KAROL G,Si Antes Te Hubiera Conocido
+182,RE,SZA - Good Days,1253,1,(x3),324515,,324515,14681,521586861,SZA,Good Days
+183,RE,Tyler Childers - All Your'n,471,52,,324169,,1649180,4336,167107648,Tyler Childers,All Your'n
+184,-26,Fuerza Regida - ME JALO (w/ Grupo Frontera),146,43,,322328,-8334.0,2347430,-14838,65742437,Fuerza Regida,ME JALO (w/ Grupo Frontera)
+185,-21,BigXthaPlug - Mmhmm,550,31,,321902,-4072.0,2315062,578,271076861,BigXthaPlug,Mmhmm
+186,RE,"Randy Travis - Forever and Ever, Amen",21,129,,321189,,983830,321189,7003987,Randy Travis,"Forever and Ever, Amen"
+187,+11,Chris Stapleton - Think I'm In Love With You,79,113,,320262,17244.0,1571445,7038,27393330,Chris Stapleton,Think I'm In Love With You
+188,RE,Old Dominion - One Man Band,360,63,,319632,,968456,319632,107662774,Old Dominion,One Man Band
+189,-18,Laufey - From The Start,448,30,,319233,-1521.0,2238645,-5823,171041892,Laufey,From The Start
+190,-16,Billy Joel - Vienna,66,128,,319001,-506.0,952943,2704,22584565,Billy Joel,Vienna
+191,-23,Tommy Richman - MILLION DOLLAR BABY,397,1,(x9),318912,-2874.0,1277610,318912,461186496,Tommy Richman,MILLION DOLLAR BABY
+192,RE,TOTO - Africa,201,126,,317494,,906588,317494,44734555,TOTO,Africa
+193,RE,The Walters - I Love You So,837,7,,317435,,627723,317435,319991764,The Walters,I Love You So
+194,RE,Tame Impala - The Less I Know The Better,1033,103,,317298,,317298,317298,258856225,Tame Impala,The Less I Know The Better
+195,-36,Alemán - Te Quería Ver (w/ Neton Vega),132,30,,317253,-12714.0,2272636,-6165,63419164,Alemán,Te Quería Ver (w/ Neton Vega)
+196,RE,Addison Rae - Diet Pepsi,106,26,,316551,,316551,-16654,54203358,Addison Rae,Diet Pepsi
+197,-34,Foo Fighters - Everlong,743,36,,315988,-10021.0,1546233,9347,262454923,Foo Fighters,Everlong
+198,RE,Harry Styles - As It Was,781,1,(x40),315496,,948291,315496,624777860,Harry Styles,As It Was
+199,-9,Steve Lacy - Bad Habit,844,1,(x66),315435,8593.0,1854624,1391,538222632,Steve Lacy,Bad Habit
+200,RE,Nickelback - How You Remind Me,68,128,,315062,,1243061,315062,24699200,Nickelback,How You Remind Me
