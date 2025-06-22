@@ -4,40 +4,25 @@ When the glitter settled on Basel’s St. Jakobshalle, Austria’s operatic club
 
 So I pulled the daily top-200 chart **for every country that had a finalist** and for each, I looked for all the songs from the finals and which location on the chart they were. The result was a 26 × 26 matrix: rows are the charting country, columns are the Eurovision songs (identified by the country they represented). Positions run from 1 to 200; blanks mean the track missed the top-200.
 
-## ![Cross Table](./graphs/cross.png)
+![Cross Table](./graphs/cross.png)
 
 ## Week-one snapshot – hype everywhere
 
-- **Ubiquity of winners:** JJ’s “Wasted Love” landed inside the top-200 of 30 territories, essentially the full set that Spotify publishes in Europe. Only one track matched that penetration: Germany’s genre-blending entry “Zeitgeist”. Estonia’s **“Espresso Macchiato” by Tommy Cash** was right behind with 29 chart appearances ([eurovisionworld.com][2]).
-- **Eurovision-loving markets:** Austria, Latvia, Switzerland, Sweden and Estonia each saw all 26 finalist songs appear on their domestic chart. Those fanbases were still in full contest mode.
-
-Below is an expanded version of the “week-one snapshot” section you asked about. I kept the rest of the post unchanged, so you can paste this straight into the earlier draft or weave the paragraphs where they fit best.
-
----
-
-## Week-one snapshot – reading the immediate ripple
-
-**1. Home-country bias is real – and measurable**
+Some keys points which raise from the above:
+**1. Home-country bias is real, natural, and measurable**
 Every finalist managed to crack its own domestic top-200. In fact, the median placing at home was number 3, with five delegations (Austria, Israel, Netherlands, Portugal and Sweden) debuting at number 1. Only Denmark and the United Kingdom saw their songs stall outside the top 50, suggesting lower local enthusiasm or stronger domestic competition that week.
 
 **2. Reach versus rank**
-Counting how many national charts a track entered gives a people-powered view of popularity. The scatter plot above compares that count with the Eurovision scoreboard (1 = winner). The line slopes down but not perfectly; the correlation is about 0.52, so competitive success explains only half the streaming spread.
+Counting how many national charts a track entered gives a people-powered view of popularity. The scatter plot above compares that count with the Eurovision scoreboard (1 = winner). The line slopes down but not perfectly; the correlation is about 0.52, so competitive success explains only half the streaming spread. It seems that the correlation is higher on the top entries which kinda makes sense. Either by people searching for them later to listen to the "winners" or vice versa as the more we go up the scoreboard the more the competition is really taking place.
 
 - Austria – winner on stage and on Spotify, landing in 30 of 26 possible national charts (Global and Belarus give the extra four).
 - **Estonia – third place but almost tied with Austria for reach (29 charts).**
 - **Germany – only 15th on the scoreboard yet second–highest reach, appearing in 29 charts.** Germany’s bilingual “Zeitgeist” turned out to be the week-one dark horse.
 - **Sweden and Italy – fourth and fifth in Basel, with 27 and 24 chart appearances respectively, showing solid alignment between juries, televoters and casual streamers.**
-
-**3. Surprise over-performers**
-
 - **Portugal’s “Deslocado” finished 21st with 50 points** yet reached 16 national charts, tying France and outpacing higher-ranked Malta and Norway. That suggests playlists and mood fit trumped the low jury score.
-- **Italy’s indie-rock “Sogni di Ruggine” (5th place) travelled better than many expected.** Despite Italian-only lyrics it showed up in 24 markets, out-charting higher-scoring Israel in pure reach.
-- **Germany’s near-universal penetration** hints that its genre-blend (hyper-pop meets Schlager drop) resonated even where the jury panel was less impressed.
 
 **4. Self-support is necessary but not sufficient**
 A song’s own population naturally gives it a streaming leg-up, yet that alone cannot explain Germany’s climb or Portugal’s endurance. The stand-out takeaway is that a contest placing is a good predictor of first-week attention, but musical style, language choice and playlist-worthiness decide whether a track travels beyond its borders.
-
-_(Jump back to the month-later section to see which of these early sparks kept burning.)_
 
 ### Gauging national passion – introducing the **Eurovibe level**
 
