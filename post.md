@@ -2,9 +2,9 @@
 
 When the glitter settled on Basel’s St. Jakobshalle, Austria’s operatic club anthem **“Wasted Love” by JJ** had lifted the crystal microphone with 436 points ([theguardian.com][1]). A few days later, on the first quiet Tuesday after the contest, I wondered how those songs were behaving in the real-world marketplace, more precisely, of Spotify plays. After taking a quick look at the Global Chart, I though that relying on the global chart alone is quite risky because a single stream from Berlin counts exactly the same as one from Reykjavík, even though Germany’s listener base is about 25 times larger.
 
-So I pulled the daily top-200 chart **for every country that had a finalist** and for each, I looked for all the songs from the finals and which location on the chart they were. The result was a 26 × 26 matrix: rows are the charting country, columns are the Eurovision songs (identified by the country they represented). Positions run from 1 to 200; blanks mean the track missed the top-200.
+So I pulled the daily top-200 chart **for every country that had a finalist** and for each, I looked for all the songs from the finals and which location on the chart they were. The result was a matrix: rows are the charting country, columns are the Eurovision songs (identified by the country they represented). Positions run from 1 to 200; blanks mean the track missed the top-200. I omitted column which were all blank.
 
-![Cross Table](./graphs/cross.png)
+![Cross Table](./plots/cross.png)
 
 ## Week-one snapshot – hype everywhere
 

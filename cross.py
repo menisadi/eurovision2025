@@ -165,15 +165,27 @@ def plot_heats(cross_table, jury_table, public_table):
     )
 
 
+def plot_count(cross):
+    cross.notna().sum().sort_values(ascending=False).plot(kind="bar")
+
+    plt.ylabel("Number of charts")
+    plt.title("On how many charts each Eurovision song charted")
+    # plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.show()
+
+
 def main() -> None:
     cross_table = build_cross_table()
+    cross_table.to_csv("cross_first.csv")
 
     jury_table = final_points_table("./jury.csv")
     public_table = final_points_table("./public.csv")
 
     # compare(cross_table, jury_table, public_table)
-    compare2(cross_table, jury_table, public_table)
-    # plot_heats(cross_table, jury_table, public_table)
+    # compare2(cross_table, jury_table, public_table)
+    plot_heats(cross_table, jury_table, public_table)
+    # plot_count(cross_table)
 
 
 if __name__ == "__main__":
