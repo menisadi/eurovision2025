@@ -21,7 +21,9 @@ def build_cross_table(
     Return a DataFrame whose (row, col) entry holds the position that *col-country*
     reaches in the chart owned by *row-country*. Missing → 0.
     """
-    results_df = pd.read_csv(results_file)[["Artist", "Country"]].drop_duplicates()
+    results_df = pd.read_csv(results_file)[
+        ["Artist", "Country"]
+    ].drop_duplicates()
     results_df["artist_lower"] = results_df["Artist"].str.lower()
     mapping = load_country_mapping()
 
@@ -94,7 +96,9 @@ def compare2(charts, jury, public):
     jury = jury.reindex_like(charts)
     public = public.reindex_like(charts)
 
-    charts_vec = charts.to_numpy().ravel()  # 1-D array of length n_rows * n_cols
+    charts_vec = (
+        charts.to_numpy().ravel()
+    )  # 1-D array of length n_rows * n_cols
     jury_vec = jury.to_numpy().ravel()
     public_vec = public.to_numpy().ravel()
 
@@ -165,6 +169,41 @@ def plot_heats(cross_table, jury_table, public_table):
     )
 
 
+def scatter(df, final):
+    final = pd.read_csv("./results.csv")
+    counts = df.notna().sum().sort_values(ascending=False)
+    counts.name = "Charts"
+
+    merged = pd.merge(
+        left=counts, right=final, left_index=True, right_on="Country"
+    )
+
+    fig, ax = plt.subplots(figsize=(8, 6))
+    sns.scatterplot(
+        data=merged, x="Points", y="Charts", s=80, ax=ax  # marker size
+    )
+
+    for _, row in merged.iterrows():
+        ax.text(
+            row["Points"]
+            + 0.2,  # small horizontal offset so text isn’t on top of the marker
+            row["Charts"],
+            row["Country"],
+            fontsize=9,
+            va="center",
+            ha="left",
+        )
+
+    ax.set_title("Charts vs. Points by Country")
+    ax.set_xlabel("Points")
+    ax.set_ylabel("Charts")
+    sns.despine(
+        offset=5, trim=True
+    )  # removes top/right spines; comment out if you want the full box
+    plt.tight_layout()
+    plt.show()
+
+
 def plot_count(cross):
     cross.notna().sum().sort_values(ascending=False).plot(kind="bar")
 
@@ -177,14 +216,14 @@ def plot_count(cross):
 
 def main() -> None:
     cross_table = build_cross_table()
-    cross_table.to_csv("cross_first.csv")
+    # cross_table.to_csv("cross_first.csv")
 
     jury_table = final_points_table("./jury.csv")
     public_table = final_points_table("./public.csv")
 
-    # compare(cross_table, jury_table, public_table)
-    # compare2(cross_table, jury_table, public_table)
-    plot_heats(cross_table, jury_table, public_table)
+    compare(cross_table, jury_table, public_table)
+    compare2(cross_table, jury_table, public_table)
+    # plot_heats(cross_table, jury_table, public_table)
     # plot_count(cross_table)
 
 

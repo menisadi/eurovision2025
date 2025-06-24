@@ -8,48 +8,41 @@ So I pulled the daily top-200 chart **for every country that had a finalist** an
 
 ## Week-one snapshot – hype everywhere
 
-Some keys points which raise from the above:
-**1. Home-country bias is real, natural, and measurable**
-Every finalist managed to crack its own domestic top-200. In fact, the median placing at home was number 3, with five delegations (Austria, Israel, Netherlands, Portugal and Sweden) debuting at number 1. Only Denmark and the United Kingdom saw their songs stall outside the top 50, suggesting lower local enthusiasm or stronger domestic competition that week.
+Two simple points raise from the above:
+**1. Countries loved their own song**
+Every finalist managed to crack its own domestic top-200. In fact, the median placing at home was an impressive number 3, with five delegations (Austria, Israel, Netherlands, Portugal and Sweden) debuting at number 1! Only Denmark and the United Kingdom saw their songs stall outside the top 50, maybe due to lower local enthusiasm or maybe just a stronger competition that week in the chart.
 
 **2. Reach versus rank**
-Counting how many national charts a track entered gives a people-powered view of popularity. The scatter plot above compares that count with the Eurovision scoreboard (1 = winner). The line slopes down but not perfectly; the correlation is about 0.52, so competitive success explains only half the streaming spread. It seems that the correlation is higher on the top entries which kinda makes sense. Either by people searching for them later to listen to the "winners" or vice versa as the more we go up the scoreboard the more the competition is really taking place.
+Counting how many national charts a track entered gives a people-powered view of popularity. The natural thing to do is to compare it to the competition result.
+![Charts vs Score](./plots/scatter.pgn)
+The scatter plot above compares that count with the Eurovision scoreboard. The line slopes down but not perfectly (correlation is about 0.61). It seems that the correlation is higher on the top entries which kinda makes sense. Either by people searchs focusing on them later to listen to the "winners", or vice versa as the more we go up the scoreboard the more the competition is really heated.
 
-- Austria – winner on stage and on Spotify, landing in 30 of 26 possible national charts (Global and Belarus give the extra four).
-- **Estonia – third place but almost tied with Austria for reach (29 charts).**
-- **Germany – only 15th on the scoreboard yet second–highest reach, appearing in 29 charts.** Germany’s bilingual “Zeitgeist” turned out to be the week-one dark horse.
-- **Sweden and Italy – fourth and fifth in Basel, with 27 and 24 chart appearances respectively, showing solid alignment between juries, televoters and casual streamers.**
-- **Portugal’s “Deslocado” finished 21st with 50 points** yet reached 16 national charts, tying France and outpacing higher-ranked Malta and Norway. That suggests playlists and mood fit trumped the low jury score.
+Some numbers:
+- Austria – winner on stage and on Spotify, landing in 30 of 30 possible national charts.
+- Estonia – the dark horse of this year. A bit silly and maybe offensive but really catchy song, not only got up to the third place but also almost tied with Austria for reach (29 charts).
+- Germany – I didn't see this coming. Germany got only 15th on the scoreboard yet second–highest reach, appearing in 29 charts. Germany’s bilingual “Zeitgeist” turned out to a true hit.
+- Portugal’s “Deslocado” finished 21st with 50 points, yet reached 16 national charts, tying France and outpacing higher-ranked Malta and Norway. I admit that I really liked this little song so this discovery made me smile.
 
-**4. Self-support is necessary but not sufficient**
-A song’s own population naturally gives it a streaming leg-up, yet that alone cannot explain Germany’s climb or Portugal’s endurance. The stand-out takeaway is that a contest placing is a good predictor of first-week attention, but musical style, language choice and playlist-worthiness decide whether a track travels beyond its borders.
+### Side note – the **Eurovibe level**
 
-### Gauging national passion – introducing the **Eurovibe level**
+After looking at the heatmap above, I wondered: Spotify’s country charts let us approximate how much domestic listeners embrace the contest as a whole, not just their own entry. I counted, for every market, how many of the 26 finalist songs entered the local top-200 in the first post-Eurovision snapshot and then grouped countries into four intuitive bands.
 
-Spotify’s country charts let us approximate how much domestic listeners embrace the contest as a whole, not just their own entry. I counted, for every market, how many of the 26 finalist songs entered the local top-200 in the first post-Eurovision snapshot and then grouped countries into four intuitive bands.
-
-_(Interactive table showing all tiers appears above.)_
 
 | Eurovibe level | Definition                     | Markets that qualify                                                                                                         | Quick read                                                                                                                                                                                                                             |
 | -------------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Heatwave**   | 20 – 26 finalist songs charted | Austria, Estonia, Finland, Iceland, Latvia, Lithuania, Sweden, Switzerland, Germany, Netherlands, Norway, Poland, Luxembourg | These places breathe Eurovision. The Nordics and Baltics sit here every year, but notice **Germany** and **Netherlands**: big populations where the contest clearly broke through the mainstream algorithms.                           |
+| **Heatwave**   | 20 – 26 finalist songs charted | Austria, Estonia, Finland, Iceland, Latvia, Lithuania, Sweden, Switzerland, Germany, Netherlands, Norway, Poland, Luxembourg | These places, at least for this week, seems to breathe Eurovision. The Nordics and Baltics sit here every year, but notice **Germany** and **Netherlands**: big populations where the contest clearly broke through the mainstream algorithms.                           |
 | **Warm**       | 10 – 19 songs                  | Belgium, Denmark, Greece, Israel, Ukraine                                                                                    | Solid interest: plenty of cross-border listening yet not quite full-playlist devotion.                                                                                                                                                 |
 | **Mild**       | 4 – 9 songs                    | Spain, United Kingdom, Italy, Portugal, Czech Republic, Belarus, Hungary, Ireland, Slovakia                                  | These audiences mostly stream their own act plus a handful of viral standouts (often the winner and one or two uptempo bops).                                                                                                          |
-| **Frosty**     | 0 – 3 songs                    | France, Bulgaria, Romania                                                                                                    | Either local catalogue and global hits dominate the charts, or Eurovision simply isn’t driving streaming behaviour here. France’s low score echoes past editions: strong TV ratings, but listeners head back to domestic pop promptly. |
+| **Frosty**     | 0 – 3 songs                    | France, Bulgaria, Romania                                                                                                    | Either local catalogue and global hits dominate the charts, or Eurovision simply isn’t driving streaming behaviour here. France’s low score echoes past editions: strong TV ratings, but listeners head back to the day to day sounds promptly. |
 
-**What the tiers tell us**
-
-- **Cultural alignment beats size.** Tiny **Estonia and Iceland** share Heatwave status with heavyweight Germany, showing that fan enthusiasm can compensate for scale when measuring breadth of interest.
-- **Southern Europe skews cooler.** Spain and Italy both sent well-streamed entries at home, yet they let most others slide. That pattern matches long-standing “we watch, we vote, but we don’t playlist everything” behaviour seen in previous years.
-- **Warm zone surprises.** **Israel and Greece** lifted half the line-up into their charts despite middling final scores, hinting at a devoted fan community, while **Denmark** sits in Warm rather than Heatwave—perhaps reflecting competition from strong local releases that week.
-
-When we look again one month later, only eight territories still hosted seven or more Eurovision tracks, and every one belonged to Heatwave or Warm bands (led by Lithuania and Estonia). Staying power, then, is rooted in countries already primed to keep the Eurovision flame alive long after the confetti is swept away.
+For those who prefer, here is the score as a bar chart:
+![Eurovibe bars](./plots/eurovibe.png)
 
 ---
 
 ## One month later – which songs stuck?
 
-I repeated the scrape exactly four weeks later. Most tracks had slipped away, but a hardy group endured. The graphic below shows the share of original chart appearances each song retained. A value of 0.55 means the track still appears in 55 percent of the countries where it charted during week one.
+I repeated the scrape four weeks later. Most tracks had slipped away, but some endured. The graphic below shows the share of original chart appearances each song retained. A value of 0.55 means the track still appears in 55 percent of the countries where it charted during week one.
 
 _(Interactive table and bar chart will render above this paragraph.)_
 
