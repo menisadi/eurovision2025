@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 import json
 from pathlib import Path
 import matplotlib.pyplot as plt
@@ -21,9 +22,7 @@ def build_cross_table(
     Return a DataFrame whose (row, col) entry holds the position that *col-country*
     reaches in the chart owned by *row-country*. Missing → 0.
     """
-    results_df = pd.read_csv(results_file)[
-        ["Artist", "Country"]
-    ].drop_duplicates()
+    results_df = pd.read_csv(results_file)[["Artist", "Country"]].drop_duplicates()
     results_df["artist_lower"] = results_df["Artist"].str.lower()
     mapping = load_country_mapping()
 
@@ -58,7 +57,17 @@ def build_cross_table(
     return cross
 
 
-def final_points_table(table_path):
+def charts_and_scores(final_path: str, cross_df: pd.DataFrame):
+    final = final = pd.read_csv(final_path)
+    counts = cross_df.notna().sum().sort_values(ascending=False)
+    counts.name = "Charts"
+
+    merged = pd.merge(left=counts, right=final, left_index=True, right_on="Country")
+
+    return merged
+
+
+def final_tables(table_path):
     table_df = pd.read_csv(table_path)
     table_df = table_df.drop(columns=["Unnamed: 0", "Total"])
     table_df = table_df.set_index("Country")
@@ -96,9 +105,7 @@ def compare2(charts, jury, public):
     jury = jury.reindex_like(charts)
     public = public.reindex_like(charts)
 
-    charts_vec = (
-        charts.to_numpy().ravel()
-    )  # 1-D array of length n_rows * n_cols
+    charts_vec = charts.to_numpy().ravel()  # 1-D array of length n_rows * n_cols
     jury_vec = jury.to_numpy().ravel()
     public_vec = public.to_numpy().ravel()
 
@@ -169,33 +176,34 @@ def plot_heats(cross_table, jury_table, public_table):
     )
 
 
-def scatter(df, final):
-    final = pd.read_csv("./results.csv")
-    counts = df.notna().sum().sort_values(ascending=False)
-    counts.name = "Charts"
-
-    merged = pd.merge(
-        left=counts, right=final, left_index=True, right_on="Country"
-    )
-
+def scatter_charts_scores(merged_tables):
+    merged_tables["Rank"] = len(merged_tables) - merged_tables["Place"] + 1
     fig, ax = plt.subplots(figsize=(8, 6))
     sns.scatterplot(
-        data=merged, x="Points", y="Charts", s=80, ax=ax  # marker size
+        data=merged_tables,
+        x="Rank",
+        y="Charts",
+        s=80,  # marker size
+        ax=ax,
     )
 
-    for _, row in merged.iterrows():
+    # --- add country labels next to each point ---
+    for _, row in merged_tables.iterrows():
         ax.text(
-            row["Points"]
-            + 0.2,  # small horizontal offset so text isn’t on top of the marker
-            row["Charts"],
+            row["Rank"] + 0.3,
+            row["Charts"] + 0.3,
             row["Country"],
             fontsize=9,
             va="center",
             ha="left",
         )
 
-    ax.set_title("Charts vs. Points by Country")
-    ax.set_xlabel("Points")
+    # --- tidy up ---
+    x_range = range(1, len(merged_tables) + 1)
+    ax.set_xticks(ticks=x_range, labels=x_range[::-1])
+    ax.xticks = range(len(merged_tables) + 1, 1, -1)
+    ax.set_title("Charts vs. Rank by Country")
+    ax.set_xlabel("Rank")
     ax.set_ylabel("Charts")
     sns.despine(
         offset=5, trim=True
@@ -218,13 +226,16 @@ def main() -> None:
     cross_table = build_cross_table()
     # cross_table.to_csv("cross_first.csv")
 
-    jury_table = final_points_table("./jury.csv")
-    public_table = final_points_table("./public.csv")
+    # jury_table = final_tables("./jury.csv")
+    # public_table = final_tables("./public.csv")
 
-    compare(cross_table, jury_table, public_table)
-    compare2(cross_table, jury_table, public_table)
+    # compare(cross_table, jury_table, public_table)
+    # compare2(cross_table, jury_table, public_table)
     # plot_heats(cross_table, jury_table, public_table)
     # plot_count(cross_table)
+
+    # scores_and_charts = charts_and_scores("./results.csv", cross_table)
+    # scatter_charts_scores(scores_and_charts)
 
 
 if __name__ == "__main__":
