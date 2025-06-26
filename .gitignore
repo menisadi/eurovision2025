@@ -1,2 +1,5 @@
 __pycache__
 archive
+.DS_Store
+.hushlogin
+post2.md
