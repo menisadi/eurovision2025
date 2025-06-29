@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 CHART_FOLDER = Path("charts")
-RESULTS_FILE = Path("results.csv")
+RESULTS_FILE = Path("./tables/results.csv")
 MAPPING_FILE = Path("mapping.json")
 
 
