@@ -48,6 +48,31 @@ def save_scatter(cross_table, results_file, plots_dir, suffix):
     print(f"Saved scatter_{suffix}.png")
 
 
+def save_vote_scatter(cross_table, results_file, plots_dir, suffix):
+    merged = cross.charts_and_scores(str(results_file), cross_table)
+    melted = merged.melt(
+        id_vars=["Country", "Charts"],
+        value_vars=["Public", "Jury"],
+        var_name="Vote Type",
+        value_name="Votes",
+    )
+
+    g = sns.FacetGrid(melted, col="Vote Type", height=6, aspect=0.85)
+    g.map_dataframe(sns.regplot, x="Charts", y="Votes", scatter_kws={"s": 80})
+
+    for ax, vote_type in zip(g.axes.flat, ["Public", "Jury"]):
+        subset = melted[melted["Vote Type"] == vote_type]
+        for _, row in subset.iterrows():
+            ax.text(row["Charts"] + 0.15, row["Votes"] + 1, row["Country"], fontsize=8)
+
+    g.set_axis_labels("Number of charts", "Points")
+    g.set_titles(col_template="{col_name} vote vs. charts")
+    g.figure.tight_layout()
+    g.savefig(plots_dir / f"vote_scatter_{suffix}.png", dpi=150)
+    plt.close()
+    print(f"Saved vote_scatter_{suffix}.png")
+
+
 def save_bar_count(cross_table, plots_dir, suffix):
     cross_table.notna().sum().sort_values(ascending=False).plot(kind="bar")
     plt.ylabel("Number of charts")
@@ -84,6 +109,7 @@ def main():
     cross_table = cross.build_cross_table(chart_dir, results_file)
     save_cross_table(cross_table, plots_dir, args.suffix)
     save_scatter(cross_table, results_file, plots_dir, args.suffix)
+    save_vote_scatter(cross_table, results_file, plots_dir, args.suffix)
     save_bar_count(cross_table, plots_dir, args.suffix)
     save_eurovibe(cross_table, plots_dir, args.suffix)
 
