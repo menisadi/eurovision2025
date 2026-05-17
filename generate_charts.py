@@ -33,7 +33,7 @@ def save_scatter(cross_table, results_file, plots_dir, suffix):
     merged["Rank"] = len(merged) - merged["Place"] + 1
 
     fig, ax = plt.subplots(figsize=(8, 6))
-    sns.scatterplot(data=merged, x="Rank", y="Charts", s=80, ax=ax)
+    sns.regplot(data=merged, x="Rank", y="Charts", ax=ax, scatter_kws={"s": 80})
     for _, row in merged.iterrows():
         ax.text(row["Rank"] + 0.3, row["Charts"] + 0.3, row["Country"], fontsize=9, va="center", ha="left")
     x_range = range(1, len(merged) + 1)
