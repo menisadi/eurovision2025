@@ -6,6 +6,7 @@ Requires:
     pip install pandas requests beautifulsoup4 lxml
 """
 
+import argparse
 import re
 import time
 from pathlib import Path
@@ -17,8 +18,6 @@ import requests
 from bs4 import BeautifulSoup
 
 BASE_URL = "https://kworb.net/spotify/"
-OUT_DIR = Path("kworb_charts")  # all CSVs end up here
-OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 session = requests.Session()
 session.headers.update(
@@ -46,7 +45,7 @@ def get_daily_pages() -> dict[str, str]:
     return pages
 
 
-def scrape_chart(code: str, url: str) -> bool:
+def scrape_chart(code: str, url: str, out_dir: Path) -> bool:
     """Download one daily chart, clean it up, and save to CSV."""
     try:
         # first (and only) table on the page is the chart
@@ -71,17 +70,28 @@ def scrape_chart(code: str, url: str) -> bool:
     else:
         print(f"[{code}] couldn’t find the Artist/Title column – kept as-is")
 
-    out_path = OUT_DIR / f"{code}_daily.csv"
+    out_path = out_dir / f"{code}_daily.csv"
     df.to_csv(out_path, index=False)
     print(f"[{code}] → {out_path}")
     return True
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--out-dir",
+        default="kworb_charts",
+        help="Directory to write CSVs into (default: kworb_charts)",
+    )
+    args = parser.parse_args()
+
+    out_dir = Path(args.out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+
     pages = get_daily_pages()
     print(f"Found {len(pages)} daily pages")
     for code, url in pages.items():
-        scrape_chart(code, url)
+        scrape_chart(code, url, out_dir)
         time.sleep(0.5)  # be polite to the server
 
 
