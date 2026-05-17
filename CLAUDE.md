@@ -12,8 +12,8 @@ Multi-year Eurovision data analysis (2025 and 2026) correlating Spotify chart pe
 # Fetch chart snapshots (use --out-dir to avoid overwriting previous fetches)
 uv run python fetch.py --out-dir kworb_charts_YYYYMMDD
 
-# Generate 2026 charts (PNGs saved to plots/)
-uv run python generate_charts_2026.py
+# Generate charts (PNGs saved to plots/)
+uv run python generate_charts.py --chart-dir kworb_charts_YYYYMMDD --suffix YYYY
 
 # Build cross-table interactively / ad-hoc
 uv run python cross.py
@@ -29,7 +29,7 @@ uv sync
 
 1. **`fetch.py`** — scrapes Kworb Spotify daily charts for all countries; `--out-dir` controls output folder (default: `kworb_charts/`)
 2. **`cross.py`** — builds a cross-table from a chart folder + `tables/results.csv`: rows = chart country, columns = Eurovision country, values = best chart position. Contains all plotting helpers (`plot_cross_table`, `scatter_charts_scores`, `plot_count`, etc.)
-3. **`generate_charts_2026.py`** — saves the 4 week-1 PNGs for the 2026 post (`cross_2026.png`, `scatter_2026.png`, `bar_count_2026.png`, `eurovibe_bars_2026.png`). Update `CHART_FOLDER` to point to a new snapshot folder before re-running.
+3. **`generate_charts.py`** — saves 4 PNGs (cross heatmap, scatter, bar count, eurovibe) for any year. Pass `--chart-dir` and `--suffix` to control inputs and output filenames. Optionally override `--results` and `--plots-dir`.
 4. **`check_all.py`** — quick per-country check: how often and how highly a target country charted across all scraped charts
 
 ## Key files and data
