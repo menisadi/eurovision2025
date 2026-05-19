@@ -50,17 +50,19 @@ def plot_slope(merged, label_1, label_2, ax):
 
 
 def plot_dumbbell(merged, label_1, label_2, ax):
+    pal = sns.color_palette("colorblind")
+    c1, c2, c_up, c_down = pal[1], pal[0], pal[2], pal[3]  # orange, blue, green, red
+
     sorted_df = merged.sort_values(label_2)
     countries = sorted_df.index.tolist()
     y = range(len(countries))
 
     for i, (country, row) in enumerate(sorted_df.iterrows()):
         v1, v2 = row[label_1], row[label_2]
-        color = "steelblue" if v2 >= v1 else "tomato"
-        ax.plot([v1, v2], [i, i], color=color, linewidth=2, alpha=0.7)
+        ax.plot([v1, v2], [i, i], color=c_up if v2 >= v1 else c_down, linewidth=2, alpha=0.7)
 
-    ax.scatter(sorted_df[label_1], list(y), color="gray", s=60, zorder=3, label=label_1)
-    ax.scatter(sorted_df[label_2], list(y), color="steelblue", s=60, zorder=3, label=label_2)
+    ax.scatter(sorted_df[label_1], list(y), color=c1, marker="o", s=70, zorder=3, label=label_1)
+    ax.scatter(sorted_df[label_2], list(y), color=c2, marker="D", s=60, zorder=3, label=label_2)
 
     ax.set_yticks(list(y))
     ax.set_yticklabels(countries, fontsize=8)
