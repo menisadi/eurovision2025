@@ -33,14 +33,15 @@ def save_scatter(cross_table, results_file, plots_dir, suffix):
     merged["Rank"] = len(merged) - merged["Place"] + 1
 
     fig, ax = plt.subplots(figsize=(8, 6))
-    sns.regplot(data=merged, x="Charts", y="Rank", ax=ax, scatter_kws={"s": 80})
+    sns.regplot(data=merged, x="Rank", y="Charts", ax=ax, scatter_kws={"s": 80})
     for _, row in merged.iterrows():
-        ax.text(row["Charts"] + 0.15, row["Rank"] + 0.3, row["Country"], fontsize=9, va="center", ha="left")
-    y_range = range(1, len(merged) + 1)
-    ax.set_yticks(ticks=list(y_range), labels=list(y_range)[::-1])
+        ax.text(row["Rank"] + 0.3, row["Charts"] + 0.15, row["Country"], fontsize=9, va="center", ha="left")
+    x_range = range(1, len(merged) + 1)
+    ax.set_xticks(ticks=list(x_range), labels=list(x_range)[::-1])
     ax.set_title("Charts vs. Rank by Country")
-    ax.set_xlabel("Number of charts")
-    ax.set_ylabel("Place")
+    ax.set_xlabel("Place")
+    ax.set_ylabel("Number of charts")
+    ax.set_xlim(0.5, len(merged) + 0.5)
     sns.despine(offset=5, trim=True)
     plt.tight_layout()
     plt.savefig(plots_dir / f"scatter_{suffix}.png", dpi=150)
@@ -57,15 +58,15 @@ def save_vote_scatter(cross_table, results_file, plots_dir, suffix):
         value_name="Votes",
     )
 
-    g = sns.FacetGrid(melted, col="Vote Type", height=6, aspect=0.85)
-    g.map_dataframe(sns.regplot, x="Charts", y="Votes", scatter_kws={"s": 80})
+    g = sns.FacetGrid(melted, col="Vote Type", height=6, aspect=0.85, sharex=False)
+    g.map_dataframe(sns.regplot, x="Votes", y="Charts", scatter_kws={"s": 80})
 
     for ax, vote_type in zip(g.axes.flat, ["Public", "Jury"]):
         subset = melted[melted["Vote Type"] == vote_type]
         for _, row in subset.iterrows():
-            ax.text(row["Charts"] + 0.15, row["Votes"] + 1, row["Country"], fontsize=8)
+            ax.text(row["Votes"] + 1, row["Charts"] + 0.15, row["Country"], fontsize=8)
 
-    g.set_axis_labels("Number of charts", "Points")
+    g.set_axis_labels("Points", "Number of charts")
     g.set_titles(col_template="{col_name} vote vs. charts")
     g.figure.tight_layout()
     g.savefig(plots_dir / f"vote_scatter_{suffix}.png", dpi=150)
