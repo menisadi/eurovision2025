@@ -88,8 +88,8 @@ def main():
     s2 = eurovibe(Path(args.chart_dir_2), Path(args.results_2))
 
     merged = s1.rename(args.label_1).to_frame().join(
-        s2.rename(args.label_2).to_frame(), how="inner"
-    )
+        s2.rename(args.label_2).to_frame(), how="outer"
+    ).fillna(0).astype(int)
 
     tall = args.type in ("slope", "dumbbell")
     fig, ax = plt.subplots(figsize=(8, 9) if tall else (8, 7))
