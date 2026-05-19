@@ -1,0 +1,201 @@
+Pos,P+,Artist and Title,Days,Pk,(x?),Streams,Streams+,7Day,7Day+,Total,Artist,Track
+1,=,Omar Courtz - KOKO,85,1,(x42),13565,475.0,91253,209,1028834,Omar Courtz,KOKO
+2,=,"El Bogueto - Cuando No Era Cantante - Remix (w/ Anuel AA, Fuerza Regida, Yung Beef)",155,1,(x1),12592,345.0,86694,-723,1426083,El Bogueto,"Cuando No Era Cantante - Remix (w/ Anuel AA, Fuerza Regida, Yung Beef)"
+3,+1,BTS - SWIM,57,1,(x14),11699,1005.0,73692,1427,743751,BTS,SWIM
+4,-1,Fuerza Regida - TU SANCHO,370,1,(x36),11600,589.0,77313,-174,3634364,Fuerza Regida,TU SANCHO
+5,=,Dariel J - Cuerpo Natural,19,1,(x1),10754,338.0,69025,3136,195162,Dariel J,Cuerpo Natural
+6,=,Fuerza Regida - COQUETA (w/ Grupo Frontera),482,1,(x16),10506,539.0,70419,191,4329799,Fuerza Regida,COQUETA (w/ Grupo Frontera)
+7,+2,"El Alfa - PANTI Y COLALE 2.0 (w/ De La Ghetto, Zion, DJ Chulo NYC, El Cherry Scom, La Greña, Ronny GTA, Ezzy R)",71,3,(x2),10170,756.0,67833,239,629403,El Alfa,"PANTI Y COLALE 2.0 (w/ De La Ghetto, Zion, DJ Chulo NYC, El Cherry Scom, La Greña, Ronny GTA, Ezzy R)"
+8,-1,Peso Pluma - daño (w/ Tito Double P),141,4,,10066,537.0,64163,942,1062040,Peso Pluma,daño (w/ Tito Double P)
+9,-1,Mr Plata - Las Muñequitas (w/ El Americano 4KT),87,4,,9733,211.0,66522,-87,679668,Mr Plata,Las Muñequitas (w/ El Americano 4KT)
+10,=,Lenin Ramírez - Todo Lo Fue,95,6,,9083,-64.0,64068,-330,662764,Lenin Ramírez,Todo Lo Fue
+11,+1,Fuerza Regida - Marlboro Rojo,376,1,(x16),8943,128.0,62164,-288,3713163,Fuerza Regida,Marlboro Rojo
+12,-1,Lil Naay - UNA BABY EN SANTIAGO,54,11,,8937,41.0,60187,431,346042,Lil Naay,UNA BABY EN SANTIAGO
+13,+1,Danny Ocean - Me Rehúso,2286,1,(x44),8735,536.0,58385,135,7452605,Danny Ocean,Me Rehúso
+14,-1,Omar Courtz - POR SI MAÑANA NO ESTOY,85,10,,8675,89.0,57556,289,653171,Omar Courtz,POR SI MAÑANA NO ESTOY
+15,+3,Fuerza Regida - EXCESOS,432,15,,8379,400.0,54888,533,1707415,Fuerza Regida,EXCESOS
+16,-1,Huan62 - Skokka,27,15,,8297,157.0,51536,1652,148034,Huan62,Skokka
+17,-1,Oscar Maydon - Tu Boda (w/ Fuerza Regida),589,1,(x4),8230,234.0,53285,440,5296911,Oscar Maydon,Tu Boda (w/ Fuerza Regida)
+18,+1,Peso Pluma - dopamina (w/ Tito Double P),141,1,(x9),7999,258.0,55037,-260,1416306,Peso Pluma,dopamina (w/ Tito Double P)
+19,-2,Plan B - Es un Secreto,1711,1,(x37),7887,-93.0,54779,-104,11447630,Plan B,Es un Secreto
+20,+18,Junior H - Y LLORO,645,20,,7881,1700.0,38871,2933,2621164,Junior H,Y LLORO
+21,=,Bad Bunny - BAILE INoLVIDABLE,496,1,(x24),7718,228.0,52254,-41,5647338,Bad Bunny,BAILE INoLVIDABLE
+22,-2,J Balvin - LA CANCIÓN (w/ Bad Bunny),2487,1,(x17),7666,93.0,50992,192,13738348,J Balvin,LA CANCIÓN (w/ Bad Bunny)
+23,+1,Fuerza Regida - ANSIEDAD,373,8,,7651,255.0,51901,-55,2569565,Fuerza Regida,ANSIEDAD
+24,+2,"Ryan Castro - LA VILLA (w/ Kapo, Gangsta)",150,1,(x24),7594,303.0,53278,-548,1447789,Ryan Castro,"LA VILLA (w/ Kapo, Gangsta)"
+25,-3,Omar Courtz - WO OH OH (w/ ROA),85,9,,7580,122.0,51695,-171,641003,Omar Courtz,WO OH OH (w/ ROA)
+26,-3,"Bad Bunny - Diles (w/ Ozuna, Farruko, Arcángel, Ñengo Flow, DJ Luian, Mambo Kingz)",1803,1,(x1),7478,64.0,49301,59,7503562,Bad Bunny,"Diles (w/ Ozuna, Farruko, Arcángel, Ñengo Flow, DJ Luian, Mambo Kingz)"
+27,+27,Junior H - MIENTRAS DUERMES,308,23,,7431,1816.0,36048,2824,1377900,Junior H,MIENTRAS DUERMES
+28,+25,Junior H - LAS NOCHES,195,28,,7386,1731.0,33980,3365,718241,Junior H,LAS NOCHES
+29,-2,Michael Jackson - Billie Jean,25,25,,7295,33.0,48542,451,148772,Michael Jackson,Billie Jean
+30,-2,Bad Bunny - EoO,496,2,(x3),7232,203.0,49405,-93,5163603,Bad Bunny,EoO
+31,-6,"Bryant Myers - Esclava - Remix (w/ Anuel AA, Anonimus, Almighty)",525,20,,7106,-204.0,48725,109,2447425,Bryant Myers,"Esclava - Remix (w/ Anuel AA, Anonimus, Almighty)"
+32,-2,Bad Bunny - DtMF,496,1,(x73),7096,279.0,48045,13,5514152,Bad Bunny,DtMF
+33,+19,Junior H - PIÉNSALO,505,33,,7040,1365.0,33937,2763,1883893,Junior H,PIÉNSALO
+34,-1,ARIA VEGA - CHÉVERE (premium_remix) (w/ Ryan Castro),87,5,,7024,372.0,49229,-511,642426,ARIA VEGA,CHÉVERE (premium_remix) (w/ Ryan Castro)
+35,-6,Romeo Santos - Imitadora,879,9,,6970,11.0,48066,-242,4011949,Romeo Santos,Imitadora
+36,-4,Aventura - El Perdedor,1271,2,(x1),6840,169.0,44343,228,5802689,Aventura,El Perdedor
+37,-6,Tito Double P - POR SUS BESOS,309,4,,6697,-88.0,46198,-15,2177353,Tito Double P,POR SUS BESOS
+38,-3,Herencia De Grandes - Ya Borracho,153,9,,6679,125.0,45764,164,1016522,Herencia De Grandes,Ya Borracho
+39,-3,"Bad Bunny - VeLDÁ (w/ Omar Courtz, Dei V)",496,3,(x1),6568,35.0,44131,-93,4433878,Bad Bunny,"VeLDÁ (w/ Omar Courtz, Dei V)"
+40,-6,Omar Courtz - ⁠LUCES DE COLORES,363,15,,6559,-38.0,43711,107,1736206,Omar Courtz,⁠LUCES DE COLORES
+41,+10,Romeo Santos - Dardos (w/ Prince Royce),148,26,,6474,736.0,41366,-61,805261,Romeo Santos,Dardos (w/ Prince Royce)
+42,+2,"Blessd - YOGURCITO REMIX (w/ Anuel AA, Yan Block, Luar La L, Kris R., ROA)",263,1,(x3),6349,378.0,41755,29,2025429,Blessd,"YOGURCITO REMIX (w/ Anuel AA, Yan Block, Luar La L, Kris R., ROA)"
+43,-3,"Héctor ""El Father"" - El Telefono (w/ Wisin & Yandel)",252,11,,6333,230.0,43309,-340,1392300,"Héctor ""El Father""",El Telefono (w/ Wisin & Yandel)
+44,-5,Julión Álvarez y su Norteño Banda - Regalo De Dios,822,2,(x6),6269,160.0,44087,-221,4938336,Julión Álvarez y su Norteño Banda,Regalo De Dios
+45,-8,Fuerza Regida - Por Esos Ojos,457,3,(x1),6206,9.0,41655,99,3017916,Fuerza Regida,Por Esos Ojos
+46,-5,Omar Courtz - L a k e n o s h i,74,37,,6191,148.0,41885,150,388101,Omar Courtz,L a k e n o s h i
+47,-4,La Factoria - Perdóname (w/ Eddy Lover),1414,19,,6163,151.0,40604,184,4656506,La Factoria,Perdóname (w/ Eddy Lover)
+48,-1,Julión Álvarez y su Norteño Banda - Rey Sin Reina,612,1,(x14),6147,280.0,40761,359,4190935,Julión Álvarez y su Norteño Banda,Rey Sin Reina
+49,-7,Grupo Firme - El Beneficio De La Duda,627,1,(x2),6052,33.0,42391,-450,2726971,Grupo Firme,El Beneficio De La Duda
+50,-1,"W Sound - La Plena - W Sound 05 (w/ Beéle, Ovy On The Drums)",446,1,(x111),5965,203.0,41308,426,4678467,W Sound,"La Plena - W Sound 05 (w/ Beéle, Ovy On The Drums)"
+51,-6,"Maluma - Cuatro Babys (w/ Trap Capos, Noriel, Bryant Myers, Juhn)",590,7,,5914,-30.0,41132,-309,2645094,Maluma,"Cuatro Babys (w/ Trap Capos, Noriel, Bryant Myers, Juhn)"
+52,-6,Peso Pluma - HOLLYWOOD (w/ Estevan Plazola),633,15,,5896,13.0,41149,-124,3561754,Peso Pluma,HOLLYWOOD (w/ Estevan Plazola)
+53,-3,Omar Courtz - Q U E V A S H A C E R H O Y ? (w/ De La Rose),600,2,(x15),5765,6.0,38737,116,3892426,Omar Courtz,Q U E V A S H A C E R H O Y ? (w/ De La Rose)
+54,+52,"Junior H - DROGA LETAL (w/ Gael Valenzuela, Peso Pluma)",44,1,(x8),5719,1416.0,24802,5719,293340,Junior H,"DROGA LETAL (w/ Gael Valenzuela, Peso Pluma)"
+55,+2,"Marc Seguí - Tiroteo - Remix (w/ Rauw Alejandro, Pol Granch)",1337,18,,5681,208.0,36562,627,4456986,Marc Seguí,"Tiroteo - Remix (w/ Rauw Alejandro, Pol Granch)"
+56,-1,"Calle 24 - Que Onda (w/ Chino Pacas, Fuerza Regida)",895,3,(x19),5675,167.0,38464,-101,5797538,Calle 24,"Que Onda (w/ Chino Pacas, Fuerza Regida)"
+57,-1,Romeo Santos - Eres Mía,881,11,,5596,123.0,37107,-192,3959492,Romeo Santos,Eres Mía
+58,+3,Zion & Lennox - La Player (Bandolera),355,6,,5562,277.0,40526,-721,1918765,Zion & Lennox,La Player (Bandolera)
+59,+6,Fuerza Regida - CHAVALITAS,211,13,,5516,294.0,38830,-451,1162992,Fuerza Regida,CHAVALITAS
+60,-2,Aventura - Dile al Amor,1391,3,(x2),5497,145.0,37102,-468,5727767,Aventura,Dile al Amor
+61,-13,Emmanuel Cortes - Amor,227,29,,5453,-312.0,38494,-43,1112773,Emmanuel Cortes,Amor
+62,=,Bad Bunny - KLOuFRENS,496,9,,5382,142.0,35550,137,3485429,Bad Bunny,KLOuFRENS
+63,+7,Peso Pluma - 7-3 (w/ Tito Double P),141,15,,5380,223.0,36178,-128,909916,Peso Pluma,7-3 (w/ Tito Double P)
+64,+3,Bad Bunny - NUEVAYoL,496,1,(x3),5344,169.0,36369,-229,4306666,Bad Bunny,NUEVAYoL
+65,+1,Beéle - no tiene sentido,362,2,(x1),5274,75.0,35200,430,2537830,Beéle,no tiene sentido
+66,+16,Romeo Santos - Llévame Contigo,711,22,,5254,378.0,31405,456,3102493,Romeo Santos,Llévame Contigo
+67,+7,Feid - LUNA (w/ ATL Jacob),894,1,(x22),5232,174.0,35994,-417,8076479,Feid,LUNA (w/ ATL Jacob)
+68,+8,Neton Vega - Nalguita y Teta,16,60,,5206,197.0,34949,396,72731,Neton Vega,Nalguita y Teta
+69,-9,Jósean Log - Doma,40,60,,5205,-120.0,35286,239,172891,Jósean Log,Doma
+70,-1,"JHAYCO - No Me Conoce - Remix (w/ J Balvin, Bad Bunny)",1212,22,,5204,33.0,34302,113,4701318,JHAYCO,"No Me Conoce - Remix (w/ J Balvin, Bad Bunny)"
+71,-8,"Yan Block - 444 - Remix (w/ De La Rose, Hades66, Ñengo Flow)",149,33,,5170,-60.0,35400,11,718872,Yan Block,"444 - Remix (w/ De La Rose, Hades66, Ñengo Flow)"
+72,-8,Bad Bunny - NO ME QUIERO CASAR,888,3,(x3),5139,-84.0,33362,395,3608560,Bad Bunny,NO ME QUIERO CASAR
+73,+2,Grupo Frontera - EL AMOR DE SU VIDA (w/ Grupo Firme),1004,2,(x6),5138,103.0,34677,112,7083546,Grupo Frontera,EL AMOR DE SU VIDA (w/ Grupo Firme)
+74,-6,Neton Vega - Pvta Luna,162,34,,5132,-41.0,33547,147,837013,Neton Vega,Pvta Luna
+75,+11,Romeo Santos - Que Se Mueran,296,52,,5114,335.0,34358,-20,1146499,Romeo Santos,Que Se Mueran
+76,-4,Rauw Alejandro - Qué Pasaría... (w/ Bad Bunny),547,3,(x1),5091,-28.0,32507,436,3973180,Rauw Alejandro,Qué Pasaría... (w/ Bad Bunny)
+77,-4,Maluma - Borro Cassette,825,6,,5061,-10.0,36806,-418,3607461,Maluma,Borro Cassette
+78,-7,Michael Jackson - Beat It,21,59,,5052,-85.0,33887,255,96401,Michael Jackson,Beat It
+79,+13,Romeo Santos - Propuesta Indecente,1235,11,,5045,368.0,34339,-408,4493912,Romeo Santos,Propuesta Indecente
+80,-3,Kapo - UWAIE,637,2,(x12),5013,44.0,34560,-31,3881537,Kapo,UWAIE
+81,-1,Yan Block - 444 (w/ Panda Black),413,14,,4993,57.0,32068,475,2094144,Yan Block,444 (w/ Panda Black)
+82,-23,Plan B - Fanatica Sensual,280,49,,4986,-345.0,37153,-782,1118334,Plan B,Fanatica Sensual
+83,+7,Fuerza Regida - PERO NO TE ENAMORES,84,63,,4943,232.0,32445,196,330268,Fuerza Regida,PERO NO TE ENAMORES
+84,-3,Don Omar - Dile,1848,15,,4908,3.0,33702,-201,6723370,Don Omar,Dile
+85,-7,Yandel - Encantadora,504,38,,4840,-113.0,32461,176,2021175,Yandel,Encantadora
+86,+1,Omar Camacho - 2+2 (w/ Victor Mendivil),268,45,,4819,42.0,32676,155,1202420,Omar Camacho,2+2 (w/ Victor Mendivil)
+87,-4,Yan Block - Yo sé (w/ TORRRES),465,22,,4797,-9.0,30416,383,2131448,Yan Block,Yo sé (w/ TORRRES)
+88,-4,Romeo Santos - Odio (w/ Drake),533,19,,4792,-10.0,30922,64,2159906,Romeo Santos,Odio (w/ Drake)
+89,-4,Xavi - En Privado (w/ Manuel Turizo),454,3,(x1),4720,-72.0,31835,258,2923479,Xavi,En Privado (w/ Manuel Turizo)
+90,-2,Tainy - MOJABI GHOST (w/ Bad Bunny),1025,3,(x1),4703,-64.0,31479,199,4026630,Tainy,MOJABI GHOST (w/ Bad Bunny)
+91,+5,Fuerza Regida - ME JALO (w/ Grupo Frontera),505,3,(x1),4679,85.0,32099,-78,3219836,Fuerza Regida,ME JALO (w/ Grupo Frontera)
+92,+3,"Trap Capos - De las 2 (w/ Noriel, Bad Bunny, Arcángel)",231,60,,4644,49.0,30925,124,936235,Trap Capos,"De las 2 (w/ Noriel, Bad Bunny, Arcángel)"
+93,+1,Yan Block - Talento (w/ Panda Black),149,31,,4642,-7.0,31527,20,754115,Yan Block,Talento (w/ Panda Black)
+94,-1,"Peso Pluma - chiclona (w/ Tito Double P, LENCHO)",77,37,,4636,-26.0,32999,-401,381361,Peso Pluma,"chiclona (w/ Tito Double P, LENCHO)"
+95,+4,Bad Bunny - VOY A LLeVARTE PA PR,496,2,(x1),4607,73.0,29723,407,3652358,Bad Bunny,VOY A LLeVARTE PA PR
+96,-7,"Omar Camacho - 4x4 (w/ Victor Mendivil, Angel Almaguer, $HUPE)",86,56,,4593,-171.0,33899,-608,354802,Omar Camacho,"4x4 (w/ Victor Mendivil, Angel Almaguer, $HUPE)"
+97,=,Dominic Fike - Babydoll,50,60,,4534,-32.0,31931,176,219917,Dominic Fike,Babydoll
+98,+9,Fuerza Regida - caperuza,74,64,,4525,229.0,31217,-88,298489,Fuerza Regida,caperuza
+99,+3,Boza - orióN (w/ ELENA ROSE),370,39,,4523,144.0,30357,91,1499240,Boza,orióN (w/ ELENA ROSE)
+100,-21,Plan B - Candy,1017,34,,4522,-416.0,32684,-559,3943369,Plan B,Candy
+101,-10,Bad Bunny - Moscow Mule,1461,1,(x2),4505,-186.0,31236,-214,7580890,Bad Bunny,Moscow Mule
+102,-2,El Bogueto - Cuando No Era Cantante (w/ Yung Beef),188,8,,4505,-18.0,37458,-820,1137985,El Bogueto,Cuando No Era Cantante (w/ Yung Beef)
+103,+1,Bad Bunny - Tití Me Preguntó,831,1,(x82),4487,147.0,30743,-94,6176754,Bad Bunny,Tití Me Preguntó
+104,+1,"Anuel AA - Sola (Remix) (w/ Daddy Yankee, Zion & Lennox, Farruko, Wisin)",1637,6,,4484,170.0,30386,88,4873527,Anuel AA,"Sola (Remix) (w/ Daddy Yankee, Zion & Lennox, Farruko, Wisin)"
+105,-7,Jory Boy - No Te Hagas (w/ Bad Bunny),679,34,,4463,-83.0,28867,243,2813757,Jory Boy,No Te Hagas (w/ Bad Bunny)
+106,+9,Los Bukis - A Donde Vayas,820,23,,4385,287.0,30411,-45,3176851,Los Bukis,A Donde Vayas
+107,+80,Tito Double P - 5-7 (w/ Junior H),385,42,,4384,937.0,7831,4384,1491191,Tito Double P,5-7 (w/ Junior H)
+108,-7,Young Cister - QLOO* (w/ Kreamly),287,3,(x1),4377,-69.0,31041,-274,1652635,Young Cister,QLOO* (w/ Kreamly)
+109,RE,Junior H - TRES BOTELLAS,2,109,,4358,,4358,4358,7708,Junior H,TRES BOTELLAS
+110,-7,Banda Los Recoditos - Mi Último Deseo,96,48,,4355,-22.0,29210,305,350321,Banda Los Recoditos,Mi Último Deseo
+111,RE,Junior H - Extssy Model,50,111,,4349,,4349,4349,154103,Junior H,Extssy Model
+112,-3,Tito Double P - DOS DÍAS (w/ Peso Pluma),618,15,,4342,108.0,27498,421,3513604,Tito Double P,DOS DÍAS (w/ Peso Pluma)
+113,+21,Fuerza Regida - UNA CERVEZA (w/ Manuel Turizo),287,51,,4313,391.0,26647,444,927940,Fuerza Regida,UNA CERVEZA (w/ Manuel Turizo)
+114,+6,Omar Courtz - M U S A E L E V Á,146,58,,4292,234.0,28471,77,580452,Omar Courtz,M U S A E L E V Á
+115,+17,Neton Vega - Todo a Su Tiempo,408,67,,4288,361.0,26452,496,1376732,Neton Vega,Todo a Su Tiempo
+116,+8,Neton Vega - Morena (w/ Peso Pluma),452,5,,4284,268.0,28584,36,2930405,Neton Vega,Morena (w/ Peso Pluma)
+117,+8,Fuerza Regida - INMORTAL (w/ Chuyin),91,72,,4272,259.0,28861,-140,325343,Fuerza Regida,INMORTAL (w/ Chuyin)
+118,-10,Danny Ocean - Imagínate (w/ Kapo),541,17,,4251,-20.0,28730,-13,2728123,Danny Ocean,Imagínate (w/ Kapo)
+119,+7,BTS - Body to Body,57,2,(x1),4248,246.0,27414,387,330639,BTS,Body to Body
+120,+10,"Ya Ice Dilan - Dichavate (w/ Rey Tony, Helabusador, JipMusic Global, Dj Honda)",14,120,,4247,290.0,26480,561,50525,Ya Ice Dilan,"Dichavate (w/ Rey Tony, Helabusador, JipMusic Global, Dj Honda)"
+121,=,Romeo Santos - Necio (w/ null),520,38,,4245,202.0,26968,352,1811163,Romeo Santos,Necio (w/ null)
+122,-11,Rauw Alejandro - Khé? (w/ Romeo Santos),547,2,(x2),4245,104.0,27585,166,4002808,Rauw Alejandro,Khé? (w/ Romeo Santos)
+123,-4,"Arcángel - Tu No Vive Asi (w/ Bad Bunny, Mambo Kingz, DJ Luian)",1625,28,,4226,148.0,27775,187,5515002,Arcángel,"Tu No Vive Asi (w/ Bad Bunny, Mambo Kingz, DJ Luian)"
+124,-6,Vicente Fernández - Un Millón de Primaveras,1512,2,(x1),4203,124.0,31097,-190,5041692,Vicente Fernández,Un Millón de Primaveras
+125,-12,Romeo Santos - Hilito,485,62,,4188,56.0,29164,-350,1583184,Romeo Santos,Hilito
+126,+2,Don Omar - Salio El Sol,1118,70,,4176,208.0,27035,355,3046048,Don Omar,Salio El Sol
+127,-15,Bad Bunny - Ojitos Lindos (w/ Bomba Estéreo),1439,1,(x2),4154,16.0,28136,91,8382988,Bad Bunny,Ojitos Lindos (w/ Bomba Estéreo)
+128,+47,Prince Royce - La Carretera,146,67,,4134,589.0,25781,62,470124,Prince Royce,La Carretera
+129,+13,La Arrolladora Banda El Limón De Rene Camacho - Mi Segunda Vida,210,70,,4118,279.0,29981,-472,773820,La Arrolladora Banda El Limón De Rene Camacho,Mi Segunda Vida
+130,+3,Bad Bunny - MONACO,523,1,(x13),4110,184.0,27174,-25,3298384,Bad Bunny,MONACO
+131,-4,Grupo Firme - Qué Onda Perdida (w/ Gerardo Coronel),930,1,(x1),4108,135.0,27515,255,4445062,Grupo Firme,Qué Onda Perdida (w/ Gerardo Coronel)
+132,+4,Arcángel - Pa' Que La Pases Bien,791,26,,4101,210.0,25701,275,3070426,Arcángel,Pa' Que La Pases Bien
+133,-11,BTS - Hooligan,57,3,(x1),4095,70.0,27275,182,303860,BTS,Hooligan
+134,-20,Beéle - mi refe (w/ Ovy On The Drums),506,5,,4092,-16.0,27630,108,3740529,Beéle,mi refe (w/ Ovy On The Drums)
+135,-12,Tony Dize - Permítame (w/ Yandel),193,48,,4053,33.0,26690,155,675853,Tony Dize,Permítame (w/ Yandel)
+136,-26,Aventura - Ella Y Yo - Featuring Don Omar (w/ Don Omar),1644,17,,4045,-108.0,26160,249,4981822,Aventura,Ella Y Yo - Featuring Don Omar (w/ Don Omar)
+137,-8,ROA - ME GUSTAS CC,387,65,,4042,84.0,26731,142,1415143,ROA,ME GUSTAS CC
+138,+2,BTS - 2.0,57,6,,4039,185.0,26745,214,293788,BTS,2.0
+139,+12,Omar Courtz - WHAT U NEED? (SexPlaylist 2) (w/ Myke Towers),80,40,,4000,254.0,26594,17,310165,Omar Courtz,WHAT U NEED? (SexPlaylist 2) (w/ Myke Towers)
+140,+1,Julión Álvarez y su Norteño Banda - Te Hubieras Ido Antes,304,8,,3997,153.0,26370,230,1142285,Julión Álvarez y su Norteño Banda,Te Hubieras Ido Antes
+141,+17,Romeo Santos - La Diabla,529,33,,3996,285.0,26007,-185,1881354,Romeo Santos,La Diabla
+142,-26,Maná - Oye Mi Amor,849,53,,3975,-112.0,28038,-130,2736327,Maná,Oye Mi Amor
+143,-5,Calibre 50 - Si Te Pudiera Mentir,1128,12,,3967,95.0,18327,380,3392054,Calibre 50,Si Te Pudiera Mentir
+144,+11,KAROL G - Si Antes Te Hubiera Conocido,692,1,(x4),3959,236.0,27254,-354,4828624,KAROL G,Si Antes Te Hubiera Conocido
+145,+16,Grupo Firme - Que Te Quieran Bonito (w/ Luis Alfonso Partida El Yaki),114,11,,3954,276.0,27234,-268,498419,Grupo Firme,Que Te Quieran Bonito (w/ Luis Alfonso Partida El Yaki)
+146,-29,Mon Laferte - Tu Falta De Querer,708,20,,3951,-132.0,27502,-22,2283046,Mon Laferte,Tu Falta De Querer
+147,-2,Aventura - Los Infieles,780,5,,3941,154.0,25619,278,4038038,Aventura,Los Infieles
+148,-13,Julión Álvarez y su Norteño Banda - Lo Tienes Todo,751,3,(x5),3918,12.0,27361,-190,2993107,Julión Álvarez y su Norteño Banda,Lo Tienes Todo
+149,RE,Junior H - ROCKSTAR,112,72,,3903,,3903,3903,405231,Junior H,ROCKSTAR
+150,-3,Grupo Frontera - un x100to (w/ Bad Bunny),1056,1,(x28),3886,115.0,25534,340,7310780,Grupo Frontera,un x100to (w/ Bad Bunny)
+151,-20,Mon Laferte - Amárrame (w/ Juanes),171,47,,3885,-47.0,27388,-92,700111,Mon Laferte,Amárrame (w/ Juanes)
+152,-15,Anuel AA - Amanece (w/ Haze),1356,16,,3882,1.0,21917,174,5041705,Anuel AA,Amanece (w/ Haze)
+153,+1,Tego Calderón - Pa' Que Retozen,1551,14,,3856,126.0,24816,189,5517552,Tego Calderón,Pa' Que Retozen
+154,-8,"Tainy - Lo Siento BB:/ (w/ Bad Bunny, Julieta Venegas)",932,1,(x87),3845,59.0,11373,3845,4389987,Tainy,"Lo Siento BB:/ (w/ Bad Bunny, Julieta Venegas)"
+155,-5,The Police - Every Breath You Take,1033,57,,3808,55.0,25114,197,2687193,The Police,Every Breath You Take
+156,-4,Chuyin - PUES QUE LE HAGO ?,102,41,,3804,59.0,24154,-768,489365,Chuyin,PUES QUE LE HAGO ?
+157,-13,Los Dareyes De La Sierra - Frecuencia,328,6,,3796,-24.0,27069,-155,1883341,Los Dareyes De La Sierra,Frecuencia
+158,-10,Monchy & Alexandra - Hoja En Blanco (w/ Alexandra),184,106,,3792,35.0,18172,196,597968,Monchy & Alexandra,Hoja En Blanco (w/ Alexandra)
+159,+11,Omar Courtz - VAMOaCOCHI,66,52,,3780,213.0,25056,285,243574,Omar Courtz,VAMOaCOCHI
+160,-21,Omar Courtz - SI ESTÁS CON ALGUIEN,85,31,,3769,-97.0,26185,-161,375771,Omar Courtz,SI ESTÁS CON ALGUIEN
+161,+4,Rauw Alejandro - El Efecto (w/ Chencho Corleone),572,39,,3756,163.0,22669,-147,1530361,Rauw Alejandro,El Efecto (w/ Chencho Corleone)
+162,-6,Fuerza Regida - SABOR FRESA,752,15,,3756,34.0,24871,235,3075214,Fuerza Regida,SABOR FRESA
+163,+8,Peso Pluma - tu con el (w/ Tito Double P),79,75,,3725,166.0,24975,-7,312155,Peso Pluma,tu con el (w/ Tito Double P)
+164,+17,Fuerza Regida - TÚ NAME,734,13,,3721,244.0,25085,-376,3249928,Fuerza Regida,TÚ NAME
+165,-5,Milo j - Niño,180,56,,3703,14.0,25962,-182,736817,Milo j,Niño
+166,-17,Belanova - Rosa Pastel,768,29,,3684,-69.0,25477,-163,2616403,Belanova,Rosa Pastel
+167,-5,Enrique Iglesias - Cuando Me Enamoro (w/ Juan Luis Guerra 4.40),943,41,,3671,46.0,26305,-261,2578906,Enrique Iglesias,Cuando Me Enamoro (w/ Juan Luis Guerra 4.40)
+168,+14,Bad Bunny - Callaita (w/ Tainy),1810,1,(x9),3667,200.0,21266,-65,5306426,Bad Bunny,Callaita (w/ Tainy)
+169,-1,Arcángel - Por Amar A Ciegas,90,28,,3664,91.0,21186,188,387416,Arcángel,Por Amar A Ciegas
+170,-27,"DJ Luian - La Ocasión (w/ Mambo Kingz, De La Ghetto, Arcángel, Ozuna, Anuel AA)",85,117,,3653,-170.0,14741,3653,281731,DJ Luian,"La Ocasión (w/ Mambo Kingz, De La Ghetto, Arcángel, Ozuna, Anuel AA)"
+171,+15,Kapo - DÓNDE (w/ Ryan Castro),278,10,,3640,192.0,13932,131,1267920,Kapo,DÓNDE (w/ Ryan Castro)
+172,RE,Aventura - Obsesion,138,25,,3639,,3639,3639,511364,Aventura,Obsesion
+173,RE,"Alex Rose - Toda - Remix (w/ Rauw Alejandro, Lenny Tavárez, Cazzu, Lyanno)",114,46,,3638,,14225,3638,260057,Alex Rose,"Toda - Remix (w/ Rauw Alejandro, Lenny Tavárez, Cazzu, Lyanno)"
+174,-2,Plan B - Si No Le Contesto,959,40,,3634,76.0,25218,-197,3307202,Plan B,Si No Le Contesto
+175,-22,Jay Wheeler - De Lejitos,36,6,,3622,-121.0,25613,-179,214606,Jay Wheeler,De Lejitos
+176,-10,"Chris Jedi - Ahora Dice (w/ J Balvin, Ozuna, Arcángel)",168,3,(x13),3616,24.0,7208,3616,407768,Chris Jedi,"Ahora Dice (w/ J Balvin, Ozuna, Arcángel)"
+177,RE,BTS - they don’t know ’bout us,53,11,,3615,,13874,3615,247660,BTS,they don’t know ’bout us
+178,=,BTS - Like Animals,55,10,,3603,118.0,20468,3603,264039,BTS,Like Animals
+179,+12,Alleh - capaz (merengueton) (w/ Yorghaki),499,18,,3600,166.0,24575,-83,2381428,Alleh,capaz (merengueton) (w/ Yorghaki)
+180,RE,Banda MS de Sergio Lizárraga - A Lo Mejor,24,146,,3579,,3579,3579,79352,Banda MS de Sergio Lizárraga,A Lo Mejor
+181,+18,"Mora - Volando - Remix (w/ Bad Bunny, Sech)",929,2,(x1),3577,179.0,10447,96,3571545,Mora,"Volando - Remix (w/ Bad Bunny, Sech)"
+182,-3,Bad Bunny - Si Veo a Tu Mamá,1470,1,(x10),3565,84.0,20763,55,4548827,Bad Bunny,Si Veo a Tu Mamá
+183,+1,"Boy Wonder CF - 0 Sentimientos (Remix) (w/ Jon Z, Baby Rasta, Noriel, Darkiel, Messiah, LYAN)",229,84,,3564,107.0,20957,3564,773604,Boy Wonder CF,"0 Sentimientos (Remix) (w/ Jon Z, Baby Rasta, Noriel, Darkiel, Messiah, LYAN)"
+184,+1,Los Bukis - Acepto Mi Derrota,857,11,,3556,100.0,24581,-130,3459468,Los Bukis,Acepto Mi Derrota
+185,-26,YOVNGCHIMI - MVLAN (w/ JC Reyes),76,103,,3555,-136.0,25771,-160,293409,YOVNGCHIMI,MVLAN (w/ JC Reyes)
+186,-22,Yan Block - 111,428,66,,3551,-54.0,24477,27,1536387,Yan Block,111
+187,-14,Los Temerarios - Acepta Mi Error,569,32,,3549,-9.0,17362,-143,1918052,Los Temerarios,Acepta Mi Error
+188,RE,Beéle - si te pillara,294,3,(x5),3549,,6965,3549,1792982,Beéle,si te pillara
+189,-26,La Oreja de Van Gogh - Rosas,1117,13,,3531,-88.0,21130,-1,3781205,La Oreja de Van Gogh,Rosas
+190,RE,Rels B - TU VAS SIN (fav),288,32,,3529,,21420,-540,1122709,Rels B,TU VAS SIN (fav)
+191,RE,Joan Sebastian - Un Idiota,376,74,,3528,,6529,3528,1282685,Joan Sebastian,Un Idiota
+192,+8,Gianluca Grignani - Mi Historia Entre Tus Dedos - Remastered 2020,544,74,,3525,128.0,24298,-129,1373844,Gianluca Grignani,Mi Historia Entre Tus Dedos - Remastered 2020
+193,+2,Fuerza Regida - CRAZYZ,250,51,,3521,107.0,24297,3521,873891,Fuerza Regida,CRAZYZ
+194,RE,Banda Tierra Sagrada - La Buena y la Mala,213,45,,3521,,20568,58,809564,Banda Tierra Sagrada,La Buena y la Mala
+195,-18,Zion & Lennox - Otra vez (w/ J Balvin),749,1,(x5),3521,8.0,20384,34,1976860,Zion & Lennox,Otra vez (w/ J Balvin)
+196,RE,Grupo Firme - Calidad (w/ Luis Mexia),1023,3,(x3),3519,,10663,42,4069918,Grupo Firme,Calidad (w/ Luis Mexia)
+197,-3,"Jay Wheeler - La Curiosidad (w/ DJ Nelson, Myke Towers)",1823,2,(x39),3513,98.0,10588,3513,6521735,Jay Wheeler,"La Curiosidad (w/ DJ Nelson, Myke Towers)"
+198,=,Tito Double P - NADIE,387,10,,3508,100.0,6916,3508,2226513,Tito Double P,NADIE
+199,RE,Junior H - El Azul (w/ Peso Pluma),407,11,,3506,,3506,3506,1789493,Junior H,El Azul (w/ Peso Pluma)
+200,RE,Joan Sebastian - Tatuajes,669,41,,3500,,21683,-194,2267996,Joan Sebastian,Tatuajes

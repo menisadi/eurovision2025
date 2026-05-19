@@ -1,3 +1,4 @@
+import argparse
 import pandas as pd
 import json
 from pathlib import Path
@@ -5,9 +6,8 @@ import os
 
 
 def check_country(
-    country_file: str, results_df: pd.DataFrame, target_country: str
+    country_file: str, results_df: pd.DataFrame, target_country: str, folder: str
 ) -> int:
-    folder = "kworb_charts"
     country_df = pd.read_csv(folder + "/" + country_file)
 
     mapping_path = Path("./mapping.json")
@@ -37,13 +37,17 @@ def check_country(
 
 
 def main():
-    results_df = pd.read_csv("./results.csv")
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--chart-dir", required=True, help="Folder containing chart CSVs")
+    parser.add_argument("--results", required=True, help="Results CSV path")
+    parser.add_argument("--country", default="Estonia", help="Target country (default: Estonia)")
+    args = parser.parse_args()
 
-    # target_country = "Israel"
-    target_country = "Estonia"
-    files_list = os.listdir("kworb_charts")
+    results_df = pd.read_csv(args.results)
+    target_country = args.country
+    files_list = os.listdir(args.chart_dir)
     posistions = [
-        check_country(country_file, results_df, target_country)
+        check_country(country_file, results_df, target_country, args.chart_dir)
         for country_file in files_list
     ]
 

@@ -1,3 +1,4 @@
+import argparse
 import pandas as pd
 import numpy as np
 import json
@@ -5,8 +6,6 @@ from pathlib import Path
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-CHART_FOLDER = Path("charts")
-RESULTS_FILE = Path("./tables/results.csv")
 MAPPING_FILE = Path("mapping.json")
 
 
@@ -16,7 +15,7 @@ def load_country_mapping(mapping_path: Path = MAPPING_FILE) -> dict:
 
 
 def build_cross_table(
-    chart_folder: Path = CHART_FOLDER, results_file: Path = RESULTS_FILE
+    chart_folder: Path, results_file: Path
 ) -> pd.DataFrame:
     """
     Return a DataFrame whose (row, col) entry holds the position that *col-country*
@@ -223,7 +222,12 @@ def plot_count(cross):
 
 
 def main() -> None:
-    cross_table = build_cross_table()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--chart-dir", required=True, help="Folder containing chart CSVs")
+    parser.add_argument("--results", required=True, help="Results CSV path")
+    args = parser.parse_args()
+
+    cross_table = build_cross_table(Path(args.chart_dir), Path(args.results))
     # cross_table.to_csv("cross_first.csv")
 
     # jury_table = final_tables("./jury.csv")

@@ -1,0 +1,201 @@
+Pos,P+,Artist and Title,Days,Pk,(x?),Streams,Streams+,7Day,7Day+,Total,Artist,Track
+1,=,manifest - Hileli (w/ Ajda Pekkan),10,1,(x9),968814,75050.0,6886921,-231005,9503760,manifest,Hileli (w/ Ajda Pekkan)
+2,=,Serkan Nişancı - Eller Üzer,69,1,(x20),773836,14145.0,5538529,-169964,37223750,Serkan Nişancı,Eller Üzer
+3,+3,Batuflex - Hermès 2.0,72,2,(x9),357147,39521.0,2247428,-2426,30144415,Batuflex,Hermès 2.0
+4,-1,Simge - Kalpsiz Bir Serseri - Live,81,2,(x3),348969,8808.0,2403679,-20614,27040874,Simge,Kalpsiz Bir Serseri - Live
+5,=,Yung Ouzo - yanılmışım (w/ Tanerman),23,5,,348038,24744.0,1793984,175157,3761769,Yung Ouzo,yanılmışım (w/ Tanerman)
+6,+3,manifest - Daha İyi,44,3,(x6),347382,53715.0,2087578,17077,17663166,manifest,Daha İyi
+7,-3,Eypio - Ömrüm,58,2,(x5),342796,12487.0,2231741,20972,24798650,Eypio,Ömrüm
+8,-1,BLOK3 - KUSURA BAKMA,171,1,(x61),331535,20226.0,2036279,36202,122051876,BLOK3,KUSURA BAKMA
+9,-1,"Ayse Hatun Onal - Güm Güm (Serhat Karadağ Remix) (w/ Onurr, Serhat Karadag)",53,4,,317697,22826.0,2077294,-4382,14918062,Ayse Hatun Onal,"Güm Güm (Serhat Karadağ Remix) (w/ Onurr, Serhat Karadag)"
+10,+3,"ASLAR - yenildiğim tek savaştın (w/ Lessio, Astral)",72,1,(x36),279536,22800.0,1777900,10078,43944733,ASLAR,"yenildiğim tek savaştın (w/ Lessio, Astral)"
+11,=,KAVAK - RDM (w/ EGE!),23,3,(x2),279495,19342.0,1842409,-21926,6895382,KAVAK,RDM (w/ EGE!)
+12,-2,Motive - YIN YANG,80,1,(x11),278382,2489.0,1920062,-8887,35243643,Motive,YIN YANG
+13,+7,Afra - Adı İntikamdı (w/ Mustafa Sandal),3,13,,269666,62841.0,619925,269666,619925,Afra,Adı İntikamdı (w/ Mustafa Sandal)
+14,-2,Mebrure - Değilim,5,12,,259312,517.0,1055470,259312,1055470,Mebrure,Değilim
+15,+15,manifest - Snap,352,2,(x1),251536,54751.0,1332162,49295,77586473,manifest,Snap
+16,+5,"Lvbel C5 - ANKARA TATANGALAR (w/ AKDO, Ezhel)",9,11,,249239,42801.0,1502526,23497,2016591,Lvbel C5,"ANKARA TATANGALAR (w/ AKDO, Ezhel)"
+17,-2,Ati242 - Maraton,143,3,(x1),248012,12551.0,1600359,12043,36435698,Ati242,Maraton
+18,+13,manifest - Amatör,163,2,(x3),246746,50484.0,1358973,36909,41639020,manifest,Amatör
+19,-3,Wegh - Balbiber,87,5,,235325,8682.0,1531611,3201,19306681,Wegh,Balbiber
+20,+22,Elif Buse Doğan - Yangın Yeri,7,20,,233855,60187.0,1059028,233855,1059028,Elif Buse Doğan,Yangın Yeri
+21,-3,Semicenk - Çıkmaz Bir Sokakta,205,2,(x32),229918,13213.0,1473295,8899,84743439,Semicenk,Çıkmaz Bir Sokakta
+22,=,Hadise - Küçük Bir Yol - Red Bull Track Takeover (w/ Motive),58,1,(x3),228810,25019.0,1479778,22125,26687683,Hadise,Küçük Bir Yol - Red Bull Track Takeover (w/ Motive)
+23,+3,ERAY067 - NAFİLE (w/ Mansur),128,6,,227553,26388.0,1428079,3548,32870343,ERAY067,NAFİLE (w/ Mansur)
+24,+8,Pınar Soykan - Sakla - Erhan Boraer Remix (w/ Erhan Boraer),68,24,,226553,33199.0,1173970,98962,7170321,Pınar Soykan,Sakla - Erhan Boraer Remix (w/ Erhan Boraer)
+25,-11,Bengü - Saygımdan,817,11,,223336,-12521.0,1402556,49408,124837751,Bengü,Saygımdan
+26,-1,BLOK3 - napıyosun mesela ?,304,2,(x20),222857,20931.0,1371007,20272,125381550,BLOK3,napıyosun mesela ?
+27,-3,mor ve ötesi - Cambaz,1661,4,,222255,20308.0,1492220,-13214,66152769,mor ve ötesi,Cambaz
+28,-9,Simge - Misafir,79,13,,222027,9290.0,1500415,-7966,15589466,Simge,Misafir
+29,-12,Eypio - Sana Rağmen,86,6,,218831,-842.0,1464419,5648,22865533,Eypio,Sana Rağmen
+30,-1,Tekir - Vursunlar - Roman Version (w/ Gökhan Namlı),267,29,,215661,18616.0,1188364,49790,25839924,Tekir,Vursunlar - Roman Version (w/ Gökhan Namlı)
+31,-8,Wegh - Halef Selef,87,1,(x1),214635,11303.0,1410125,-471,23048079,Wegh,Halef Selef
+32,+1,Oğuzhan Koç - Yüzük,78,23,,214179,20928.0,1356727,1074,10653568,Oğuzhan Koç,Yüzük
+33,+28,Mela Bedel - İki Tas Çorba (w/ Mustafa Sandal),3,33,,213487,70087.0,447505,213487,447505,Mela Bedel,İki Tas Çorba (w/ Mustafa Sandal)
+34,+11,manifest - Başrol Sensin - 1. Yıl Özel,93,4,,210993,40503.0,1206894,-3990,20192336,manifest,Başrol Sensin - 1. Yıl Özel
+35,-8,Lark2020 - Afedersin,13,17,,205326,4603.0,1330730,12336,2415212,Lark2020,Afedersin
+36,-8,Keskin - ASLAN YAKIŞMAZ KAFESTE,37,7,,203112,5745.0,1322991,14423,9477493,Keskin,ASLAN YAKIŞMAZ KAFESTE
+37,-1,Norm Ender - Bir Çift Göz (w/ Ebru Gündeş),324,1,(x2),197283,12425.0,1284061,3702,114693494,Norm Ender,Bir Çift Göz (w/ Ebru Gündeş)
+38,-4,Poizi - UYUYAMADIN DİMİ?,30,13,,191569,-611.0,1434963,-33152,7304417,Poizi,UYUYAMADIN DİMİ?
+39,+1,Lvbel C5 - FVCKTHESYSTEM (w/ AKDO),9,36,,191016,13548.0,1131805,77824,1400691,Lvbel C5,FVCKTHESYSTEM (w/ AKDO)
+40,-5,Semicenk - Vur Beni (w/ Büken),22,11,,190879,1513.0,1410739,-45964,4412370,Semicenk,Vur Beni (w/ Büken)
+41,+11,manifest - KTS,362,4,,189060,32756.0,1102696,34853,62722676,manifest,KTS
+42,-4,Eypio - Yeraltı,107,1,(x4),188901,8500.0,1229856,13956,39107579,Eypio,Yeraltı
+43,+7,Umur Doma - Gel (w/ Hande Ünsal),132,23,,184434,23336.0,1186987,4920,18315456,Umur Doma,Gel (w/ Hande Ünsal)
+44,+15,Lvbel C5 - 10 NUMARA II (w/ AKDO),8,43,,183384,35857.0,919329,98919,1134307,Lvbel C5,10 NUMARA II (w/ AKDO)
+45,-8,Wegh - Geri Ver,185,1,(x1),183271,36.0,1257663,2230,49576832,Wegh,Geri Ver
+46,+2,WTSOUNDS - En Derine (w/ WTFRANK),112,5,,183239,18574.0,1196136,-5001,26067399,WTSOUNDS,En Derine (w/ WTFRANK)
+47,-8,Yung Ouzo - ON NUMARA,36,39,,183195,4338.0,1156427,18727,5173597,Yung Ouzo,ON NUMARA
+48,+1,Ati242 - Her Nerdeysen,583,9,,177268,13378.0,1196016,-4978,122341858,Ati242,Her Nerdeysen
+49,-8,Ankara Echoes - Beni Al,68,2,(x1),176886,68.0,1343275,-44336,21127898,Ankara Echoes,Beni Al
+50,-7,UZI - Cennet (w/ Motive),115,2,(x1),174304,2552.0,1188509,-11143,32998911,UZI,Cennet (w/ Motive)
+51,-4,Ahiyan - Rüya Gibiydin,51,6,,172602,2399.0,1202159,-9732,13444278,Ahiyan,Rüya Gibiydin
+52,+17,manifest - Yaşanacaksa,339,2,(x8),168232,32950.0,907274,37856,74466291,manifest,Yaşanacaksa
+53,+4,Çağla - Seni Düşündüm (w/ Doğu Swag),295,1,(x20),167122,15307.0,1051012,16416,119487956,Çağla,Seni Düşündüm (w/ Doğu Swag)
+54,-10,UZI - Şarkılar Sokaklara Ait (w/ Motive),206,1,(x22),166974,-4304.0,1080356,24596,74477239,UZI,Şarkılar Sokaklara Ait (w/ Motive)
+55,-2,Sertab Erener - Yanarım,126,42,,164770,8569.0,1068609,10796,16176178,Sertab Erener,Yanarım
+56,+21,"manifest - Manifest (w/ Arem Ozguc, Arman Aydin)",325,15,,161397,30484.0,874228,22152,49279821,manifest,"Manifest (w/ Arem Ozguc, Arman Aydin)"
+57,+27,"manifest - Zehir - Motive Remix (w/ Motive, Pango)",255,18,,157805,31160.0,874094,24490,36858040,manifest,"Zehir - Motive Remix (w/ Motive, Pango)"
+58,-3,Mert Demir - Olmazlara Vuruluyorum (w/ Duygu Edis),241,4,,149428,-2692.0,971833,24964,41175394,Mert Demir,Olmazlara Vuruluyorum (w/ Duygu Edis)
+59,+28,manifest - Arıyo,313,9,,148930,23974.0,835994,20027,49048240,manifest,Arıyo
+60,+2,KAVAK - Sorma (w/ BAKAN),37,21,,147775,5176.0,929133,9113,6284804,KAVAK,Sorma (w/ BAKAN)
+61,+6,Linet - Meğerse,146,15,,146869,11275.0,878943,24534,24536142,Linet,Meğerse
+62,+6,Şebnem Ferah - Mayın Tarlası,566,21,,146187,10883.0,939596,-21516,86977117,Şebnem Ferah,Mayın Tarlası
+63,+15,Bahadır Tatlıöz - Aşkın Ertesi,42,63,,145963,15248.0,888577,33208,4676335,Bahadır Tatlıöz,Aşkın Ertesi
+64,-1,Semicenk - Sen Kaldın,646,1,(x11),145924,3794.0,938059,19694,170571908,Semicenk,Sen Kaldın
+65,=,BLOK3 - git,303,1,(x18),145729,6681.0,944425,3795,133064304,BLOK3,git
+66,+7,Gripin - Yalnızlığın Çaresini Bulmuşlar,145,26,,144620,11890.0,897946,22604,20653930,Gripin,Yalnızlığın Çaresini Bulmuşlar
+67,+3,Cash Flow - 9mm (w/ Wegh),189,41,,144575,9778.0,924697,6183,22979190,Cash Flow,9mm (w/ Wegh)
+68,-2,Murda - hay Allah,93,2,(x1),144564,7406.0,931842,2387,19416523,Murda,hay Allah
+69,-13,Lvbel C5 - KÖPEKBALIKLARI BURDA (w/ AKDO),9,29,,144019,-7864.0,981949,-12692,1338892,Lvbel C5,KÖPEKBALIKLARI BURDA (w/ AKDO)
+70,-6,ACIOĞLU - ihtiyacım Var - Live,7,62,,143280,2343.0,845433,143280,845433,ACIOĞLU,ihtiyacım Var - Live
+71,+4,Model - Mey,973,2,(x9),143033,10705.0,848658,33718,57491732,Model,Mey
+72,-18,Hande Yener - Bu Yüzden,20,54,,141537,-14079.0,939363,26749,2365865,Hande Yener,Bu Yüzden
+73,-15,Yung Ouzo - en baba rüzgarda yanar ateş (GODBLESS) (w/ Tanerman),23,45,,141248,-6443.0,1019771,-1899,2947839,Yung Ouzo,en baba rüzgarda yanar ateş (GODBLESS) (w/ Tanerman)
+74,-3,Wegh - Güldüğün Gün,461,8,,140819,6580.0,886517,13723,60153364,Wegh,Güldüğün Gün
+75,+5,Mabel Matiz - A Canım,690,5,,140051,10212.0,949116,-2660,43700018,Mabel Matiz,A Canım
+76,+16,Ceren Sagu - Yemin Olsun,81,74,,138125,18282.0,823389,26803,8082980,Ceren Sagu,Yemin Olsun
+77,-17,Nazan Öncel - Beni Hatırla,685,14,,137590,-6079.0,929723,-16951,103490554,Nazan Öncel,Beni Hatırla
+78,-2,UZI - MA CHÉRIE (w/ Aksan),303,16,,135302,4324.0,895213,1748,51831737,UZI,MA CHÉRIE (w/ Aksan)
+79,+22,Yaşar - Kumralım,1806,20,,134915,22354.0,847403,19260,179946837,Yaşar,Kumralım
+80,-1,Semicenk - Üzülmedim Ki (w/ Büken),58,21,,134474,3765.0,910822,-4307,10031766,Semicenk,Üzülmedim Ki (w/ Büken)
+81,+4,Kenan Doğulu - Ara Beni Lütfen,395,10,,133347,7477.0,783092,26929,78486418,Kenan Doğulu,Ara Beni Lütfen
+82,+15,Sibel Can - Kıskıvrak,9,82,,132788,17691.0,766568,36577,957497,Sibel Can,Kıskıvrak
+83,+27,Lvbel C5 - COOOK PARDON (w/ AKDO),240,2,(x16),130483,22676.0,768698,-7611,79021915,Lvbel C5,COOOK PARDON (w/ AKDO)
+84,-3,BLOK3 - Keşke (w/ Ati242),416,1,(x30),130168,1974.0,870827,8765,142274425,BLOK3,Keşke (w/ Ati242)
+85,-13,Wegh - Kennedy'i Ben Vurdum,631,3,(x5),130079,-3313.0,834302,7191,77288064,Wegh,Kennedy'i Ben Vurdum
+86,+36,manifest - RÜYA,226,5,,129955,26149.0,727392,20293,38636135,manifest,RÜYA
+87,+8,"Tuğrul Bektaş - Burda Geceler (w/ Kaisa Natron, Cash Flow, Ortaq)",23,83,,129660,12539.0,797501,8602,2395352,Tuğrul Bektaş,"Burda Geceler (w/ Kaisa Natron, Cash Flow, Ortaq)"
+88,+2,Emre Fel - Bir Güldün (w/ Funktakl),141,13,,129501,8559.0,846050,-8338,20432772,Emre Fel,Bir Güldün (w/ Funktakl)
+89,-15,Dolu Kadehi Ters Tut - Dilerim Ki,856,29,,129373,-3104.0,888990,11030,110810466,Dolu Kadehi Ters Tut,Dilerim Ki
+90,-1,Motive - HANIMEFENDİ,453,18,,126547,5597.0,822256,8727,50009501,Motive,HANIMEFENDİ
+91,-9,Yalın - Her şey Sensin,673,30,,126281,-901.0,842186,8692,74551612,Yalın,Her şey Sensin
+92,+25,İbrahim Tatlıses - Senden Insaf Diler Yarın,202,31,,125901,20419.0,759605,12119,28293061,İbrahim Tatlıses,Senden Insaf Diler Yarın
+93,-2,KAVAK - 57 (w/ BAKAN),49,35,,125582,4732.0,802523,10833,6663096,KAVAK,57 (w/ BAKAN)
+94,+8,KAVAK - BBS,70,8,,124589,12511.0,763660,8164,12638672,KAVAK,BBS
+95,-12,Kubilay Karça - Ayaza Serdim,232,3,(x7),123823,-3150.0,835894,-2772,46931553,Kubilay Karça,Ayaza Serdim
+96,-10,Semicenk - Kutupta Yaz Gibi (w/ Büken),23,27,,123673,-1493.0,893744,-28558,3416215,Semicenk,Kutupta Yaz Gibi (w/ Büken)
+97,+17,Murat Dalkılıç - Derine,588,36,,123616,17254.0,819907,-12201,39816740,Murat Dalkılıç,Derine
+98,-10,Sibel Can - Bize Has,109,42,,122508,-558.0,875435,-9324,12110384,Sibel Can,Bize Has
+99,=,Wegh - Murabba,153,25,,122500,9140.0,791984,9367,20265079,Wegh,Murabba
+100,+28,Mustafa Sandal - Aşka Yürek Gerek,17,100,,122351,20390.0,695335,122351,1542615,Mustafa Sandal,Aşka Yürek Gerek
+101,-3,İzel - Işıklı Yol,170,55,,121739,7475.0,819044,-881,18028650,İzel,Işıklı Yol
+102,+38,Oğuzhan Koç - Ayy / Ben Hala Rüyada,217,4,,120749,23139.0,732378,-988,22748529,Oğuzhan Koç,Ayy / Ben Hala Rüyada
+103,+12,Lvbel C5 - vODKA BELUGA (w/ AKDO),108,1,(x17),120206,14285.0,737851,-2384,29531742,Lvbel C5,vODKA BELUGA (w/ AKDO)
+104,-1,Müslüm Gürses - Tutamıyorum Zamanı,293,55,,119372,7297.0,753739,2507,27831289,Müslüm Gürses,Tutamıyorum Zamanı
+105,-11,Wegh - Sana Vuruldum (Ulubatlı Hasan),277,37,,119215,1617.0,761336,12889,32639954,Wegh,Sana Vuruldum (Ulubatlı Hasan)
+106,+19,Yalın - Son Aşkım - Remastered,62,87,,118271,15716.0,776888,23119,5432285,Yalın,Son Aşkım - Remastered
+107,+27,Ahmet Kaya - Şiire Gazele,433,18,,116916,16625.0,700482,20361,55497392,Ahmet Kaya,Şiire Gazele
+108,-3,Ebru Gündeş - Kurşun Adres Sormaz Ki,111,12,,116319,5915.0,770608,-4262,17484360,Ebru Gündeş,Kurşun Adres Sormaz Ki
+109,+2,KAVAK - BBS 2.0 - Remix (w/ BAKAN),43,12,,115684,8368.0,752437,-6647,7812075,KAVAK,BBS 2.0 - Remix (w/ BAKAN)
+110,-17,Ahiyan - Üsküdar Sahildeyim,45,54,,115542,-2999.0,802979,1678,5076176,Ahiyan,Üsküdar Sahildeyim
+111,+5,Şebnem Ferah - Yağmurlar,205,10,,115011,9445.0,780764,-21947,36777960,Şebnem Ferah,Yağmurlar
+112,+47,Mustafa Sandal - Aya Benzer,369,51,,114993,23344.0,720889,7897,34723582,Mustafa Sandal,Aya Benzer
+113,+6,TUANA - cümlelerim,156,60,,114279,9150.0,756253,4835,15701665,TUANA,cümlelerim
+114,-7,Şebnem Ferah - Bu Aşk Fazla Sana,717,20,,113331,4265.0,838743,-51392,90926084,Şebnem Ferah,Bu Aşk Fazla Sana
+115,+5,Poizi - PERDE,255,1,(x34),113308,9301.0,725512,10392,93323436,Poizi,PERDE
+116,-3,UZI - Nedenini Sorma,296,34,,112399,5545.0,714661,19415,29892530,UZI,Nedenini Sorma
+117,-21,Yalın - Günaydın - Remastered,291,16,,112326,-3502.0,773426,7243,47015742,Yalın,Günaydın - Remastered
+118,-14,Yalın - Sonsuz Ol - Remastered,183,57,,112318,1798.0,745388,5022,18852253,Yalın,Sonsuz Ol - Remastered
+119,-13,Model - Değmesin Ellerimiz,1214,43,,112114,2357.0,704000,24104,81596455,Model,Değmesin Ellerimiz
+120,NEW,Noano - Ewa Safi (w/ Lil Kleine),1,120,,111929,,111929,111929,111929,Noano,Ewa Safi (w/ Lil Kleine)
+121,-13,BLOK3 - SEVMEYİ DENEMEDİN,611,1,(x35),111786,3730.0,721979,11351,223302785,BLOK3,SEVMEYİ DENEMEDİN
+122,+34,manifest - Zamansızdık,330,19,,111489,18870.0,666048,3298,42619647,manifest,Zamansızdık
+123,-23,Ayla Çelik - Kırmızı,21,61,,110865,-2013.0,818592,-9640,2494973,Ayla Çelik,Kırmızı
+124,-15,Ati242 - Değişmene Rağmen,680,1,(x1),110767,2891.0,709975,18006,167267080,Ati242,Değişmene Rağmen
+125,-7,Burak Bulut - Ama Başaramadım,107,20,,108200,2954.0,718075,2945,12548505,Burak Bulut,Ama Başaramadım
+126,-2,Organize - herkes kendine yakışanı yapsın (w/ Waxy),177,7,,107668,4713.0,705276,10619,32178572,Organize,herkes kendine yakışanı yapsın (w/ Waxy)
+127,-15,Ati242 - Sönen Sigaralar,584,4,,107435,343.0,696970,14830,112491216,Ati242,Sönen Sigaralar
+128,+36,Eypio - Kalbini Verdin,102,19,,107383,16203.0,638561,20672,16242323,Eypio,Kalbini Verdin
+129,+9,Dominic Fike - Babydoll,70,37,,106931,7884.0,715523,-4124,9064358,Dominic Fike,Babydoll
+130,+3,Justin Bieber - Beauty And A Beat (w/ Nicki Minaj),33,30,,106828,6265.0,748825,-12342,4643699,Justin Bieber,Beauty And A Beat (w/ Nicki Minaj)
+131,+6,KAVAK - 56,135,42,,106532,6856.0,645238,14182,15560269,KAVAK,56
+132,RE,"manifest - Rampapapam - Arem Ozguc & Arman Aydin Remix (w/ Arem Ozguc, Arman Aydin)",47,68,,106477,,190251,106477,4091180,manifest,"Rampapapam - Arem Ozguc & Arman Aydin Remix (w/ Arem Ozguc, Arman Aydin)"
+133,+33,Gülşen - İltimas (w/ Murat Boz),790,25,,105593,14487.0,696593,5866,68422419,Gülşen,İltimas (w/ Murat Boz)
+134,-2,Poizi - YAPAR MISIN? (w/ Murat Boz),297,1,(x13),105576,4974.0,692439,5744,100311386,Poizi,YAPAR MISIN? (w/ Murat Boz)
+135,+16,"Era7capone - SONBAHAR (w/ Poizi, SNOW)",352,1,(x28),105203,10220.0,680038,684,132273766,Era7capone,"SONBAHAR (w/ Poizi, SNOW)"
+136,+7,Simge - Yankı,1542,6,,105175,8053.0,723789,-2136,94517851,Simge,Yankı
+137,-16,Yung Ouzo - #işbirliği,23,44,,104900,1049.0,750726,-16817,2838888,Yung Ouzo,#işbirliği
+138,-9,Ati242 - Italy Forma,584,1,(x1),104821,3234.0,675109,6161,150627269,Ati242,Italy Forma
+139,=,Onur Can Özcan - İntihaşk,644,11,,104755,6616.0,680634,15112,54934790,Onur Can Özcan,İntihaşk
+140,-13,UZI - Ou (w/ Motive),115,1,(x8),104051,1630.0,710124,-70,28017490,UZI,Ou (w/ Motive)
+141,+26,Müslüm Gürses - Nilüfer,3153,9,,103079,12168.0,676604,6319,136179210,Müslüm Gürses,Nilüfer
+142,NEW,Melek Mosso - Gidenlerden (w/ Mustafa Sandal),1,142,,102958,,102958,102958,102958,Melek Mosso,Gidenlerden (w/ Mustafa Sandal)
+143,-17,Afra - Aşiyan (w/ Sefo),250,2,(x5),102814,320.0,560878,102814,55233934,Afra,Aşiyan (w/ Sefo)
+144,-14,Semicenk - Kalpsiz,333,2,(x5),102809,1281.0,682581,10609,79019909,Semicenk,Kalpsiz
+145,+33,Yalın - Yeniden,112,105,,101945,15137.0,618730,10642,6126783,Yalın,Yeniden
+146,-10,Organize - alışmak zor (w/ Waxy),7,76,,101900,2112.0,508494,15240,695518,Organize,alışmak zor (w/ Waxy)
+147,-3,Yalın - Ben Bilmem,427,49,,101597,4868.0,681522,12314,41593195,Yalın,Ben Bilmem
+148,-25,Pinhani - Sakinleştim,42,81,,101338,-2439.0,761519,-6262,3705839,Pinhani,Sakinleştim
+149,+39,Lvbel C5 - TAK TAK TAK,281,1,(x6),101335,16513.0,279678,2485,96145143,Lvbel C5,TAK TAK TAK
+150,-19,Semicenk - Sebepsiz Ayrılık (w/ Büken),18,36,,100727,-645.0,763348,-24918,2240157,Semicenk,Sebepsiz Ayrılık (w/ Büken)
+151,-6,Keskin - 55-53 (w/ Wegh),344,6,,100591,4478.0,644933,13206,43359894,Keskin,55-53 (w/ Wegh)
+152,+2,Era7capone - BYE BYE (w/ Murda),172,3,(x3),100566,6864.0,623677,3590,35948577,Era7capone,BYE BYE (w/ Murda)
+153,-3,Semicenk - İlkbaharım Kışa Döndü,596,28,,100017,4675.0,662066,9444,57415431,Semicenk,İlkbaharım Kışa Döndü
+154,+28,Don Omar - Danza Kuduro (w/ Lucenzo),214,93,,100004,13959.0,519123,9767,19037490,Don Omar,Danza Kuduro (w/ Lucenzo)
+155,-8,Ati242 - Shoote Shoote,691,37,,99957,4086.0,636671,15593,81535460,Ati242,Shoote Shoote
+156,-14,Motive - Bellydance,345,3,(x1),99905,2637.0,655230,10412,45324743,Motive,Bellydance
+157,RE,Gülben Ergen - Şıkır Şıkır (w/ Mustafa Sandal),294,86,,99253,,574031,-7108,23788583,Gülben Ergen,Şıkır Şıkır (w/ Mustafa Sandal)
+158,+27,KÖK$VL - NALAKA,34,33,,99204,13798.0,534178,-4401,4622196,KÖK$VL,NALAKA
+159,-4,Keskin - EĞME BOYUN,330,33,,99173,5766.0,545250,99173,50336001,Keskin,EĞME BOYUN
+160,+31,"Era7capone - CISTAK (w/ Batuflex, Narco)",639,1,(x95),98807,14850.0,602787,2417,193273953,Era7capone,"CISTAK (w/ Batuflex, Narco)"
+161,-8,Ferdi Özbeğen - Dönsen Bile,541,20,,98467,4700.0,553408,761,80717786,Ferdi Özbeğen,Dönsen Bile
+162,=,Kamuran Akkor - Bir Ateşe Attın Beni,159,75,,97637,6154.0,623788,11998,13882878,Kamuran Akkor,Bir Ateşe Attın Beni
+163,=,Yüzyüzeyken Konuşuruz - Kaş II,200,82,,97628,6227.0,645817,7024,17548191,Yüzyüzeyken Konuşuruz,Kaş II
+164,-12,Şam - Kendine İyi Bak (w/ Laçin),220,4,,97617,3663.0,648402,-1397,59182701,Şam,Kendine İyi Bak (w/ Laçin)
+165,+7,Yalın - Küçücüğüm,1211,33,,97584,8363.0,613881,97584,98060692,Yalın,Küçücüğüm
+166,-25,Pilli Bebek - Bak,250,26,,97156,-213.0,696508,-9098,31904543,Pilli Bebek,Bak
+167,+16,"Batuflex - BURADA SOKAKLAR (w/ ERAY067, Mansur)",295,9,,97137,11316.0,596931,4728,55367629,Batuflex,"BURADA SOKAKLAR (w/ ERAY067, Mansur)"
+168,-20,Melike Şahin - Ortak,417,17,,95966,346.0,448511,7068,55329105,Melike Şahin,Ortak
+169,=,"rash - duygularımın katili sensin (w/ Cano, M4RLON INC.)",37,51,,95859,6286.0,554986,-6593,4248174,rash,"duygularımın katili sensin (w/ Cano, M4RLON INC.)"
+170,-13,Ozan Doğulu - Yağmur (w/ Ziynet Sali),93,130,,95641,3747.0,442715,10156,1946297,Ozan Doğulu,Yağmur (w/ Ziynet Sali)
+171,-25,UZI - PARTİ PATLAR GNG’DEN,205,8,,95431,-451.0,534262,95431,20270592,UZI,PARTİ PATLAR GNG’DEN
+172,+1,GNG - Hızlı Sokaklar (w/ UZI),224,48,,94558,6103.0,622927,3162,17900852,GNG,Hızlı Sokaklar (w/ UZI)
+173,+7,Gökhan Namlı - Yar Gözlerin Ağlar Gibi,3,173,,93096,6817.0,259876,93096,259876,Gökhan Namlı,Yar Gözlerin Ağlar Gibi
+174,+10,Zekeriya Ünlü - Zeytin Yaprağı Yeşil (w/ Sıra Gecesi Arkadaşları),58,117,,93089,7655.0,595397,47,5249537,Zekeriya Ünlü,Zeytin Yaprağı Yeşil (w/ Sıra Gecesi Arkadaşları)
+175,-15,Erdem Kınay - Alkışlar (w/ Sibel Can),122,51,,92977,1332.0,184622,92977,12649389,Erdem Kınay,Alkışlar (w/ Sibel Can)
+176,RE,Bengü - Saat 03.00 (By Erhan Bayrak),170,27,,91588,,173350,91588,19303969,Bengü,Saat 03.00 (By Erhan Bayrak)
+177,-1,Motive - pVg,665,2,(x1),91281,3686.0,428884,91281,98720438,Motive,pVg
+178,+17,Derya Uluğ - HANİ,44,30,,91281,8788.0,620467,-6830,5847930,Derya Uluğ,HANİ
+179,RE,INNA - Caliente,146,85,,90374,,353525,-7775,13175463,INNA,Caliente
+180,+18,KAVAK - HITMAN (w/ BAKAN),166,78,,90335,8305.0,333057,2211,14846855,KAVAK,HITMAN (w/ BAKAN)
+181,=,Madrigal - Seni Dert Etmeler,1896,1,(x36),90303,4153.0,353122,90303,264995303,Madrigal,Seni Dert Etmeler
+182,-24,UZI - Paranoya,700,11,,89842,-2028.0,601972,89842,46787390,UZI,Paranoya
+183,-22,Ati242 - 25,1449,9,,89741,-1901.0,365727,89741,187699561,Ati242,25
+184,+16,Simge - Üzülmedin mi?,330,9,,89642,7858.0,340282,89642,16130502,Simge,Üzülmedin mi?
+185,RE,İbrahim Tatlıses - Neden,144,49,,89432,,337987,-4504,16135051,İbrahim Tatlıses,Neden
+186,-16,Irem - Hayalet Sevgilim,346,57,,89412,-82.0,353937,89412,25168989,Irem,Hayalet Sevgilim
+187,RE,İntizar - Büyük İnsan,243,25,,88794,,509293,672,32102883,İntizar,Büyük İnsan
+188,RE,Ebru Yaşar - Ben Ne Yangınlar Gördüm,221,76,,88772,,88772,88772,15968415,Ebru Yaşar,Ben Ne Yangınlar Gördüm
+189,RE,Emel Müftüoğlu - Hovarda,3,189,,88415,,253467,88415,253467,Emel Müftüoğlu,Hovarda
+190,+7,Serdar Ortaç - Dansöz,134,78,,88329,6144.0,170514,88329,11130011,Serdar Ortaç,Dansöz
+191,-42,Wegh - Yanlışlarla Karşılaştım (w/ Keskin),399,14,,88234,-7277.0,519722,2821,47447629,Wegh,Yanlışlarla Karşılaştım (w/ Keskin)
+192,-57,EDIS - Yalancı Şahidim - Live,39,65,,88199,-11985.0,651447,1023,3970048,EDIS,Yalancı Şahidim - Live
+193,RE,Deniz Seki - Aşk,59,101,,88120,,422672,-2040,5236594,Deniz Seki,Aşk
+194,RE,Tarkan - Arada Bir,127,34,,87754,,531408,-5039,14527577,Tarkan,Arada Bir
+195,RE,Ajda Pekkan - Bambaşka Biri,2,131,,87681,,87681,87681,154250,Ajda Pekkan,Bambaşka Biri
+196,-4,Tüdanya - Canımdan Can İste - Senin Uğruna,6,177,,86897,3557.0,331719,86897,489785,Tüdanya,Canımdan Can İste - Senin Uğruna
+197,-23,UZI - ŞUT,274,11,,86856,-1540.0,349843,86856,28264114,UZI,ŞUT
+198,RE,Yalın - Halbuki,625,6,,86365,,338714,86365,78724475,Yalın,Halbuki
+199,-28,Gripin - Aşk Nerden Nereye,1617,50,,86071,-3240.0,358599,86071,131725533,Gripin,Aşk Nerden Nereye
+200,-25,BLOK3 - GELME İSTEMEM,541,3,(x1),85984,-2322.0,353439,85984,92454871,BLOK3,GELME İSTEMEM

@@ -1,0 +1,201 @@
+Pos,P+,Artist and Title,Days,Pk,(x?),Streams,Streams+,7Day,7Day+,Total,Artist,Track
+1,=,Panda - Eu Te Seguro - Ao Vivo (w/ MJ Records),238,1,(x13),1202196,132254.0,7412818,261957,192022660,Panda,Eu Te Seguro - Ao Vivo (w/ MJ Records)
+2,=,"DJ Gu - Reliquia do 2T (w/ MC Vine7, MC Tuto, MC Joãozinho VT, Mc Dkziin, MC Fr da Norte)",94,1,(x39),987078,76633.0,6301020,-85676,92688348,DJ Gu,"Reliquia do 2T (w/ MC Vine7, MC Tuto, MC Joãozinho VT, Mc Dkziin, MC Fr da Norte)"
+3,+1,"DJ Oreia - Diário de um Cafajeste (w/ Mc Lele JP, MC Meno K, MC Ryan SP, MC Tuto, Mc Negão Original)",186,2,(x2),986550,84267.0,6257569,-24988,130279033,DJ Oreia,"Diário de um Cafajeste (w/ Mc Lele JP, MC Meno K, MC Ryan SP, MC Tuto, Mc Negão Original)"
+4,-1,"Mc Lele JP - Famoso Ímã | O poderoso chatão (w/ Mc Poze do Rodo, MC Leozinho ZS, DJ GORDINHO DA VF)",55,1,(x4),941975,39610.0,6025897,-52734,45056613,Mc Lele JP,"Famoso Ímã | O poderoso chatão (w/ Mc Poze do Rodo, MC Leozinho ZS, DJ GORDINHO DA VF)"
+5,+1,Zé Neto & Cristiano - Cadeira Cativa - Ao Vivo,36,4,,709904,84911.0,4433145,17984,21436033,Zé Neto & Cristiano,Cadeira Cativa - Ao Vivo
+6,-1,BTS - SWIM,57,1,(x8),694428,-4151.0,4580556,11364,48686138,BTS,SWIM
+7,+2,Murilo Huff - Saudade Estranha - Ao Vivo,78,7,,677631,98015.0,4119282,95382,39974584,Murilo Huff,Saudade Estranha - Ao Vivo
+8,-1,"Mc Livinho - Se Saudade Sentir (Se Prepara 3) (w/ Mc Pedrinho, Perera DJ, DJ JB Mix)",36,5,,660960,45902.0,4198189,-57438,18922198,Mc Livinho,"Se Saudade Sentir (Se Prepara 3) (w/ Mc Pedrinho, Perera DJ, DJ JB Mix)"
+9,+5,Jeninho - Peão Todo Tatuado (w/ Mariana Fagundes),56,9,,620130,123787.0,3646834,27399,17399101,Jeninho,Peão Todo Tatuado (w/ Mariana Fagundes)
+10,-2,"Mc Jacaré - Carnívoro (w/ Mc Lele JP, Mc Negão Original, DJ Japa NK)",112,1,(x7),620042,26083.0,4068744,-69560,89338781,Mc Jacaré,"Carnívoro (w/ Mc Lele JP, Mc Negão Original, DJ Japa NK)"
+11,-1,"Aaron Modesto - Pra Não Esquecer De Mim (w/ Mc Magal, MC Meno K, DJ Glenner)",33,10,,613067,43913.0,3714496,71961,13280006,Aaron Modesto,"Pra Não Esquecer De Mim (w/ Mc Magal, MC Meno K, DJ Glenner)"
+12,+6,Fred & Fabrício - Te Amar É Meu Talento - Ao Vivo,45,10,,582021,97790.0,3387676,191617,12509416,Fred & Fabrício,Te Amar É Meu Talento - Ao Vivo
+13,=,Júnior e Cézar - Cheiro De Culpado - Ao Vivo,182,8,,563705,64664.0,3569631,31111,69121614,Júnior e Cézar,Cheiro De Culpado - Ao Vivo
+14,+1,Murilo Huff - Deixa Eu - Ao Vivo,274,4,,555676,60750.0,3746924,-41559,181056771,Murilo Huff,Deixa Eu - Ao Vivo
+15,+2,DJ Japa NK - Amo Minha Favela (w/ MC Meno K),154,3,(x21),546774,58510.0,3407363,-31442,126475884,DJ Japa NK,Amo Minha Favela (w/ MC Meno K)
+16,-5,Danilo e Davi - Não Mexe nas Minhas Gavetas - Ao Vivo,106,8,,544072,-8299.0,3757393,-14095,47342039,Danilo e Davi,Não Mexe nas Minhas Gavetas - Ao Vivo
+17,-1,"DJ Japa NK - Posso Até Não Te Dar Flores (w/ MC Meno K, MC Ryan SP, Mc Jacaré, DJ DAVI DOGDOG)",239,1,(x121),524390,32566.0,3434333,-56719,333243466,DJ Japa NK,"Posso Até Não Te Dar Flores (w/ MC Meno K, MC Ryan SP, Mc Jacaré, DJ DAVI DOGDOG)"
+18,+9,"Mayke & Rodrigo - Bebe, Beija e Trai - Ao Vivo (w/ Panda)",166,12,,512885,85391.0,3294246,-28981,77384673,Mayke & Rodrigo,"Bebe, Beija e Trai - Ao Vivo (w/ Panda)"
+19,-7,"Rafa e Junior - Ama Um Maloqueiro (w/ Hugo & Guilherme, DJ Ari SL)",357,3,(x2),507484,4041.0,3584632,-32234,219274887,Rafa e Junior,"Ama Um Maloqueiro (w/ Hugo & Guilherme, DJ Ari SL)"
+20,+1,Danilo e Davi - Apaga Apaga Apaga - Ao Vivo,550,1,(x6),503263,55066.0,3495287,-34164,312689835,Danilo e Davi,Apaga Apaga Apaga - Ao Vivo
+21,-2,Diego & Victor Hugo - Tubarões - Ao Vivo,456,1,(x46),502212,37802.0,3267177,-2024,388598607,Diego & Victor Hugo,Tubarões - Ao Vivo
+22,+2,Michael Jackson - Billie Jean,60,16,,490112,49810.0,3107913,27230,10373026,Michael Jackson,Billie Jean
+23,-1,"DJ Japa NK - Gauchinha (w/ MC Meno K, MC Ryan SP, Mc Brinquedo, MC LUUKY)",147,3,(x5),486987,39038.0,3052390,-21459,102269321,DJ Japa NK,"Gauchinha (w/ MC Meno K, MC Ryan SP, Mc Brinquedo, MC LUUKY)"
+24,+1,Marília Mendonça - Foi por Conveniência,141,15,,481899,45623.0,3034170,6516,30772888,Marília Mendonça,Foi por Conveniência
+25,-5,MC Meno K - Bola Uma Vela (Trava Chip) (w/ Dj Yuri Pedrada),65,8,,480740,24274.0,3122460,-63220,33993332,MC Meno K,Bola Uma Vela (Trava Chip) (w/ Dj Yuri Pedrada)
+26,+14,Maiara & Maraisa - 90/10 - Ao Vivo em São Paulo,61,20,,466355,102953.0,2686795,126523,14353521,Maiara & Maraisa,90/10 - Ao Vivo em São Paulo
+27,+1,Grupo Menos É Mais - P do Pecado - Ao Vivo (w/ Simone Mendes),380,1,(x116),464464,50165.0,3316498,-76586,409527004,Grupo Menos É Mais,P do Pecado - Ao Vivo (w/ Simone Mendes)
+28,-5,Simone Mendes - Direitos Iguais - Ao Vivo,50,22,,461146,16931.0,2956387,68446,14925371,Simone Mendes,Direitos Iguais - Ao Vivo
+29,+1,"MJ Records - Insegurança / Fim de Noite - Ao Vivo (w/ Panda, Ícaro e Gilmar, Humberto & Ronaldo, Luan Pereira, Bruno & Denner, Mariana Fagundes, Rafael Quadros, CDB)",34,24,,457598,64849.0,2820448,31212,13257278,MJ Records,"Insegurança / Fim de Noite - Ao Vivo (w/ Panda, Ícaro e Gilmar, Humberto & Ronaldo, Luan Pereira, Bruno & Denner, Mariana Fagundes, Rafael Quadros, CDB)"
+30,+2,Gusttavo Lima - Assunto Que Dói,71,9,,454350,69518.0,3019686,-37635,35319444,Gusttavo Lima,Assunto Que Dói
+31,+6,Henrique & Juliano - Última Saudade (Ao Vivo),39,15,,445879,64628.0,3004094,-67373,18696638,Henrique & Juliano,Última Saudade (Ao Vivo)
+32,+6,Murilo Huff - Dois Enganados (w/ Marília Mendonça),184,21,,435031,60974.0,2877775,-24497,62560677,Murilo Huff,Dois Enganados (w/ Marília Mendonça)
+33,+2,Felipe e Rodrigo - Ignora (Ao Vivo),162,12,,432238,48297.0,2807398,-15020,83624101,Felipe e Rodrigo,Ignora (Ao Vivo)
+34,+2,Guilherme & Benuto - Eu Duvido - Ao Vivo (w/ Panda),50,26,,427445,45776.0,2817659,-5523,18073939,Guilherme & Benuto,Eu Duvido - Ao Vivo (w/ Panda)
+35,-1,"DJ Japa NK - SET DO JAPA NK 2.0 (w/ MC Ryan SP, MC Meno K, Mc IG, MC LUUKY, Mc Jacaré, Mc Rodrigo do CN, MC GH do 7, Mc Lele JP, MC Jvila, Oruam)",176,4,,422053,37967.0,2736910,-51070,123105108,DJ Japa NK,"SET DO JAPA NK 2.0 (w/ MC Ryan SP, MC Meno K, Mc IG, MC LUUKY, Mc Jacaré, Mc Rodrigo do CN, MC GH do 7, Mc Lele JP, MC Jvila, Oruam)"
+36,-7,"Panda - Baqueado - Ao Vivo (w/ Ícaro e Gilmar, MJ Records)",404,8,,422017,21309.0,2887116,-38919,212510317,Panda,"Baqueado - Ao Vivo (w/ Ícaro e Gilmar, MJ Records)"
+37,-6,Vitinho Imperador - Eu Me Apaixonei,269,3,(x18),415825,29522.0,3101594,-104320,210322752,Vitinho Imperador,Eu Me Apaixonei
+38,+1,Matheus & Kauan - Admita - Ao Vivo (w/ Lauana Prado),113,35,,407645,35251.0,2476740,38265,31716220,Matheus & Kauan,Admita - Ao Vivo (w/ Lauana Prado)
+39,+7,Clayton & Romário - Não Namora - Ao Vivo (w/ Zé Neto & Cristiano),71,29,,407432,57257.0,2628712,21311,23351468,Clayton & Romário,Não Namora - Ao Vivo (w/ Zé Neto & Cristiano)
+40,-7,"MC GP - ME POSTOU NO DAILY - FESTA DO BIG G (w/ Mc Lele JP, DJ DAVI DOGDOG, Dj Andrabeat)",230,2,(x24),404360,20067.0,2594568,-27760,197512409,MC GP,"ME POSTOU NO DAILY - FESTA DO BIG G (w/ Mc Lele JP, DJ DAVI DOGDOG, Dj Andrabeat)"
+41,-15,Felipe Araújo - Ponto G (w/ Panda),15,19,,398653,-29717.0,2815314,42901,5378776,Felipe Araújo,Ponto G (w/ Panda)
+42,+3,Ferrugem - Arrependidaço,70,18,,383961,33429.0,2670911,-65456,29499584,Ferrugem,Arrependidaço
+43,+4,"PEDRO SAMPAIO - JETSKI (w/ MC Meno K, Melody)",148,1,(x14),378855,35560.0,2490774,-28747,138517696,PEDRO SAMPAIO,"JETSKI (w/ MC Meno K, Melody)"
+44,=,Michael Jackson - Beat It,26,32,,378261,23648.0,2488813,-2768,7675989,Michael Jackson,Beat It
+45,-2,Panda - Corpo Nu - Ao Vivo (w/ MJ Records),62,30,,367870,12942.0,2330993,3416,18335940,Panda,Corpo Nu - Ao Vivo (w/ MJ Records)
+46,-5,"2ZDinizz - Beatriz (w/ Leborato, HHR)",136,27,,366030,5737.0,2287991,387,34823422,2ZDinizz,"Beatriz (w/ Leborato, HHR)"
+47,-5,"MC Meno K - Lembrei de Tu (w/ Oruam, Fepache)",90,9,,365868,5876.0,2340568,-32099,40542707,MC Meno K,"Lembrei de Tu (w/ Oruam, Fepache)"
+48,+3,Grupo Menos É Mais - Pela Última Vez - Ao Vivo (w/ NATTAN),267,2,(x4),360235,37837.0,2473846,-40216,203062430,Grupo Menos É Mais,Pela Última Vez - Ao Vivo (w/ NATTAN)
+49,+13,Zé Felipe - Ruim de Coração,16,49,,359639,71449.0,1798159,146995,3484056,Zé Felipe,Ruim de Coração
+50,=,NATTAN - Aproveita Que Eu Tô Brigado - Ao Vivo (w/ Zé Vaqueiro),27,36,,342347,15530.0,2429419,-56722,8185579,NATTAN,Aproveita Que Eu Tô Brigado - Ao Vivo (w/ Zé Vaqueiro)
+51,-3,Matheus & Kauan - Ilusão De Ótica - Ao Vivo (w/ Ana Castela),477,10,,330827,-2744.0,2321624,-44116,235031032,Matheus & Kauan,Ilusão De Ótica - Ao Vivo (w/ Ana Castela)
+52,-3,"MC GP - Semi Nua (w/ MC Meno K, Aaron Modesto, MC RN do Capão, DU'L, MC Rick, DJ Guh Mix, Marquinho no Beat, MC Ryan SP, Mc Negão Original)",130,13,,325942,-1837.0,2001414,15969,45563971,MC GP,"Semi Nua (w/ MC Meno K, Aaron Modesto, MC RN do Capão, DU'L, MC Rick, DJ Guh Mix, Marquinho no Beat, MC Ryan SP, Mc Negão Original)"
+53,+1,"Mc Negão Original - Vou pela Madrugada (w/ MC Jvila, MC Willian, DJ Japa NK, MC Meno K, DJ Guh Mix)",312,18,,324939,24798.0,2114154,-50159,104758706,Mc Negão Original,"Vou pela Madrugada (w/ MC Jvila, MC Willian, DJ Japa NK, MC Meno K, DJ Guh Mix)"
+54,-1,"MC GH do 7 - TIRA FOTO FAZ A POSE (w/ MC Ryan SP, DJ Japa NK, Mc IG, Mc Rodrigo do CN, Mc Jacaré, Mc Lekão, Dj Alanzin, Mc Lele JP)",18,25,,322969,9196.0,2349555,8772,4880282,MC GH do 7,"TIRA FOTO FAZ A POSE (w/ MC Ryan SP, DJ Japa NK, Mc IG, Mc Rodrigo do CN, Mc Jacaré, Mc Lekão, Dj Alanzin, Mc Lele JP)"
+55,+3,Henrique & Juliano - Saudade De Quem Eu Sou (Ao Vivo),39,36,,319775,28443.0,2131709,-31398,12922076,Henrique & Juliano,Saudade De Quem Eu Sou (Ao Vivo)
+56,+1,Henrique & Juliano - Até Você Voltar,1098,33,,317256,24828.0,2100189,-10821,86254267,Henrique & Juliano,Até Você Voltar
+57,-5,Dominic Fike - Babydoll,86,24,,317203,1789.0,2154007,-21553,27575535,Dominic Fike,Babydoll
+58,+9,Diego & Victor Hugo - Entregador de Flor - Ao Vivo em Brasília,615,4,,306617,36522.0,2008515,-16747,233409941,Diego & Victor Hugo,Entregador de Flor - Ao Vivo em Brasília
+59,+5,Matuê - Máquina do Tempo,941,1,(x3),306074,21333.0,1949133,3333,183282121,Matuê,Máquina do Tempo
+60,+6,"Mc IG - Mente Barulhenta (w/ Mc Lele JP, DJ Oreia, DJ Noiskita)",12,60,,305843,32013.0,1576627,87372,2513362,Mc IG,"Mente Barulhenta (w/ Mc Lele JP, DJ Oreia, DJ Noiskita)"
+61,-2,"Mari Fernandez - Saudade do Carai (w/ Grelo, Natanzinho Lima)",176,11,,305464,14870.0,2006866,42354,81277581,Mari Fernandez,"Saudade do Carai (w/ Grelo, Natanzinho Lima)"
+62,-2,Henrique & Juliano - Seja Ex (Ao Vivo),39,42,,293215,4013.0,2046281,-9962,12344364,Henrique & Juliano,Seja Ex (Ao Vivo)
+63,-7,BTS - Hooligan,57,4,,292603,-1943.0,1945726,-15300,24652924,BTS,Hooligan
+64,-9,Julliany Souza - Quem É Esse?,405,34,,292519,-2558.0,1980325,-9065,103803463,Julliany Souza,Quem É Esse?
+65,+3,"Dj Luan Gomes - PEGA A MALDADE DA BANDIDA (w/ Mc Ws da leste, Delleon, Tropa da W&S)",104,11,,290529,22759.0,1873581,-46078,48451640,Dj Luan Gomes,"PEGA A MALDADE DA BANDIDA (w/ Mc Ws da leste, Delleon, Tropa da W&S)"
+66,-5,BTS - Body to Body,57,2,(x1),286327,-2307.0,1897072,-7741,25305942,BTS,Body to Body
+67,-4,BTS - 2.0,57,8,,284383,-1142.0,1877673,-9036,22962785,BTS,2.0
+68,+8,Mc Lele JP - Toma Gostosona (w/ DJ Guh Mix),197,19,,281016,29241.0,1758406,-30190,77322023,Mc Lele JP,Toma Gostosona (w/ DJ Guh Mix)
+69,+12,Grupo Menos É Mais - Coração Partido (Corazón Partío) - Ao Vivo,622,1,(x4),278568,36967.0,1958826,-37107,431932619,Grupo Menos É Mais,Coração Partido (Corazón Partío) - Ao Vivo
+70,+1,Veigh - Talvez você precise de mim (w/ Supernova Ent),323,12,,277038,12967.0,1773180,-28684,120035605,Veigh,Talvez você precise de mim (w/ Supernova Ent)
+71,-6,"Mc Iguinho Ct - Semi Nua 2 (w/ Mc Negão Original, Aaron Modesto, DJ Guh Mix, MC GP, MC Ryan SP, MC Willian, Mc Dena, DU'L, MC RN do Capão, Marquinho no Beat)",73,43,,275759,-789.0,1771001,-5520,19708566,Mc Iguinho Ct,"Semi Nua 2 (w/ Mc Negão Original, Aaron Modesto, DJ Guh Mix, MC GP, MC Ryan SP, MC Willian, Mc Dena, DU'L, MC RN do Capão, Marquinho no Beat)"
+72,=,"Luiz Lins - Saudade (w/ Konai, Mazili)",44,63,,275636,14105.0,1733730,7090,8723792,Luiz Lins,"Saudade (w/ Konai, Mazili)"
+73,-3,"Mc Lele JP - Vai Tomando Pock Pock (w/ MC Leozinho ZS, MC GH Original, MC Menor ZL, DJ GORDINHO DA VF, MC Meno K, MC PR)",46,28,,275575,11050.0,1843301,-30236,14506016,Mc Lele JP,"Vai Tomando Pock Pock (w/ MC Leozinho ZS, MC GH Original, MC Menor ZL, DJ GORDINHO DA VF, MC Meno K, MC PR)"
+74,-1,Felipe e Rodrigo - Dois Gumes (Ao Vivo),50,38,,274516,17988.0,1728728,1890,13684122,Felipe e Rodrigo,Dois Gumes (Ao Vivo)
+75,-6,"NandaTsunami - P.I.T.T.Y. (Parecendo Uma Cafetina) (w/ Stick, Bvga Beatz, Torelli)",132,22,,272257,6950.0,1733566,-20927,43317155,NandaTsunami,"P.I.T.T.Y. (Parecendo Uma Cafetina) (w/ Stick, Bvga Beatz, Torelli)"
+76,+7,Gusttavo Lima - Transa Pendente,9,72,,272135,33254.0,1697691,50726,2110387,Gusttavo Lima,Transa Pendente
+77,+20,Jorge & Mateus - Pra Sempre Com Você - Ao Vivo,868,30,,257351,30897.0,1586238,19608,92283662,Jorge & Mateus,Pra Sempre Com Você - Ao Vivo
+78,+4,Zé Neto & Cristiano - Quase Todo Dia - Ao Vivo,36,42,,255288,14820.0,1814035,-39977,9836014,Zé Neto & Cristiano,Quase Todo Dia - Ao Vivo
+79,-5,Justin Bieber - Beauty And A Beat (w/ Nicki Minaj),33,22,,251553,-3472.0,1713170,-34642,10491005,Justin Bieber,Beauty And A Beat (w/ Nicki Minaj)
+80,-5,BTS - they don’t know ’bout us,57,14,,251008,-2090.0,1656740,-5124,20231546,BTS,they don’t know ’bout us
+81,+41,"Panda - Guerra Diária - Ao Vivo (w/ Ícaro e Gilmar, MJ Records)",6,81,,249774,44255.0,1233699,249774,1233699,Panda,"Guerra Diária - Ao Vivo (w/ Ícaro e Gilmar, MJ Records)"
+82,+3,"PEDRO SAMPAIO - SEQUÊNCIA FEITICEIRA (w/ Mc Gw, Mc Jhey, Mc Rodrigo do CN, MC Nito)",257,2,(x12),248336,12264.0,1618409,-16813,185794044,PEDRO SAMPAIO,"SEQUÊNCIA FEITICEIRA (w/ Mc Gw, Mc Jhey, Mc Rodrigo do CN, MC Nito)"
+83,-4,"fhop music - Tu és + Águas Purificadoras - Ao Vivo (w/ Débora Rabelo, Hamilton Rabelo)",738,18,,248206,5816.0,1775610,-49878,188050782,fhop music,"Tu és + Águas Purificadoras - Ao Vivo (w/ Débora Rabelo, Hamilton Rabelo)"
+84,+21,Diego & Victor Hugo - Beijei A Cura - Ao Vivo,29,45,,247415,31557.0,1703808,-41478,8212619,Diego & Victor Hugo,Beijei A Cura - Ao Vivo
+85,+1,Mari Fernandez - Telefone Sem Fio - Ao Vivo,7,65,,247412,12128.0,1683453,247412,1683453,Mari Fernandez,Telefone Sem Fio - Ao Vivo
+86,+40,Ferrugem - Apaguei Pra Todos - Ao Vivo (w/ Sorriso Maroto),757,13,,244967,40628.0,1704297,-43090,274612127,Ferrugem,Apaguei Pra Todos - Ao Vivo (w/ Sorriso Maroto)
+87,+19,Henrique & Diego - Raspão - Ao Vivo (w/ Simone & Simaria),744,5,,244340,28615.0,1639235,-14607,128285323,Henrique & Diego,Raspão - Ao Vivo (w/ Simone & Simaria)
+88,-8,Legião Urbana - Tempo Perdido,955,55,,244248,2309.0,1632917,-288,162998453,Legião Urbana,Tempo Perdido
+89,+58,Maiara & Maraisa - Sorte de Alguém - Ao Vivo em São Paulo,13,89,,243456,56218.0,1396330,31637,2496336,Maiara & Maraisa,Sorte de Alguém - Ao Vivo em São Paulo
+90,+72,Naiara Azevedo - Criado Com Vó - Naiara 15 - Ao Vivo em São Paulo,5,90,,241801,61582.0,422020,241801,923889,Naiara Azevedo,Criado Com Vó - Naiara 15 - Ao Vivo em São Paulo
+91,-13,MORADA - É Tudo Sobre Você / Ser Mudado - Ao Vivo,433,31,,241686,-2560.0,1590036,-1262,116562680,MORADA,É Tudo Sobre Você / Ser Mudado - Ao Vivo
+92,-3,Matchola - PENSANDO EM MIM (w/ 2ZDinizz),19,75,,241249,8962.0,1526247,35,4049777,Matchola,PENSANDO EM MIM (w/ 2ZDinizz)
+93,+5,"Mc Jacaré - Vingança (w/ MC LUUKY, dj andreoli)",27,48,,240492,14307.0,1656606,-53042,7095897,Mc Jacaré,"Vingança (w/ MC LUUKY, dj andreoli)"
+94,+21,"Panda - Calcinha de Renda - Ao Vivo (w/ Gusttavo Lima, MJ Records)",169,8,,240101,30068.0,1622852,-23670,75570295,Panda,"Calcinha de Renda - Ao Vivo (w/ Gusttavo Lima, MJ Records)"
+95,-11,Luan Pereira - 10 SEGUNDOS (w/ Panda),78,24,,239641,3396.0,1799972,-77545,29244137,Luan Pereira,10 SEGUNDOS (w/ Panda)
+96,-19,MC Tuto - Faz Parte De Mim (w/ DJ Oreia),98,8,,238555,-7911.0,1517813,-25170,40073787,MC Tuto,Faz Parte De Mim (w/ DJ Oreia)
+97,+5,Michael Jackson - Don't Stop 'Til You Get Enough - Single Version,19,81,,234696,15225.0,1572557,-5538,3994143,Michael Jackson,Don't Stop 'Til You Get Enough - Single Version
+98,-7,Guns N' Roses - Sweet Child O' Mine,465,80,,234638,4648.0,1515715,-1117,79946887,Guns N' Roses,Sweet Child O' Mine
+99,+2,"Delacruz - Poesia Acústica #2: Sobre Nós (w/ Maria, Ducon, Luiz Lins, Diomedes Chinaski, BK, Kayuá, Pineapple StormTv)",231,93,,232880,9097.0,1268332,19171,40805238,Delacruz,"Poesia Acústica #2: Sobre Nós (w/ Maria, Ducon, Luiz Lins, Diomedes Chinaski, BK, Kayuá, Pineapple StormTv)"
+100,-10,BTS - NORMAL,57,9,,232788,1139.0,1527501,-2147,20057209,BTS,NORMAL
+101,+16,Turma do Pagode - Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo) (w/ Grupo Menos É Mais),707,10,,231592,23796.0,1616195,-27125,205224551,Turma do Pagode,Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo) (w/ Grupo Menos É Mais)
+102,NEW,Matheus & Kauan - Meu Silêncio - Ao Vivo (w/ Simone Mendes),1,102,,231083,,231083,231083,231083,Matheus & Kauan,Meu Silêncio - Ao Vivo (w/ Simone Mendes)
+103,-11,BTS - FYA,57,6,,230367,645.0,1519177,-4701,19822235,BTS,FYA
+104,+20,Henry Freitas - Me Fala Qual Necessidade - Ao Vivo,105,87,,230127,24782.0,1492334,8821,21976861,Henry Freitas,Me Fala Qual Necessidade - Ao Vivo
+105,-10,"MC Cabelinho - Poesia Acústica #6 Era uma Vez (w/ Bob do Contra, Azzy, Filipe Ret, Dudu, Xamã, Orochi, Maquiny, Pineapple StormTv)",101,79,,230029,587.0,1303691,15188,18852092,MC Cabelinho,"Poesia Acústica #6 Era uma Vez (w/ Bob do Contra, Azzy, Filipe Ret, Dudu, Xamã, Orochi, Maquiny, Pineapple StormTv)"
+106,-12,BTS - Like Animals,57,11,,229810,356.0,1517059,-3601,19661228,BTS,Like Animals
+107,-14,BTS - Aliens,57,7,,229669,35.0,1514423,-4926,19914712,BTS,Aliens
+108,-20,Matheus & Kauan - Quarta Cadeira - Ao Vivo (w/ Jorge & Mateus),950,9,,229443,-4783.0,1486121,21068,215466933,Matheus & Kauan,Quarta Cadeira - Ao Vivo (w/ Jorge & Mateus)
+109,+2,Felipe e Rodrigo - Podcast (Ao Vivo),50,54,,229101,16164.0,1491312,-6516,12244362,Felipe e Rodrigo,Podcast (Ao Vivo)
+110,-3,The Neighbourhood - Sweater Weather,1222,64,,227130,11780.0,1489974,864,206174912,The Neighbourhood,Sweater Weather
+111,+1,"Panda - 12 Horas / Pra Você Acreditar - Ao Vivo (w/ Humberto & Ronaldo, Ícaro e Gilmar, MJ Records)",404,13,,226220,13832.0,1568294,-43342,152673288,Panda,"12 Horas / Pra Você Acreditar - Ao Vivo (w/ Humberto & Ronaldo, Ícaro e Gilmar, MJ Records)"
+112,+17,Grupo Menos É Mais - Lapada Dela - Ao Vivo (w/ Matheus Fernandes),1165,3,(x3),226047,23161.0,1652147,-50001,477420888,Grupo Menos É Mais,Lapada Dela - Ao Vivo (w/ Matheus Fernandes)
+113,-17,"BK - Músicas de amor nunca mais (w/ Luccas Carlos, Nansy Silvvz, Gigantes)",90,72,,225693,-1101.0,1493707,-19280,17247560,BK,"Músicas de amor nunca mais (w/ Luccas Carlos, Nansy Silvvz, Gigantes)"
+114,+6,Sotam - Foi assim (w/ Rob),152,58,,222430,16500.0,1005150,33371,31576833,Sotam,Foi assim (w/ Rob)
+115,-15,"Mc Lele JP - Chatão (w/ DJ Oreia, Mc DR, Gubeatz, Mc Negão Original, MC Ryan SP)",155,23,,222362,-2858.0,1542674,-51947,49597721,Mc Lele JP,"Chatão (w/ DJ Oreia, Mc DR, Gubeatz, Mc Negão Original, MC Ryan SP)"
+116,+21,"Zé Neto & Cristiano - Oi, Tudo Bem? - Ao Vivo",33,72,,221449,26751.0,1429573,5499,7212665,Zé Neto & Cristiano,"Oi, Tudo Bem? - Ao Vivo"
+117,-30,Henrique Casttro - Nem Pagando (w/ Grupo Menos É Mais),64,40,,220957,-13754.0,1596636,-18797,15749168,Henrique Casttro,Nem Pagando (w/ Grupo Menos É Mais)
+118,-14,BTS - Into the Sun,57,22,,220897,3612.0,1443140,2487,16621290,BTS,Into the Sun
+119,-9,Diego & Arnaldo - Vai Cair Água - Ao Vivo (w/ Zé Neto & Cristiano),288,20,,220715,7366.0,1505549,-24992,106359999,Diego & Arnaldo,Vai Cair Água - Ao Vivo (w/ Zé Neto & Cristiano)
+120,+15,Marina Sena - Lua Cheia,135,55,,220647,24812.0,1427404,-15668,30241311,Marina Sena,Lua Cheia
+121,-18,Taylor Swift - The Fate of Ophelia,224,2,(x1),219680,1722.0,1428655,-21658,82981022,Taylor Swift,The Fate of Ophelia
+122,+28,Clayton & Romário - Se Eu Te Perdoar - Ao Vivo (w/ Zé Felipe),231,4,,218782,33112.0,1184668,882,109517563,Clayton & Romário,Se Eu Te Perdoar - Ao Vivo (w/ Zé Felipe)
+123,+50,Zezé Di Camargo & Luciano - Sem Medo de Ser Feliz,142,58,,218050,42252.0,1441412,-709,29599422,Zezé Di Camargo & Luciano,Sem Medo de Ser Feliz
+124,-25,Matheus & Kauan - Vou Ter Que Superar - Ao Vivo (w/ Marília Mendonça),796,2,(x18),217921,-8220.0,1497806,34382,188486463,Matheus & Kauan,Vou Ter Que Superar - Ao Vivo (w/ Marília Mendonça)
+125,+9,"BK - Cacos De Vidro (sample: Esperar pra Ver) (w/ Kolo, Evinha)",102,62,,215546,19136.0,966429,-4058,21061794,BK,"Cacos De Vidro (sample: Esperar pra Ver) (w/ Kolo, Evinha)"
+126,+6,Michael Jackson - Smooth Criminal - 2012 Remaster,20,96,,215178,14529.0,1448499,-8157,4092514,Michael Jackson,Smooth Criminal - 2012 Remaster
+127,+15,Luísa Sonza - Telefone,37,11,,214934,22637.0,1338982,7200,9250648,Luísa Sonza,Telefone
+128,-19,"BK - Amanhecer (w/ Nansy Silvvz, Gigantes)",37,87,,214809,68.0,1083772,-9029,6760808,BK,"Amanhecer (w/ Nansy Silvvz, Gigantes)"
+129,-1,Cristiano Araújo - Caso Indefinido - Ao Vivo,125,80,,214006,10498.0,1371216,6039,22201776,Cristiano Araújo,Caso Indefinido - Ao Vivo
+130,=,"Mc J9 - Se Eu Ficar Pá Nem Me Testa (w/ MC Ryan SP, DJ Guh Mix, Mc Don Juan, Mc Negão Original, Mc Alan JR, Menor Richard, Mc IG, DJ Japa NK)",71,101,,212603,10043.0,1399761,-24235,14588726,Mc J9,"Se Eu Ficar Pá Nem Me Testa (w/ MC Ryan SP, DJ Guh Mix, Mc Don Juan, Mc Negão Original, Mc Alan JR, Menor Richard, Mc IG, DJ Japa NK)"
+131,+17,Panda - Um Dia Te Levo Comigo / Do Brasil à Argentina - Ao Vivo (w/ MJ Records),201,55,,212141,24997.0,1614035,-28555,46166890,Panda,Um Dia Te Levo Comigo / Do Brasil à Argentina - Ao Vivo (w/ MJ Records)
+132,-14,BTS - Merry Go Round,57,10,,211500,3909.0,1381234,-1064,17892263,BTS,Merry Go Round
+133,NEW,Drake - Make Them Cry,1,133,,211328,,211328,211328,211328,Drake,Make Them Cry
+134,-26,Anitta - Desgraça,29,14,,210625,-4321.0,1526965,-42882,8669959,Anitta,Desgraça
+135,+29,Hugo & Guilherme - Ele E Ela - Ao Vivo (w/ Grupo Menos É Mais),100,98,,209890,31467.0,972619,7100,20117983,Hugo & Guilherme,Ele E Ela - Ao Vivo (w/ Grupo Menos É Mais)
+136,NEW,Fred & Fabrício - Nem Vai Fazer Falta - Ao Vivo,1,136,,209044,,209044,209044,209044,Fred & Fabrício,Nem Vai Fazer Falta - Ao Vivo
+137,+33,Jorge & Mateus - Paredes - Ao Vivo,839,12,,208951,32287.0,713356,208951,96109774,Jorge & Mateus,Paredes - Ao Vivo
+138,-17,Felipe e Rodrigo - Caos De Alguém (Ao Vivo),42,87,,208460,2892.0,1428049,-14194,8922612,Felipe e Rodrigo,Caos De Alguém (Ao Vivo)
+139,-1,Jorge & Mateus - Os Anjos Cantam,768,14,,208387,13862.0,1337588,13350,46572615,Jorge & Mateus,Os Anjos Cantam
+140,-24,Songs Five Music - Yeshua - Ao Vivo (w/ José Jr),285,63,,207141,-2572.0,1045483,-10416,57726190,Songs Five Music,Yeshua - Ao Vivo (w/ José Jr)
+141,RE,Naiara Azevedo - Reclama Com Meu Ex - Naiara 15 - Ao Vivo em São Paulo (w/ Ana Castela),58,95,,206196,,206196,206196,12181499,Naiara Azevedo,Reclama Com Meu Ex - Naiara 15 - Ao Vivo em São Paulo (w/ Ana Castela)
+142,-11,BTS - Please,57,20,,206023,4037.0,1348621,1030,16622091,BTS,Please
+143,+1,"Dj Caio Vieira - FAMOSINHA (w/ MC Meno K, Mc Rodrigo do CN)",366,1,(x17),204800,13934.0,1321941,-12209,254999383,Dj Caio Vieira,"FAMOSINHA (w/ MC Meno K, Mc Rodrigo do CN)"
+144,-1,Alex Warren - Ordinary,379,19,,204759,12477.0,1156952,-2227,102958940,Alex Warren,Ordinary
+145,-20,Vitor Santana - João 20 + pra Sempre - Ao Vivo,375,27,,203971,-651.0,1014273,-3146,88110522,Vitor Santana,João 20 + pra Sempre - Ao Vivo
+146,-13,BTS - One More Night,56,19,,203795,3463.0,1154095,1341,16598387,BTS,One More Night
+147,NEW,Danilo e Davi - Eu Não Sou Terapia - Ao Vivo,1,147,,202961,,202961,202961,202961,Danilo e Davi,Eu Não Sou Terapia - Ao Vivo
+148,+10,Grupo Menos É Mais - Aquele Lugar - Ao Vivo,447,11,,201236,17787.0,856065,-22460,155451561,Grupo Menos É Mais,Aquele Lugar - Ao Vivo
+149,+31,Henrique & Diego - Suíte 14 - Ao Vivo (w/ MC Guime),951,8,,200707,28194.0,1294325,-3989,62202149,Henrique & Diego,Suíte 14 - Ao Vivo (w/ MC Guime)
+150,-31,Felipe Rodrigues - Tudo É Perda - Ao Vivo,66,96,,200433,-6086.0,1225224,-12919,12909817,Felipe Rodrigues,Tudo É Perda - Ao Vivo
+151,-37,Matuê - A Morte do Autotune,802,23,,200262,-10916.0,987810,-6424,172907645,Matuê,A Morte do Autotune
+152,+47,Diego & Victor Hugo - Áudio - Ao Vivo em Brasília,618,23,,199895,34859.0,862899,12131,122333109,Diego & Victor Hugo,Áudio - Ao Vivo em Brasília
+153,+3,The Goo Goo Dolls - Iris,183,109,,199549,15689.0,1294413,-385,31280374,The Goo Goo Dolls,Iris
+154,=,DJ TOPO - MTG NA IMAGINAÇÃO - TOPO SESSIONS VOL. 1 (w/ Mc Livinho),482,2,(x2),199442,14769.0,1274687,-13268,199253879,DJ TOPO,MTG NA IMAGINAÇÃO - TOPO SESSIONS VOL. 1 (w/ Mc Livinho)
+155,-9,Lauana Prado - Pra Você Lembrar De Mim - Ao Vivo (w/ Murilo Huff),97,65,,198836,10937.0,1253895,6448,21447780,Lauana Prado,Pra Você Lembrar De Mim - Ao Vivo (w/ Murilo Huff)
+156,-29,"Dj Yuri Pedrada - SET DJ YURI PEDRADA - TRAVA CHIP (w/ MC Meno K, Mc Negão Original, MC Ryan SP, Nilo, Mc Livinho, MC Jvila, Mc Paiva ZS, MC GDL)",143,43,,198568,-4998.0,1151110,-24490,36900267,Dj Yuri Pedrada,"SET DJ YURI PEDRADA - TRAVA CHIP (w/ MC Meno K, Mc Negão Original, MC Ryan SP, Nilo, Mc Livinho, MC Jvila, Mc Paiva ZS, MC GDL)"
+157,+39,Jorge & Mateus - Calma,493,55,,197630,31059.0,1142770,-17044,17385041,Jorge & Mateus,Calma
+158,-17,The Police - Every Breath You Take,690,76,,196991,4010.0,1282182,12893,122383482,The Police,Every Breath You Take
+159,-23,Matuê - BACKSTAGE,140,10,,195398,407.0,965952,-6414,32766869,Matuê,BACKSTAGE
+160,+23,Natanzinho Lima - Sonho de Amor - Ao Vivo,214,36,,195198,24007.0,1026108,-13782,53220174,Natanzinho Lima,Sonho de Amor - Ao Vivo
+161,-38,Henrique & Juliano - Logo Logo (Ao Vivo),10,112,,194552,-10836.0,1313822,-10840,1914602,Henrique & Juliano,Logo Logo (Ao Vivo)
+162,+7,Charlie Brown Jr. - Só os Loucos Sabem,540,74,,194518,17659.0,1260260,-5767,76478368,Charlie Brown Jr.,Só os Loucos Sabem
+163,-18,Linkin Park - In the End,566,16,,194108,5110.0,929494,2193,104334347,Linkin Park,In the End
+164,+12,"Toca Aquela - Silêncio (w/ Breno Major, Mariana Fagundes, Thauane)",55,12,,191292,17736.0,729199,191292,20855210,Toca Aquela,"Silêncio (w/ Breno Major, Mariana Fagundes, Thauane)"
+165,NEW,"Maiara & Maraisa - Já Não Sei Mais Nada / Juras de Amor - Sertanejo Série A | Vol.1 (w/ Naiara Azevedo, Fred & Fabrício)",1,165,,191068,,191068,191068,191068,Maiara & Maraisa,"Já Não Sei Mais Nada / Juras de Amor - Sertanejo Série A | Vol.1 (w/ Naiara Azevedo, Fred & Fabrício)"
+166,RE,Grupo Menos É Mais - Brinda Aê - Ao Vivo,146,52,,190976,,888526,-30072,35748518,Grupo Menos É Mais,Brinda Aê - Ao Vivo
+167,-8,Michael Jackson - Human Nature,11,126,,190096,7884.0,1083588,6796,1984745,Michael Jackson,Human Nature
+168,-17,"Racionais MC's - Vida Loka, Pt. 1",536,60,,190013,4671.0,917679,-961,108053324,Racionais MC's,"Vida Loka, Pt. 1"
+169,RE,Michel Teló - Exagerado - Ao Vivo,32,112,,188684,,552462,188684,5612519,Michel Teló,Exagerado - Ao Vivo
+170,NEW,"Maiara & Maraisa - Hoje a Noite / Me Usa - Sertanejo Série A | Vol.1 (w/ Naiara Azevedo, Fred & Fabrício)",1,170,,188019,,188019,188019,188019,Maiara & Maraisa,"Hoje a Noite / Me Usa - Sertanejo Série A | Vol.1 (w/ Naiara Azevedo, Fred & Fabrício)"
+171,+26,Mayke & Rodrigo - Te Perdi Pros Paredão - Ao Vivo (w/ Kaique e Felipe),59,86,,187942,22019.0,886848,3985,11806696,Mayke & Rodrigo,Te Perdi Pros Paredão - Ao Vivo (w/ Kaique e Felipe)
+172,-32,ANAVITÓRIA - Lisboa (w/ Lenine),477,62,,187292,-5841.0,1087595,-6693,96484903,ANAVITÓRIA,Lisboa (w/ Lenine)
+173,-34,Anitta - Mandinga (w/ Marina Sena),28,16,,186604,-7584.0,1350599,-19170,6798736,Anitta,Mandinga (w/ Marina Sena)
+174,-19,1Kilo - Deixe Me Ir - Acústico,1318,1,(x4),185798,1570.0,911625,2832,217188100,1Kilo,Deixe Me Ir - Acústico
+175,-62,Luísa Sonza - Que O Amor Morra,8,113,,185399,-26366.0,903914,185399,1403407,Luísa Sonza,Que O Amor Morra
+176,+2,Matheus Vargas - Desocupa (w/ Cleber & Cauan),218,22,,185343,11933.0,1107197,-41388,75342038,Matheus Vargas,Desocupa (w/ Cleber & Cauan)
+177,-6,sombr - back to friends,208,76,,184897,8621.0,899272,-814,38582138,sombr,back to friends
+178,+7,DJ Zigão - Tô na Brasilia com o Zigão (w/ MC Roger),212,12,,184849,14324.0,686170,-7964,82192583,DJ Zigão,Tô na Brasilia com o Zigão (w/ MC Roger)
+179,+15,Filho do Piseiro - Raparigas,100,17,,184804,17722.0,1351434,-33951,29591536,Filho do Piseiro,Raparigas
+180,RE,Henrique & Juliano - 5 Km (Ao Vivo),28,127,,184731,,515376,-406,5000880,Henrique & Juliano,5 Km (Ao Vivo)
+181,-9,Henrique & Juliano - Como É Que A Gente Fica (Ao Vivo),159,69,,184422,8457.0,516559,1890,6166655,Henrique & Juliano,Como É Que A Gente Fica (Ao Vivo)
+182,NEW,"Drake - Ran To Atlanta (w/ Future, Molly Santana)",1,182,,184202,,184202,184202,184202,Drake,"Ran To Atlanta (w/ Future, Molly Santana)"
+183,-30,Anitta - Choka Choka (w/ Shakira),36,3,(x1),183259,-1452.0,1389902,-73694,11277906,Anitta,Choka Choka (w/ Shakira)
+184,+16,Bison e Comassetto - Mundão Moderno,9,91,,183097,18074.0,1328351,-20162,1720241,Bison e Comassetto,Mundão Moderno
+185,+1,Djavan - Se...,33,130,,182640,12271.0,1249023,182640,2979530,Djavan,Se...
+186,RE,"Henry Freitas - Verãozão (w/ Rey Vaqueiro, Raí Saia Rodada)",9,98,,181436,,575764,181436,1822174,Henry Freitas,"Verãozão (w/ Rey Vaqueiro, Raí Saia Rodada)"
+187,NEW,"Maiara & Maraisa - Consequências - Sertanejo Série A | Vol.1 (w/ Naiara Azevedo, Fred & Fabrício)",1,187,,181377,,181377,181377,181377,Maiara & Maraisa,"Consequências - Sertanejo Série A | Vol.1 (w/ Naiara Azevedo, Fred & Fabrício)"
+188,RE,Henrique & Juliano - Amigo Da Minha Saudade (Ao Vivo),37,98,,181342,,1055276,-5910,7155670,Henrique & Juliano,Amigo Da Minha Saudade (Ao Vivo)
+189,-21,BTS - No. 29,53,17,,181159,3993.0,885982,181159,14552008,BTS,No. 29
+190,-41,Lady Gaga - Die With A Smile (w/ Bruno Mars),607,4,,181009,-6052.0,1090959,-17129,245929115,Lady Gaga,Die With A Smile (w/ Bruno Mars)
+191,-3,Simone Mendes - Saudade Proibida - Ao Vivo,378,1,(x3),180641,10726.0,750599,-6984,153285051,Simone Mendes,Saudade Proibida - Ao Vivo
+192,RE,Felipe e Rodrigo - Esquina,105,45,,180565,,555680,-4428,24229093,Felipe e Rodrigo,Esquina
+193,-26,Léo Foguete - Última Noite,554,4,,180123,2578.0,1231934,-29697,224171607,Léo Foguete,Última Noite
+194,RE,Hugo & Guilherme - Todo Mundo Menos Eu - Ao Vivo (w/ Ana Castela),158,18,,179418,,724837,179418,46875631,Hugo & Guilherme,Todo Mundo Menos Eu - Ao Vivo (w/ Ana Castela)
+195,-43,Fernandinho - Santo Pra Sempre - Ao Vivo no Mineirão,122,104,,179253,-5950.0,915495,179253,21642195,Fernandinho,Santo Pra Sempre - Ao Vivo no Mineirão
+196,-6,Guilherme & Benuto - Quarto 67 - Ao Vivo (w/ Luan Santana),228,38,,179017,9790.0,895828,-17826,66086042,Guilherme & Benuto,Quarto 67 - Ao Vivo (w/ Luan Santana)
+197,-34,"BK - Planos (w/ Luccas Carlos, Arit)",49,100,,178879,170.0,897435,-7969,9016394,BK,"Planos (w/ Luccas Carlos, Arit)"
+198,RE,Jorge & Mateus - Pergunta Boba - Ao Vivo,24,150,,178739,,178739,178739,4265135,Jorge & Mateus,Pergunta Boba - Ao Vivo
+199,NEW,"Maiara & Maraisa - Lágrimas e Chuva / Sonho De Amor - Sertanejo Série A | Vol.1 (w/ Naiara Azevedo, Fred & Fabrício)",1,199,,177704,,177704,177704,177704,Maiara & Maraisa,"Lágrimas e Chuva / Sonho De Amor - Sertanejo Série A | Vol.1 (w/ Naiara Azevedo, Fred & Fabrício)"
+200,-25,Xamã - Luxúria (w/ Matuê),385,109,,176617,2531.0,836594,176617,45173800,Xamã,Luxúria (w/ Matuê)

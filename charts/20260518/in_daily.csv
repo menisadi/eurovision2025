@@ -1,0 +1,201 @@
+Pos,P+,Artist and Title,Days,Pk,(x?),Streams,Streams+,7Day,7Day+,Total,Artist,Track
+1,=,Banjaare - Bairan,81,1,(x71),1492098,-117915.0,10695533,-78974,143250528,Banjaare,Bairan
+2,=,"Shashwat Sachdev - Gehra Hua (w/ Arijit Singh, Irshad Kamil, Armaan Khan)",163,1,(x69),881106,-16283.0,6219013,-23675,182762260,Shashwat Sachdev,"Gehra Hua (w/ Arijit Singh, Irshad Kamil, Armaan Khan)"
+3,=,Navjot Ahuja - Khat,122,2,(x1),816060,-35979.0,5965471,-49714,92208530,Navjot Ahuja,Khat
+4,+1,"Sai Abhyankkar - Pavazha Malli (w/ Shruti Haasan, Vivek)",73,4,,717304,-5763.0,4879549,56097,47243027,Sai Abhyankkar,"Pavazha Malli (w/ Shruti Haasan, Vivek)"
+5,-1,Mitta Ror - Sheesha (w/ Swara Verma),120,2,(x21),712463,-33892.0,5066747,-27628,96048406,Mitta Ror,Sheesha (w/ Swara Verma)
+6,=,"Shashwat Sachdev - Jaiye Sajana (w/ Jasmine Sandlas, Satinder Sartaaj)",59,2,(x19),668199,-30973.0,4928795,-108417,61052812,Shashwat Sachdev,"Jaiye Sajana (w/ Jasmine Sandlas, Satinder Sartaaj)"
+7,=,Anuv Jain - Arz Kiya Hai | Coke Studio Bharat,266,4,,667967,-26072.0,4795459,2739,174406621,Anuv Jain,Arz Kiya Hai | Coke Studio Bharat
+8,+1,Aditya Rikhari - Sahiba,320,1,(x124),652193,-2439.0,4503635,3704,405529069,Aditya Rikhari,Sahiba
+9,-1,Sheheryar Rehan - Majboor (w/ Zoha Waseem),36,2,(x1),642555,-32529.0,4851603,-119984,29392340,Sheheryar Rehan,Majboor (w/ Zoha Waseem)
+10,=,Kushagra - Finding Her (w/ Bharath),439,1,(x54),630687,-20961.0,4564169,-11327,382199667,Kushagra,Finding Her (w/ Bharath)
+11,+2,"Vishal Mishra - Tum Ho Toh (From ""Saiyaara"") (w/ Hansika Pareek, Raj Shekhar)",303,3,(x7),595913,-318.0,4010037,42544,176576058,Vishal Mishra,"Tum Ho Toh (From ""Saiyaara"") (w/ Hansika Pareek, Raj Shekhar)"
+12,+3,"Sachin-Jigar - Apna Bana Le (w/ Arijit Singh, Amitabh Bhattacharya)",928,1,(x14),573889,-46.0,4070150,-12399,512144157,Sachin-Jigar,"Apna Bana Le (w/ Arijit Singh, Amitabh Bhattacharya)"
+13,-2,Gajendra Verma - Mann Mera,1394,7,,568989,-32848.0,4070231,10054,455524688,Gajendra Verma,Mann Mera
+14,-2,"Jawad Ahmad - Samjhawan (w/ Shaarib Toshi, Arijit Singh, Shreya Ghoshal)",1692,2,(x2),565135,-32450.0,4187368,4269,278759080,Jawad Ahmad,"Samjhawan (w/ Shaarib Toshi, Arijit Singh, Shreya Ghoshal)"
+15,-1,"Arijit Singh - Sitaare (From ""Ikkis"") (w/ White Noise Collectives, Amitabh Bhattacharya)",163,6,,561954,-18280.0,4045940,-701,97828454,Arijit Singh,"Sitaare (From ""Ikkis"") (w/ White Noise Collectives, Amitabh Bhattacharya)"
+16,=,"Paresh Pahuja - Dooron Dooron (w/ Shiv Tandan, Meghdeep Bose)",227,2,(x1),520400,-5853.0,3694562,-1952,146464681,Paresh Pahuja,"Dooron Dooron (w/ Shiv Tandan, Meghdeep Bose)"
+17,=,Faheem Abdullah - Ishq (w/ Rauhan Malik),723,2,(x14),513940,-10471.0,3574745,9531,472171806,Faheem Abdullah,Ishq (w/ Rauhan Malik)
+18,=,"Mithoon - Darkhaast (w/ Arijit Singh, Sunidhi Chauhan)",170,17,,485054,-21714.0,3493823,11431,65691867,Mithoon,"Darkhaast (w/ Arijit Singh, Sunidhi Chauhan)"
+19,=,"Tanishk Bagchi - Saiyaara (w/ Faheem Abdullah, Arslan Nizami, Irshad Kamil)",213,2,(x15),483853,-16325.0,3425222,9686,148929253,Tanishk Bagchi,"Saiyaara (w/ Faheem Abdullah, Arslan Nizami, Irshad Kamil)"
+20,+1,Atif Aslam - Tere Liye (w/ Shreya Ghoshal),389,8,,475665,-15077.0,3202723,29016,154118437,Atif Aslam,Tere Liye (w/ Shreya Ghoshal)
+21,-1,A.R. Rahman - Deewaana Deewaana (w/ Irshad Kamil),110,18,,473844,-23704.0,3446300,-9517,47400266,A.R. Rahman,Deewaana Deewaana (w/ Irshad Kamil)
+22,+1,"Shashwat Sachdev - Shararat (w/ Madhubanti Bagchi, Jasmine Sandlas)",160,5,,460814,-7148.0,3236169,-47328,102298218,Shashwat Sachdev,"Shararat (w/ Madhubanti Bagchi, Jasmine Sandlas)"
+23,+1,Karan Aujla - For A Reason (w/ Ikky),269,2,(x5),442562,-15826.0,3074651,-7351,213189399,Karan Aujla,For A Reason (w/ Ikky)
+24,-2,Karan Aujla - Boyfriend (w/ Ikky),269,7,,441142,-31451.0,3248722,-27401,139450402,Karan Aujla,Boyfriend (w/ Ikky)
+25,+4,"The Rish - Barbaad (From ""Saiyaara"") (w/ Jubin Nautiyal)",304,5,,421549,4316.0,2909573,21103,160626114,The Rish,"Barbaad (From ""Saiyaara"") (w/ Jubin Nautiyal)"
+26,+1,"Sachet-Parampara - Raanjhan (From ""Do Patti"") (w/ Parampara Tandon, Kausar Munir)",575,1,(x42),415076,-9106.0,2816190,34859,409736971,Sachet-Parampara,"Raanjhan (From ""Do Patti"") (w/ Parampara Tandon, Kausar Munir)"
+27,-2,Anuv Jain - Jo Tum Mere Ho,646,1,(x105),414976,-20824.0,3052011,-26792,480686284,Anuv Jain,Jo Tum Mere Ho
+28,+3,"Alka Yagnik - Agar Tum Saath Ho (From ""Tamasha"") (w/ Arijit Singh)",2419,4,,413135,743.0,2904163,-3682,613373093,Alka Yagnik,"Agar Tum Saath Ho (From ""Tamasha"") (w/ Arijit Singh)"
+29,-3,"A.R. Rahman - Tere Bina (w/ Chinmayi, Murtuza Khan, Qadir Khan, Abhishek Bachchan, Aishwarya Rai Bachchan, R. Madhavan, Vidya Balan, Mithun Chakraborty, Arya Babbar)",637,6,,388353,-38177.0,2831627,3427,274179976,A.R. Rahman,"Tere Bina (w/ Chinmayi, Murtuza Khan, Qadir Khan, Abhishek Bachchan, Aishwarya Rai Bachchan, R. Madhavan, Vidya Balan, Mithun Chakraborty, Arya Babbar)"
+30,=,"Shashwat Sachdev - Dhurandhar The Revenge - Aari Aari (w/ Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas, Sudhir Yaduvanshi)",54,5,,388294,-27222.0,2832944,-49170,36225431,Shashwat Sachdev,"Dhurandhar The Revenge - Aari Aari (w/ Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas, Sudhir Yaduvanshi)"
+31,+2,Pritam - Ye Tune Kya Kiya (w/ Javed Bashir),829,8,,381817,-16680.0,2679272,26271,303391632,Pritam,Ye Tune Kya Kiya (w/ Javed Bashir)
+32,=,Shashwat Sachdev - Jaan Se Guzarte Hain (w/ Khan Saab),60,6,,381814,-23016.0,2746396,-27258,35641221,Shashwat Sachdev,Jaan Se Guzarte Hain (w/ Khan Saab)
+33,-5,"Faheem Abdullah - Ehsaas (w/ Duha Shah, Vaibhav Pani, Hyder Dar)",315,8,,381465,-42367.0,2922328,-51892,145984122,Faheem Abdullah,"Ehsaas (w/ Duha Shah, Vaibhav Pani, Hyder Dar)"
+34,+2,Arijit Singh - Zaalima (w/ Harshdeep Kaur),1058,25,,359564,-16497.0,2481465,6542,205617686,Arijit Singh,Zaalima (w/ Harshdeep Kaur)
+35,NEW,"Anirudh Ravichander - Raga of Revenge (From ""DC"")",1,35,,357275,,357275,357275,357275,Anirudh Ravichander,"Raga of Revenge (From ""DC"")"
+36,+2,"Kailash Kher - Teri Deewani (w/ Paresh Kamath, Naresh Kamath)",648,24,,352055,-8494.0,2633351,-13816,191442724,Kailash Kher,"Teri Deewani (w/ Paresh Kamath, Naresh Kamath)"
+37,+3,"Aksomaniac - Amsham - അംശം (w/ M.H.R, Bhumi, Circle Tone)",32,37,,351504,-680.0,2328415,58160,9286749,Aksomaniac,"Amsham - അംശം (w/ M.H.R, Bhumi, Circle Tone)"
+38,-3,Jeet Gannguli - Jo Tere Sang (w/ Mustafa Zahid),381,19,,348766,-33629.0,2472670,71470,122145686,Jeet Gannguli,Jo Tere Sang (w/ Mustafa Zahid)
+39,+3,"Mithoon - Dhun (From ""Saiyaara"") (w/ Arijit Singh)",306,3,(x10),347758,1328.0,2408334,10567,147350011,Mithoon,"Dhun (From ""Saiyaara"") (w/ Arijit Singh)"
+40,-6,"Arijit Singh - Mast Magan (From ""2 States) (w/ Chinmayi)",262,23,,344565,-45436.0,2521479,21741,104670714,Arijit Singh,"Mast Magan (From ""2 States) (w/ Chinmayi)"
+41,-2,"Shashwat Sachdev - Dhurandhar - Title Track (w/ Hanumankind, Jasmine Sandlas, Sudhir Yaduvanshi, Charanjit Ahuja, Muhammad Sadiq, Ranjit Kaur, Babu Singh Maan)",163,3,(x20),344518,-13728.0,2427504,-12675,105216413,Shashwat Sachdev,"Dhurandhar - Title Track (w/ Hanumankind, Jasmine Sandlas, Sudhir Yaduvanshi, Charanjit Ahuja, Muhammad Sadiq, Ranjit Kaur, Babu Singh Maan)"
+42,-5,Zeeshan Ali - Ishqa Ve,175,14,,341048,-21112.0,2466140,-4354,80733378,Zeeshan Ali,Ishqa Ve
+43,-2,Gajendra Verma - Mann Mera - Original Version,324,13,,336254,-13301.0,2332477,28178,113263061,Gajendra Verma,Mann Mera - Original Version
+44,-1,"Virat - Bairi (w/ Pradeep Solanki, Heena)",84,12,,331632,-147.0,2265100,-9765,38285291,Virat,"Bairi (w/ Pradeep Solanki, Heena)"
+45,+1,"Anirudh Ravichander - Aaya Sher (From ""The Paradise"") (Telugu) (w/ Jangi Reddy, Arjun Chandy, Kasarla Shyam)",82,2,(x1),324816,-4876.0,2327472,-6609,34455484,Anirudh Ravichander,"Aaya Sher (From ""The Paradise"") (Telugu) (w/ Jangi Reddy, Arjun Chandy, Kasarla Shyam)"
+46,-2,"Palak Muchhal - Chahun Main Ya Naa (From ""Aashiqui 2"") (w/ Arijit Singh)",932,36,,320391,-11152.0,2304946,-15065,191118612,Palak Muchhal,"Chahun Main Ya Naa (From ""Aashiqui 2"") (w/ Arijit Singh)"
+47,+1,"Sachin-Jigar - Chand Mera Dil - Title Track (w/ Faheem Abdullah, Amitabh Bhattacharya)",27,37,,313050,-13869.0,2236780,7205,8408849,Sachin-Jigar,"Chand Mera Dil - Title Track (w/ Faheem Abdullah, Amitabh Bhattacharya)"
+48,+8,"Vishal Mishra - Kaise Hua (From ""Kabir Singh"")",2529,4,,306114,-3355.0,2041589,29898,488308517,Vishal Mishra,"Kaise Hua (From ""Kabir Singh"")"
+49,=,"Shashwat Sachdev - Naal Nachna (w/ Afsana Khan, Irshad Kamil, Reble)",158,21,,305707,-20814.0,2258510,-18850,65436586,Shashwat Sachdev,"Naal Nachna (w/ Afsana Khan, Irshad Kamil, Reble)"
+50,-5,"Talwiinder - Haseen (w/ NDS, Rippy Grewal)",353,2,(x33),302435,-27938.0,2263614,-25999,206453759,Talwiinder,"Haseen (w/ NDS, Rippy Grewal)"
+51,+3,"Sachet-Parampara - Humsafar (From ""Saiyaara"") (w/ Sachet Tandon, Parampara Tandon, Irshad Kamil, Prashant Pandey)",304,5,,301097,-12860.0,2193443,-2828,126504498,Sachet-Parampara,"Humsafar (From ""Saiyaara"") (w/ Sachet Tandon, Parampara Tandon, Irshad Kamil, Prashant Pandey)"
+52,-5,"Akhil Sachdeva - Humsafar (From ""Badrinath Ki Dulhania"") (w/ Mansheel Gujral)",838,36,,299996,-28536.0,2146783,7915,190365068,Akhil Sachdeva,"Humsafar (From ""Badrinath Ki Dulhania"") (w/ Mansheel Gujral)"
+53,+10,"Sai Abhyankkar - God Mode (w/ Gana Muthu, Vishnu Edavan)",3,53,,294959,4424.0,803865,294959,803865,Sai Abhyankkar,"God Mode (w/ Gana Muthu, Vishnu Edavan)"
+54,+4,"Arijit Singh - Tum Hi Ho (From ""Aashiqui 2)",86,46,,293457,-10576.0,2147094,-10450,25772809,Arijit Singh,"Tum Hi Ho (From ""Aashiqui 2)"
+55,+2,Pritam - Tum Se Hi (w/ Mohit Chauhan),2242,7,,290309,-16281.0,2048389,20064,474990472,Pritam,Tum Se Hi (w/ Mohit Chauhan)
+56,-4,Harshit Saxena - Hale Dil,540,48,,289498,-27411.0,2092342,25364,131358041,Harshit Saxena,Hale Dil
+57,-6,"Sai Abhyankkar - Oorum Blood (w/ Paal Dabba, Bhumi, Deepthi Suresh)",259,3,(x1),287633,-32896.0,2075045,21953,125837145,Sai Abhyankkar,"Oorum Blood (w/ Paal Dabba, Bhumi, Deepthi Suresh)"
+58,+6,"Maanu - Jhol - Acoustic (w/ Annural Khalid, Abdullah Siddiqui)",402,9,,286322,-3022.0,2030709,-14599,142672296,Maanu,"Jhol - Acoustic (w/ Annural Khalid, Abdullah Siddiqui)"
+59,=,AP Dhillon - Thodi Si Daaru (w/ Shreya Ghoshal),292,3,(x18),283671,-14507.0,2037106,-11645,144908011,AP Dhillon,Thodi Si Daaru (w/ Shreya Ghoshal)
+60,+6,"G. V. Prakash - Mutta Kalakki (From ""Youth"") (w/ Ken Karunaas)",89,33,,282850,-3706.0,1957522,-2393,29603722,G. V. Prakash,"Mutta Kalakki (From ""Youth"") (w/ Ken Karunaas)"
+61,-8,Jind Universe - High On You,318,20,,279308,-35031.0,2106349,-15260,116709852,Jind Universe,High On You
+62,-1,"ARJN - KALYANI (w/ KDS, FIFTY4, RONN)",170,17,,279281,-14776.0,1973332,1607,65852013,ARJN,"KALYANI (w/ KDS, FIFTY4, RONN)"
+63,+5,Pritam - Zara Sa (w/ KK),1145,7,,277028,-5323.0,1839281,30372,247898218,Pritam,Zara Sa (w/ KK)
+64,-9,Pritam - Raabta (w/ Arijit Singh),1280,27,,276913,-35044.0,2109435,-17596,275766804,Pritam,Raabta (w/ Arijit Singh)
+65,+4,Sachin-Jigar - Jeena Jeena (w/ Atif Aslam),200,38,,273605,-7771.0,1908941,-1785,66026134,Sachin-Jigar,Jeena Jeena (w/ Atif Aslam)
+66,-6,"Arijit Singh - Humdard (From ""Ek Villain"")",2138,13,,272096,-22301.0,2010171,-6390,457507018,Arijit Singh,"Humdard (From ""Ek Villain"")"
+67,-5,Shashwat Sachdev - Lutt Le Gaya (w/ Simran Choudhary),158,24,,268442,-23506.0,1983230,-33765,64803625,Shashwat Sachdev,Lutt Le Gaya (w/ Simran Choudhary)
+68,-1,"A.R. Rahman - Raanjhanaa (w/ Jaswinder Singh, Shiraz Uppal)",634,39,,266929,-17735.0,2008386,-1502,144225536,A.R. Rahman,"Raanjhanaa (w/ Jaswinder Singh, Shiraz Uppal)"
+69,+3,"Arijit Singh - Tujhe Kitna Chahne Lage (From ""Kabir Singh"") (w/ Mithoon)",2543,2,(x50),265194,1229.0,1810081,17964,586436225,Arijit Singh,"Tujhe Kitna Chahne Lage (From ""Kabir Singh"") (w/ Mithoon)"
+70,-5,"Anirudh Ravichander - Raavana Mavandaa (From ""Jana Nayagan"") (w/ Vivek)",60,65,,264651,-22364.0,1758287,20438,12997950,Anirudh Ravichander,"Raavana Mavandaa (From ""Jana Nayagan"") (w/ Vivek)"
+71,=,Cheema Y - California Love (w/ Gur Sidhu),762,26,,257162,-10065.0,1813927,-8948,184182838,Cheema Y,California Love (w/ Gur Sidhu)
+72,+14,"Vishal-Shekhar - Ishq Bulaava (w/ Sanam Puri, Shipra Goyal)",402,21,,255013,8763.0,1806103,-13868,116560137,Vishal-Shekhar,"Ishq Bulaava (w/ Sanam Puri, Shipra Goyal)"
+73,-3,"Sachin-Jigar - Saibo (w/ Shreya Ghoshal, Tochi Raina)",2030,18,,252954,-17366.0,1840108,6225,399423911,Sachin-Jigar,"Saibo (w/ Shreya Ghoshal, Tochi Raina)"
+74,-1,"Shashwat Sachdev - Phir Se (w/ Arijit Singh, Irshad Kamil)",54,20,,249596,-11377.0,1894827,-39488,22537961,Shashwat Sachdev,"Phir Se (w/ Arijit Singh, Irshad Kamil)"
+75,+10,Aditya Rikhari - Paaro,428,21,,246406,-66.0,1727848,17787,137016016,Aditya Rikhari,Paaro
+76,-1,"Noor - Aarzu (w/ Khan, Madhurxo)",25,68,,244583,-12522.0,1771019,-21820,6087327,Noor,"Aarzu (w/ Khan, Madhurxo)"
+77,+1,"Shashwat Sachdev - Ishq Jalakar - Karvaan (w/ Shahzad Ali, Subhadeep Das Chowdhury, Armaan Khan, Irshad Kamil, Roshan, Sahir Ludhianvi)",163,2,(x1),240535,-12871.0,1731351,-11370,85763859,Shashwat Sachdev,"Ishq Jalakar - Karvaan (w/ Shahzad Ali, Subhadeep Das Chowdhury, Armaan Khan, Irshad Kamil, Roshan, Sahir Ludhianvi)"
+78,+5,Cheema Y - The Beast (w/ Gur Sidhu),24,78,,239784,-7794.0,1630328,23535,5100512,Cheema Y,The Beast (w/ Gur Sidhu)
+79,-2,Sunidhi Chauhan - Lae Dooba (w/ Manoj Muntashir),67,65,,238261,-15426.0,1735648,4971,15792087,Sunidhi Chauhan,Lae Dooba (w/ Manoj Muntashir)
+80,+19,Jyotica Tangri - Ishq de Fanniyar - Female Version (w/ Kumaar),36,80,,237971,8732.0,1590043,27332,8384886,Jyotica Tangri,Ishq de Fanniyar - Female Version (w/ Kumaar)
+81,+26,Sohail Sen - Aashiq Tera (w/ Altamash Faridi),230,68,,234736,10581.0,1613098,22328,53834372,Sohail Sen,Aashiq Tera (w/ Altamash Faridi)
+82,+8,Aditya Rikhari - Paro (w/ UNPLG'd),441,6,,233332,-8504.0,1700524,-11503,208279509,Aditya Rikhari,Paro (w/ UNPLG'd)
+83,-7,Shaarib Toshi - Maahi (w/ Toshi Sabri),357,46,,232842,-22243.0,1684937,12673,89140319,Shaarib Toshi,Maahi (w/ Toshi Sabri)
+84,-5,"Amaal Mallik - Soch Na Sake (w/ Arijit Singh, Tulsi Kumar)",1021,44,,232539,-20712.0,1625812,25855,198548286,Amaal Mallik,"Soch Na Sake (w/ Arijit Singh, Tulsi Kumar)"
+85,-11,Jasleen Royal - Sang Rahiyo,795,14,,232148,-25488.0,1752365,-9137,267261237,Jasleen Royal,Sang Rahiyo
+86,+14,"Farhan Saeed - Thodi Der (w/ Shreya Ghoshal, Kumaar)",30,86,,232102,2971.0,1590466,26957,6262325,Farhan Saeed,"Thodi Der (w/ Shreya Ghoshal, Kumaar)"
+87,+5,Atif Aslam - Pehli Dafa (w/ Shiraz Uppal),936,34,,231554,-7136.0,1654146,11320,221092205,Atif Aslam,Pehli Dafa (w/ Shiraz Uppal)
+88,-1,"Sachin-Jigar - Aitbaar (From ""Chand Mera Dil"") (w/ Faheem Abdullah, Amitabh Bhattacharya)",14,70,,230951,-14671.0,1672948,23341,3125106,Sachin-Jigar,"Aitbaar (From ""Chand Mera Dil"") (w/ Faheem Abdullah, Amitabh Bhattacharya)"
+89,-1,thiarajxtt - Jogi (w/ Bir),92,23,,230699,-14866.0,1854728,-70734,29060031,thiarajxtt,Jogi (w/ Bir)
+90,-10,Himesh Reshammiya - Tera Chehra (w/ Arijit Singh),234,60,,230578,-22398.0,1681177,-1682,65424939,Himesh Reshammiya,Tera Chehra (w/ Arijit Singh)
+91,+6,Masoom Sharma - Raat Ke Shikari,344,17,,228088,-2935.0,1561436,1089,120929078,Masoom Sharma,Raat Ke Shikari
+92,+2,"Sai Abhyankkar - Karuppa Kooda Va (w/ V.M. Mahalingam, Pa. Vijay)",2,92,,226611,-9556.0,462778,226611,462778,Sai Abhyankkar,"Karuppa Kooda Va (w/ V.M. Mahalingam, Pa. Vijay)"
+93,+3,Zain Zohaib - Ranjheya Ve,448,18,,224672,-10584.0,1658613,-13417,148054428,Zain Zohaib,Ranjheya Ve
+94,-3,Sachin-Jigar - Tainu Khabar Nahi (w/ Arijit Singh),689,16,,224047,-15310.0,1620009,-1952,220752920,Sachin-Jigar,Tainu Khabar Nahi (w/ Arijit Singh)
+95,=,Pritam - Dil Ibaadat (w/ KK),456,11,,223040,-12336.0,1527667,19794,98104238,Pritam,Dil Ibaadat (w/ KK)
+96,-14,"Ashish Bhatia - Kashish (w/ Omkar Singh, Kashish Ratnani)",243,6,,222530,-26187.0,1657571,-4423,97075174,Ashish Bhatia,"Kashish (w/ Omkar Singh, Kashish Ratnani)"
+97,-13,Dhanda Nyoliwala - Not Guilty,128,21,,221666,-25544.0,1692578,-23525,48638827,Dhanda Nyoliwala,Not Guilty
+98,-9,"Mohammed Irfan - Phir Mohabbat (w/ Arijit Singh, Saim Bhat, Mithoon, Sayeed Quadri)",111,80,,221203,-21985.0,1652267,-7244,26691234,Mohammed Irfan,"Phir Mohabbat (w/ Arijit Singh, Saim Bhat, Mithoon, Sayeed Quadri)"
+99,-6,"Ram Sampath - Sajni (From ""Laapataa Ladies"") (w/ Arijit Singh, Prashant Pandey)",745,1,(x59),220385,-17026.0,1640305,-8856,378457284,Ram Sampath,"Sajni (From ""Laapataa Ladies"") (w/ Arijit Singh, Prashant Pandey)"
+100,+29,Ayushmann Khurrana - Pani Da Rang - Male (w/ Rochak Kohli),68,85,,219077,7452.0,1571608,32547,14839021,Ayushmann Khurrana,Pani Da Rang - Male (w/ Rochak Kohli)
+101,-20,"Arijit Singh - Itni Si Baat Hain (From ""Azhar"") (w/ Antara Mitra)",558,25,,216962,-34631.0,1639864,-591,133390896,Arijit Singh,"Itni Si Baat Hain (From ""Azhar"") (w/ Antara Mitra)"
+102,+15,"Harrdy Sandhu - WOW (From ""Hai Jawani Toh Ishq Hona Hai"") (w/ Tanishk Bagchi, Kiran Bajwa, Gill Machhrai)",12,64,,216925,-1175.0,1515765,24541,2552754,Harrdy Sandhu,"WOW (From ""Hai Jawani Toh Ishq Hona Hai"") (w/ Tanishk Bagchi, Kiran Bajwa, Gill Machhrai)"
+103,+8,Ankit Tiwari - Sunn Raha Hai (Male Version),208,101,,216454,-6230.0,1548921,8001,39209914,Ankit Tiwari,Sunn Raha Hai (Male Version)
+104,-6,"A.R. Rahman - Aawaara Angaara (w/ Faheem Abdullah, Irshad Kamil)",176,4,,216278,-13977.0,1613726,1918,66405896,A.R. Rahman,"Aawaara Angaara (w/ Faheem Abdullah, Irshad Kamil)"
+105,+16,"Vishal-Shekhar - Khuda Jaane (w/ KK, Shilpa Rao)",1305,6,,215212,-1086.0,1556081,-14950,278974474,Vishal-Shekhar,"Khuda Jaane (w/ KK, Shilpa Rao)"
+106,+4,Amanraj Gill - Hopeless (w/ Prem Lata),155,45,,213831,-9012.0,1486719,9551,45246029,Amanraj Gill,Hopeless (w/ Prem Lata)
+107,+19,Masoom Sharma - Yaari,234,42,,213460,1125.0,1507752,-3920,64943982,Masoom Sharma,Yaari
+108,+17,Shashaa Tirupati - Baarish (w/ Ash King),19,78,,212672,193.0,1480588,-9315,3489083,Shashaa Tirupati,Baarish (w/ Ash King)
+109,+23,Ami Mishra - Hasi - Male Version,1057,48,,212423,2478.0,1500208,18849,228553898,Ami Mishra,Hasi - Male Version
+110,-7,"Shashwat Sachdev - Run Down The City - Monica (w/ Reble, Asha Bhosle, R. D. Burman, Majrooh Sultanpuri)",161,25,,212330,-15689.0,1572593,-14658,51865698,Shashwat Sachdev,"Run Down The City - Monica (w/ Reble, Asha Bhosle, R. D. Burman, Majrooh Sultanpuri)"
+111,-61,Hariharan - Shree Hanuman Chalisa,1375,5,,212126,-109809.0,2063841,524,342672177,Hariharan,Shree Hanuman Chalisa
+112,+12,"Palak Muchhal - Teri Meri Kahaani (w/ Manoj Yadav, Arijit Singh)",58,91,,211607,-1769.0,1557248,8039,12568448,Palak Muchhal,"Teri Meri Kahaani (w/ Manoj Yadav, Arijit Singh)"
+113,-1,A.R. Rahman - Enna Sona (w/ Arijit Singh),1209,32,,211538,-10582.0,1571691,12774,130432770,A.R. Rahman,Enna Sona (w/ Arijit Singh)
+114,-12,"Vishal Mishra - Deewaniyat (From ""Ek Deewane Ki Deewaniyat"") (Original Motion Picture Soundtrack) (w/ Kaushik-Guddu, Kunaal Vermaa)",255,5,,211026,-17578.0,1558202,-14025,93566346,Vishal Mishra,"Deewaniyat (From ""Ek Deewane Ki Deewaniyat"") (Original Motion Picture Soundtrack) (w/ Kaushik-Guddu, Kunaal Vermaa)"
+115,+39,"Atif Aslam - Jeene Laga Hoon (w/ Shreya Ghoshal, Sachin-Jigar)",612,21,,210550,10437.0,1414148,9462,170773174,Atif Aslam,"Jeene Laga Hoon (w/ Shreya Ghoshal, Sachin-Jigar)"
+116,-15,Kamal Khan - Ishq Sufiyana (Male),522,31,,210170,-18870.0,1485117,13184,126882700,Kamal Khan,Ishq Sufiyana (Male)
+117,-3,Amit Trivedi - Aaj Se Teri (w/ Arijit Singh),131,100,,209743,-11108.0,1513505,-9772,28014448,Amit Trivedi,Aaj Se Teri (w/ Arijit Singh)
+118,-9,"Hiphop Tamizha - Aura 10/10 (From ""Meesaya Murukku 2"") (w/ Thamizh Aadhavan)",61,72,,209651,-13568.0,1408677,23614,14913741,Hiphop Tamizha,"Aura 10/10 (From ""Meesaya Murukku 2"") (w/ Thamizh Aadhavan)"
+119,+14,Pritam - Labon Ko (w/ KK),179,28,,209319,-528.0,1417810,29148,36447708,Pritam,Labon Ko (w/ KK)
+120,-16,Shankar-Ehsaan-Loy - Ishq Di Baajiyaan (w/ Diljit Dosanjh),620,46,,209210,-17869.0,1458007,6674,149251555,Shankar-Ehsaan-Loy,Ishq Di Baajiyaan (w/ Diljit Dosanjh)
+121,+10,"Javed-Mohsin - Pal (w/ Arijit Singh, Shreya Ghoshal, Kunaal Vermaa, Prashant Ingole)",510,53,,207771,-2229.0,1531482,-4301,108759283,Javed-Mohsin,"Pal (w/ Arijit Singh, Shreya Ghoshal, Kunaal Vermaa, Prashant Ingole)"
+122,-2,"Madhur Sharma - Andaaz e Karam (w/ Moin, ER)",177,49,,207240,-9299.0,1553665,-25782,42149623,Madhur Sharma,"Andaaz e Karam (w/ Moin, ER)"
+123,+7,Cheema Y - Tutor (w/ Gur Sidhu),116,35,,207052,-3891.0,1444909,-682,27807803,Cheema Y,Tutor (w/ Gur Sidhu)
+124,+10,Vikram Sarkar - Naam Chale,305,4,,206787,-2629.0,1486619,-6785,132556765,Vikram Sarkar,Naam Chale
+125,-9,Shubh - One Love,1004,3,(x36),205732,-12677.0,1472366,5918,390779074,Shubh,One Love
+126,-18,"Shashwat Sachdev - Vaari Jaavan (w/ Jyoti Nooran, Jasmine Sandlas, Reble)",54,41,,205518,-18019.0,1545625,-32647,15565581,Shashwat Sachdev,"Vaari Jaavan (w/ Jyoti Nooran, Jasmine Sandlas, Reble)"
+127,=,Atif Aslam - Dil Diyan Gallan,2263,20,,204530,-7649.0,1421150,-449,346562441,Atif Aslam,Dil Diyan Gallan
+128,+34,Kishore Kumar - Pal Pal Dil Ke Paas,332,39,,204454,9127.0,1349363,-396,89891881,Kishore Kumar,Pal Pal Dil Ke Paas
+129,-23,The Weeknd - Starboy (w/ Daft Punk),1751,9,,203623,-20882.0,1514020,6812,330311976,The Weeknd,Starboy (w/ Daft Punk)
+130,-8,Pritam - Tu Hi Mera (w/ Shafqat Amanat Ali),290,58,,202955,-12658.0,1518389,-6145,68025266,Pritam,Tu Hi Mera (w/ Shafqat Amanat Ali)
+131,+6,Jeet Gannguli - Hamari Adhuri Kahani (Title Track) (w/ Arijit Singh),1588,50,,202827,-5637.0,1431178,3361,293946055,Jeet Gannguli,Hamari Adhuri Kahani (Title Track) (w/ Arijit Singh)
+132,+26,"Sai Abhyankkar - Singari (w/ Pradeep Ranganathan, Sai Smriti, Semv.iii)",194,45,,201999,5587.0,1394794,23818,48284336,Sai Abhyankkar,"Singari (w/ Pradeep Ranganathan, Sai Smriti, Semv.iii)"
+133,+9,Sanju Rathod - Bangles (w/ G-SPXRK),12,133,,201539,-2218.0,1358988,7185,2321217,Sanju Rathod,Bangles (w/ G-SPXRK)
+134,-19,Shubh - Moves,33,51,,200632,-20124.0,1518219,-26144,8777777,Shubh,Moves
+135,-17,Aditya Rikhari - Samjho Na,1122,12,,200408,-17124.0,1461690,3458,299975290,Aditya Rikhari,Samjho Na
+136,=,Atif Aslam - O'Meri Laila (w/ Jyotica Tangri),541,16,,200385,-8208.0,1471518,-14311,124071411,Atif Aslam,O'Meri Laila (w/ Jyotica Tangri)
+137,-9,"Anand Bhaskar - Vaaroon (w/ Romy, Ginny Diwan)",320,57,,200364,-11813.0,1526654,-22316,79036698,Anand Bhaskar,"Vaaroon (w/ Romy, Ginny Diwan)"
+138,-33,"Jasleen Royal - Sahiba (w/ Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma)",542,1,(x21),199038,-25860.0,1483642,-10807,240290737,Jasleen Royal,"Sahiba (w/ Stebin Ben, Vijay Deverakonda, Radhikka Madan, Priya Saraiya, Aditya Sharma)"
+139,=,Amit Trivedi - Yeh Fitoor Mera (w/ Arijit Singh),15,100,,198971,-7021.0,1448414,-4401,3023649,Amit Trivedi,Yeh Fitoor Mera (w/ Arijit Singh)
+140,-27,"KK - Ajab Si (From ""Om Shanti Om"")",989,20,,198900,-22624.0,1489250,-14239,196005571,KK,"Ajab Si (From ""Om Shanti Om"")"
+141,+4,Satinder Sartaaj - Udaarian,125,67,,198582,-3439.0,1430296,-11749,30120435,Satinder Sartaaj,Udaarian
+142,-1,Mithoon - Sanam Re (w/ Arijit Singh),36,127,,198255,-6287.0,1414275,3434,7158544,Mithoon,Sanam Re (w/ Arijit Singh)
+143,-24,"Pritam - Tu Hi Haqeeqat (w/ Javed Ali, Irshan Ashraf, Shadab)",223,88,,197390,-19426.0,1412817,-728,44207853,Pritam,"Tu Hi Haqeeqat (w/ Javed Ali, Irshan Ashraf, Shadab)"
+144,-4,"Kailash Kher - Saiyyan (w/ Paresh Kamath, Naresh Kamath)",843,49,,197310,-7537.0,1346277,23148,178103659,Kailash Kher,"Saiyyan (w/ Paresh Kamath, Naresh Kamath)"
+145,+19,"Sachet Tandon - Mere Sohneya (From ""Kabir Singh"") (w/ Parampara Tandon, Sachet-Parampara)",2216,4,,197005,1767.0,1390634,-3621,361653758,Sachet Tandon,"Mere Sohneya (From ""Kabir Singh"") (w/ Parampara Tandon, Sachet-Parampara)"
+146,+2,"Masoom Sharma - Madam Ji (w/ Rekha Goswami, Amar Karnawal)",100,106,,196633,-4160.0,1372830,2120,21117405,Masoom Sharma,"Madam Ji (w/ Rekha Goswami, Amar Karnawal)"
+147,-24,Divya Kumar - Sun Saathiya (w/ Priya Saraiya),365,74,,195337,-18442.0,1490000,-30666,70092617,Divya Kumar,Sun Saathiya (w/ Priya Saraiya)
+148,+40,"Rzee - Ada Bommale (w/ Chinmayi Kiranlal, Minya Panicker, Nila Raj, Heykarthii)",18,131,,195286,9282.0,1095906,377,3474787,Rzee,"Ada Bommale (w/ Chinmayi Kiranlal, Minya Panicker, Nila Raj, Heykarthii)"
+149,+1,"Mithoon - Phir Bhi Tumko Chaahunga (w/ Arijit Singh, Shashaa Tirupati)",433,79,,195282,-5352.0,1401074,-12367,81233034,Mithoon,"Phir Bhi Tumko Chaahunga (w/ Arijit Singh, Shashaa Tirupati)"
+150,-3,Anuv Jain - Husn,899,1,(x23),194862,-6064.0,1441483,-15731,419572640,Anuv Jain,Husn
+151,+17,"Sachet Tandon - Malang Sajna (w/ Parampara Tandon, Kumaar)",1070,4,,194575,1625.0,1460929,-1951,351532432,Sachet Tandon,"Malang Sajna (w/ Parampara Tandon, Kumaar)"
+152,-8,Lady Gaga - Die With A Smile (w/ Bruno Mars),600,3,(x2),194025,-9654.0,1405267,2807,208745905,Lady Gaga,Die With A Smile (w/ Bruno Mars)
+153,-18,"A.R. Rahman - Tum Tak (w/ Javed Ali, KIRTI SAGATHIA, Pooja AV)",518,54,,193725,-15650.0,1341753,17149,113798275,A.R. Rahman,"Tum Tak (w/ Javed Ali, KIRTI SAGATHIA, Pooja AV)"
+154,-1,"Manish Sonipat Aala - Aakh Ye Taalibaani (w/ Bali Sharma, Vampire)",187,32,,192942,-7311.0,1389935,-3039,59561545,Manish Sonipat Aala,"Aakh Ye Taalibaani (w/ Bali Sharma, Vampire)"
+155,+12,"Bintu Pabra - Financer (w/ Bamboo Beat, Pranjal Dahiya, Shiva Choudhary)",174,48,,192716,-333.0,1339808,-6377,51433487,Bintu Pabra,"Financer (w/ Bamboo Beat, Pranjal Dahiya, Shiva Choudhary)"
+156,-10,Pritam - Kalank - Title Track (w/ Arijit Singh),654,34,,191990,-9135.0,1341703,191990,123351862,Pritam,Kalank - Title Track (w/ Arijit Singh)
+157,-6,"Sachet Tandon - Bekhayali (From ""Kabir Singh"") (w/ Sachet-Parampara, Shahid Kapoor, Kiara Advani)",1978,1,(x23),191691,-8595.0,1421546,-7356,219932368,Sachet Tandon,"Bekhayali (From ""Kabir Singh"") (w/ Sachet-Parampara, Shahid Kapoor, Kiara Advani)"
+158,-15,Vikram Sarkar - Gaadi 150 (w/ THOUGHT),322,32,,191281,-12417.0,1353752,-3414,93741064,Vikram Sarkar,Gaadi 150 (w/ THOUGHT)
+159,-7,Faheem Abdullah - Sajde (w/ Huzaif Nazar),352,7,,190912,-9351.0,1404747,-8911,117100027,Faheem Abdullah,Sajde (w/ Huzaif Nazar)
+160,-5,Anuv Jain - Afsos (w/ AP Dhillon),472,5,,190741,-9209.0,1405424,-17330,181449411,Anuv Jain,Afsos (w/ AP Dhillon)
+161,-23,Dhanda Nyoliwala - Russian Bandana,591,5,,188549,-17495.0,1377296,-16793,188937006,Dhanda Nyoliwala,Russian Bandana
+162,+8,Anuv Jain - Baarishein,1831,15,,188294,-3945.0,1374499,-11924,414858326,Anuv Jain,Baarishein
+163,-3,"Atif Aslam - Tera Hone Laga Hoon (w/ Alisha Chinai, Pritam)",1826,20,,187677,-7885.0,1343975,-1226,367131683,Atif Aslam,"Tera Hone Laga Hoon (w/ Alisha Chinai, Pritam)"
+164,RE,"Anirudh Ravichander - Othaiyadi Pathayila (w/ Sathyaraj, Aishwarya Rajesh)",84,115,,186742,,372730,186742,890241,Anirudh Ravichander,"Othaiyadi Pathayila (w/ Sathyaraj, Aishwarya Rajesh)"
+165,-8,Kunwarr - Piche Tere (w/ Dishant),107,76,,186406,-10529.0,1329522,7645,24538605,Kunwarr,Piche Tere (w/ Dishant)
+166,+16,"Sachin-Jigar - Tum Se (From ""Teri Baaton Mein Aisa Uljha Jiya"") (w/ Raghav Chaitanya, Varun Jain, Indraneel)",811,9,,185558,-2160.0,1313787,185558,264113207,Sachin-Jigar,"Tum Se (From ""Teri Baaton Mein Aisa Uljha Jiya"") (w/ Raghav Chaitanya, Varun Jain, Indraneel)"
+167,+2,"Vishal-Shekhar - Bin Tere (w/ Shafqat Amanat Ali, Sunidhi Chauhan)",178,82,,184787,-8144.0,1116959,11261,37008427,Vishal-Shekhar,"Bin Tere (w/ Shafqat Amanat Ali, Sunidhi Chauhan)"
+168,+28,"Sai Abhyankkar - Verappa - Extended (w/ Arivu, Arun Srinivasan)",2,168,,184058,1521.0,366595,184058,366595,Sai Abhyankkar,"Verappa - Extended (w/ Arivu, Arun Srinivasan)"
+169,RE,"Atif Aslam - O Saathi (w/ Arko, Tiger Shroff, Disha Patani, Randeep Hooda, Manoj Bajpayee, Prateik Babbar)",1324,21,,183849,,183849,183849,218882679,Atif Aslam,"O Saathi (w/ Arko, Tiger Shroff, Disha Patani, Randeep Hooda, Manoj Bajpayee, Prateik Babbar)"
+170,-4,Mansheel Gujral - Channa Ve (w/ Akhil Sachdeva),637,30,,183604,-10532.0,1111324,3855,124455599,Mansheel Gujral,Channa Ve (w/ Akhil Sachdeva)
+171,+24,"Sachin-Jigar - Pardesiya (w/ Sonu Nigam, Krishnakali Saha, Amitabh Bhattacharya)",281,4,,183495,917.0,1085300,7322,101260433,Sachin-Jigar,"Pardesiya (w/ Sonu Nigam, Krishnakali Saha, Amitabh Bhattacharya)"
+172,-13,"Sooraj Santhosh - Neelothi (From ""Sirai"") (w/ Chinmayi, Justin Prabhakaran, Sarathi)",101,65,,182803,-12959.0,1105955,182803,23978372,Sooraj Santhosh,"Neelothi (From ""Sirai"") (w/ Chinmayi, Justin Prabhakaran, Sarathi)"
+173,-2,Udit Narayan - Jugraafiya (w/ Shreya Ghoshal),359,15,,182697,-8809.0,1297270,7333,61603033,Udit Narayan,Jugraafiya (w/ Shreya Ghoshal)
+174,+26,Jubin Nautiyal - Humnava Mere (w/ Rocky - Shiv),951,52,,182299,508.0,1105216,182299,117658730,Jubin Nautiyal,Humnava Mere (w/ Rocky - Shiv)
+175,+8,"Anurag Saikia - Ishq Hai (w/ Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast)",519,1,(x34),181196,-6316.0,1343279,-11175,234052924,Anurag Saikia,"Ishq Hai (w/ Raj Shekhar, Romy, Amarabha Banerjee, Varun Jain, Madhubanti Bagchi, Mismatched - Cast)"
+176,+13,Javed Ali - Deewana Kar Raha Hai,256,59,,180904,-4928.0,548678,180904,53801387,Javed Ali,Deewana Kar Raha Hai
+177,+7,BTS - SWIM,58,10,,180896,-6592.0,1296798,2104,16504953,BTS,SWIM
+178,-6,Rito Riba - Meri Banogi Kya (w/ Rajat Nagpal),48,126,,180476,-10782.0,1286473,8948,9489611,Rito Riba,Meri Banogi Kya (w/ Rajat Nagpal)
+179,+8,Dhanda Nyoliwala - BLACK RIDE (w/ Hammy Muzic),216,61,,179608,-6913.0,1103964,-2962,55972494,Dhanda Nyoliwala,BLACK RIDE (w/ Hammy Muzic)
+180,-3,Pritam - Hawayein (w/ Arijit Singh),1593,45,,179432,-9531.0,898885,179432,246336401,Pritam,Hawayein (w/ Arijit Singh)
+181,-16,"Anirudh Ravichander - Thalapathy Kacheri (From ""Jana Nayagan"") (w/ Thalapathy Vijay, Arivu)",84,52,,179200,-15072.0,906221,-6596,21540777,Anirudh Ravichander,"Thalapathy Kacheri (From ""Jana Nayagan"") (w/ Thalapathy Vijay, Arivu)"
+182,-4,Aparshakti Khurana - Zaroor (w/ Savi Kahlon),546,13,,179015,-9668.0,551532,179015,135555496,Aparshakti Khurana,Zaroor (w/ Savi Kahlon)
+183,+14,"Vishal-Shekhar - Bulleya (w/ Papon, Irshad Kamil)",439,25,,178372,-3932.0,1330055,-9902,109338015,Vishal-Shekhar,"Bulleya (w/ Papon, Irshad Kamil)"
+184,-10,Mohammed Irfan - Banjaara,20,107,,177849,-12799.0,1317839,-15560,4039233,Mohammed Irfan,Banjaara
+185,+1,"Pritam - Kabira (w/ Tochi Raina, Rekha Bhardwaj)",2381,30,,177711,-9499.0,744780,177711,351539212,Pritam,"Kabira (w/ Tochi Raina, Rekha Bhardwaj)"
+186,-6,"Hunny - Tu Hain Toh (From ""Mr. And Mrs. Mahi"") (w/ Bunny, Sagar)",439,8,,177542,-10316.0,1318823,177542,109745234,Hunny,"Tu Hain Toh (From ""Mr. And Mrs. Mahi"") (w/ Bunny, Sagar)"
+187,-11,Tame Impala - Dracula - JENNIE Remix (w/ JENNIE),56,64,,176591,-13013.0,1110630,-21873,14042397,Tame Impala,Dracula - JENNIE Remix (w/ JENNIE)
+188,-7,"Shankar-Ehsaan-Loy - O Rangrez (w/ Shreya Ghoshal, Javed Bashir, Yusuf Mohammed, Vajid Ali)",485,39,,176251,-11560.0,733792,176251,114612127,Shankar-Ehsaan-Loy,"O Rangrez (w/ Shreya Ghoshal, Javed Bashir, Yusuf Mohammed, Vajid Ali)"
+189,-4,Glass Animals - Heat Waves,907,3,(x5),176003,-11360.0,728326,176003,202278265,Glass Animals,Heat Waves
+190,RE,Abhijeet - Dil Kaa Jo Haal Hai (w/ Shreya Ghoshal),266,36,,175693,,1116965,-18266,70604292,Abhijeet,Dil Kaa Jo Haal Hai (w/ Shreya Ghoshal)
+191,-35,Karan Aujla - Winning Speech (w/ Mxrci),729,6,,175476,-21824.0,1300514,-604,226093499,Karan Aujla,Winning Speech (w/ Mxrci)
+192,-29,Josh Brar - Tere Bina Na Guzara E,540,16,,175429,-19835.0,1132231,-30868,132102747,Josh Brar,Tere Bina Na Guzara E
+193,-3,"Masoom Sharma - Chambal K Dakku (w/ Rahul Muana, Swara Verma, Ruba Khan)",408,19,,175409,-9537.0,894672,-4931,102218836,Masoom Sharma,"Chambal K Dakku (w/ Rahul Muana, Swara Verma, Ruba Khan)"
+194,+4,"Pritam - Ae Dil Hai Mushkil Title Track (From ""Ae Dil Hai Mushkil"") (w/ Arijit Singh)",2257,56,,175314,-6856.0,718703,175314,303374546,Pritam,"Ae Dil Hai Mushkil Title Track (From ""Ae Dil Hai Mushkil"") (w/ Arijit Singh)"
+195,-46,"Shankar-Ehsaan-Loy - Mitwa (w/ Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali)",636,48,,175190,-25538.0,1320293,-10336,150665997,Shankar-Ehsaan-Loy,"Mitwa (w/ Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali)"
+196,-21,Neeti Mohan - Kithe Reh Gaya (w/ Abhijit Vaghani),110,38,,175183,-15280.0,1123251,-10784,33278425,Neeti Mohan,Kithe Reh Gaya (w/ Abhijit Vaghani)
+197,RE,"Sachin-Jigar - Aaj Ki Raat (From ""Stree 2"") (w/ Madhubanti Bagchi, Divya Kumar, Amitabh Bhattacharya)",596,1,(x28),174900,,174900,174900,269881175,Sachin-Jigar,"Aaj Ki Raat (From ""Stree 2"") (w/ Madhubanti Bagchi, Divya Kumar, Amitabh Bhattacharya)"
+198,-7,Maan Panu - I'M Done,201,5,,174319,-10109.0,905644,52,70932274,Maan Panu,I'M Done
+199,RE,"Arijit Singh - Kabhi Jo Baadal Barse (From ""Jackpot)",69,141,,173548,,710344,-6215,13968610,Arijit Singh,"Kabhi Jo Baadal Barse (From ""Jackpot)"
+200,RE,Yo Yo Honey Singh - Love Dose,538,27,,173502,,345885,173502,117958984,Yo Yo Honey Singh,Love Dose

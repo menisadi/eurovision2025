@@ -98,7 +98,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--chart-dir", required=True, help="Folder containing chart CSVs")
     parser.add_argument("--suffix", required=True, help="Suffix for output filenames (e.g. 2026)")
-    parser.add_argument("--results", default="tables/results.csv", help="Results CSV (default: tables/results.csv)")
+    parser.add_argument("--results", default="tables/2026/results.csv", help="Results CSV (default: tables/2026/results.csv)")
     parser.add_argument("--plots-dir", default="plots", help="Output folder for PNGs (default: plots)")
     args = parser.parse_args()
 
