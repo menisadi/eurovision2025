@@ -94,6 +94,44 @@ def save_eurovibe(cross_table, plots_dir, suffix):
     print(f"Saved eurovibe_bars_{suffix}.png")
 
 
+def save_eurovibe_map(cross_table, plots_dir, suffix):
+    import geopandas as gpd
+    import cartopy.io.shapereader as shpreader
+    import json
+
+    scores = cross_table.notna().sum(axis=1)
+
+    # Invert mapping.json to get {country_name: iso_a2}
+    with open("mapping.json", encoding="utf-8") as f:
+        iso_to_name = json.load(f)
+    name_to_iso = {v: k.upper() for k, v in iso_to_name.items()}
+
+    scores_df = scores.rename_axis("name").reset_index(name="score")
+    scores_df["ISO_A2"] = scores_df["name"].map(name_to_iso)
+
+    shpfile = shpreader.natural_earth(resolution="110m", category="cultural", name="admin_0_countries")
+    world = gpd.read_file(shpfile)
+    world = world.merge(scores_df[["ISO_A2", "score"]], left_on="ISO_A2_EH", right_on="ISO_A2", how="left")
+
+    fig, ax = plt.subplots(figsize=(10, 8))
+    world.cx[-25:45, 34:72].plot(
+        column="score",
+        cmap="YlOrRd",
+        legend=True,
+        legend_kwds={"label": "Eurovibe score", "shrink": 0.6},
+        missing_kwds={"color": "lightgrey", "label": "No data"},
+        ax=ax,
+    )
+    ax.set_xlim(-25, 45)
+    ax.set_ylim(34, 72)
+    ax.set_title("Eurovibe: finalist songs charted per country")
+    ax.axis("off")
+    plt.tight_layout()
+    plt.savefig(plots_dir / f"eurovibe_map_{suffix}.png", dpi=150)
+    plt.close()
+    print(f"Saved eurovibe_map_{suffix}.png")
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--chart-dir", required=True, help="Folder containing chart CSVs")
@@ -113,6 +151,7 @@ def main():
     save_vote_scatter(cross_table, results_file, plots_dir, args.suffix)
     save_bar_count(cross_table, plots_dir, args.suffix)
     save_eurovibe(cross_table, plots_dir, args.suffix)
+    save_eurovibe_map(cross_table, plots_dir, args.suffix)
 
 
 if __name__ == "__main__":
